@@ -1,0 +1,155 @@
+{
+  "number": 33,
+  "title": "Wer raubte das Millionenpferd?",
+  "description": "Ringo ist das wertvollste Pferd eines berühmten Pferdezüchters. Es erregt die Aufmerksamkeit eines arabischen Scheichs. Dieser will Ringo kaufen. Doch will der Züchter wirklich verkaufen? Und was plant der seltsame Beppo? Will er das Pferd stehlen? Die TKKG-Freunde schalten sich ein, und sie kommen einem geheimnisvollen Spiel auf die Spur. Es scheint, als sei Ringo plötzlich nur von Gaunern umgeben...",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2099,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Beppo Beinhardt",
+      "person": "Eckart Dux"
+    },
+    {
+      "role": "Farid",
+      "person": "Krystian Martinek"
+    },
+    {
+      "role": "Herr",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Graf von Pleich-Wonningen",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Verwalterin vom Gestüt",
+      "person": "Astrid Kollex"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Musik und Effekte",
+      "value": "Phil Moss"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein Pferdenarr im Grand-Hotel"
+    },
+    {
+      "position": 2,
+      "title": "Allahs Rache"
+    },
+    {
+      "position": 3,
+      "title": "Der große Preis der Stadt"
+    },
+    {
+      "position": 4,
+      "title": "Keilerei"
+    },
+    {
+      "position": 5,
+      "title": "Die Sache stinkt"
+    },
+    {
+      "position": 6,
+      "title": "Verlassener Bahnhof"
+    },
+    {
+      "position": 7,
+      "title": "Bitte nicht schießen"
+    },
+    {
+      "position": 8,
+      "title": "Testperson für Schokoladensuppe"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 2. Dezember 2004 (CD)",
+      "EAN": "743219899149 (MC) / 743219899125 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f33",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-033/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "number": 140,
+  "title": "Draculas Erben",
+  "description": "Draculas Erben - so nennen sie sich. Sie kommen vermutlich vom Balkan und sie kommen meistens nachts. Und machen Beute! Sie sind organisiert wie die Mafia - beispiellos hart! Wer sich ihnen in den Weg stellt, darf froh sein, wenn er überlebt. Auffällig: sie sind immer bestens informiert über die Objekte, die sie heimsuchen. Was hat Verena damit zu tun? Die junge Frau jobbt für eine Filmproduktion - in einem Beruf, den es gestern noch nicht gab. TKKG decken ein verbrecherisches Netzwerk auf und geraten in höchste Gefahr.",
+  "release_year": 2004,
+  "release_date": null,
+  "duration_seconds": 3065,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Verena Holik",
+      "person": "Stefanie Kirchberger"
+    },
+    {
+      "role": "Fritz Vonlipp",
+      "person": "Thomas Karallus"
+    },
+    {
+      "role": "Josip Zivinice",
+      "person": "Konstantin Graudus"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Deutschland GmbH Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2004 BMG Deutschland GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Kriminelle Vorgeschichte"
+    },
+    {
+      "position": 2,
+      "title": "Voll auf Hass"
+    },
+    {
+      "position": 3,
+      "title": "Einen Knasti interviewen"
+    },
+    {
+      "position": 4,
+      "title": "Futter für die Augen"
+    },
+    {
+      "position": 5,
+      "title": "Draculas Erben"
+    },
+    {
+      "position": 6,
+      "title": "Ein Toter kehrt zurück"
+    },
+    {
+      "position": 7,
+      "title": "Verenas Geständnis"
+    },
+    {
+      "position": 8,
+      "title": "Observierung bei Nacht"
+    },
+    {
+      "position": 9,
+      "title": "Schwarze Tränen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. Januar 2004",
+      "EAN": "828765731348 (MC) / 828765731324 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f140",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-140/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

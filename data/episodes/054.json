@@ -1,0 +1,163 @@
+{
+  "number": 54,
+  "title": "Alarm! Klößchen ist verschwunden",
+  "description": "Pech für Klößchen: er überrascht zwei Diebe im Haus seiner Eltern - und wird entführt! Doch die beiden Täter haben ein Problem: Klößchen hat sie erkannt. Nun ist guter Rat teuer! Die Polizei und Klößchens Freunde Tim, Karl und Gaby suchen nach dem Entführten und erleben eine böse Überraschung!",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2577,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hortensen",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Baldur Schmerl",
+      "person": "Gerd Baltus"
+    },
+    {
+      "role": "Oswald Biezich",
+      "person": "Norbert Langer"
+    },
+    {
+      "role": "Monique van Dorten",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Ursula von Bose"
+    },
+    {
+      "role": "Nadine Schulz",
+      "person": "Ursela Monn"
+    },
+    {
+      "role": "Andreas Mätten",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Hennig Fühme",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Jörg Fühme",
+      "person": "Alfred Rücker"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Entführt!"
+    },
+    {
+      "position": 2,
+      "title": "Eine richtige Geistesleuchte"
+    },
+    {
+      "position": 3,
+      "title": "Üble Nachrede"
+    },
+    {
+      "position": 4,
+      "title": "Einsam wie auf dem Mond"
+    },
+    {
+      "position": 5,
+      "title": "Versicherungsschaden"
+    },
+    {
+      "position": 6,
+      "title": "Kein Orientierungssinn"
+    },
+    {
+      "position": 7,
+      "title": "Hieb- und stichfestes Alibi"
+    },
+    {
+      "position": 8,
+      "title": "Instinkt-Muffel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 10. Februar 2006 (CD)",
+      "EAN": "743219901248 (MC) / 743219901224 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f54",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-054/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

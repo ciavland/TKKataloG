@@ -1,0 +1,195 @@
+{
+  "number": 193,
+  "title": "Das Weihnachts-Phantom",
+  "description": "Zwei Tage vor Weihnachten in der Millionenstadt. Während die Menschen eilig die letzten Geschenke besorgen, stiehlt ein Mann eine ganze Kleiderstange Winterjacken der Nobelklasse. Unerkannt hinterlässt er eine rätselhafte Botschaft. Am selben Tag stiehlt er einem Millionär seinen Cadillac. Wieder hinterlässt er eine Botschaft. Für TKKG beginnt ein Katz-und-Maus-Spiel. Dem Unbekannten scheint die Verfolgung großes Vergnügen zu bereiten. Was führt er im Schilde? Können Tim, Karl, Gaby und Klößchen das Weihnachts-Phantom schnappen?",
+  "release_year": 2015,
+  "release_date": null,
+  "duration_seconds": 4008,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Hans Küppers",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Poerschke",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Bernd Bröting",
+      "person": "Michael Grimm"
+    },
+    {
+      "role": "Hector Lees",
+      "person": "Martin May"
+    },
+    {
+      "role": "Jens Eilig",
+      "person": "Jörg Boecker"
+    },
+    {
+      "role": "Mann",
+      "person": "Gerd Baltus"
+    },
+    {
+      "role": "Horvath",
+      "person": "Gordon Piedesack"
+    },
+    {
+      "role": "Ein Junge",
+      "person": "Louis Körting"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller und Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B - The Kids Group"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Weihnachtsplätzchen auf den Augen"
+    },
+    {
+      "position": 2,
+      "title": "Der Räuber mit dem Leberfleck"
+    },
+    {
+      "position": 3,
+      "title": "Zurück unter die S-Bahn-Brücke"
+    },
+    {
+      "position": 4,
+      "title": "Bevor die Sache Wellen schlägt"
+    },
+    {
+      "position": 5,
+      "title": "Der falsche Priester"
+    },
+    {
+      "position": 6,
+      "title": "Verfolgung mit Hindernissen"
+    },
+    {
+      "position": 7,
+      "title": "Unter Beschuss"
+    },
+    {
+      "position": 8,
+      "title": "Stelldichein mit einem Verbrecher"
+    },
+    {
+      "position": 9,
+      "title": "Düstere Prognosen"
+    },
+    {
+      "position": 10,
+      "title": "TKKG schlagen zu"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "25. September 2015",
+      "EAN": "888750782526"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f193",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-193/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "number": 243,
+  "title": "Die Fährte des Hehlers",
+  "description": "Durch einen Fahrradunfall kommen Klößchen und seine Freunde Tim, Karl und Gaby auf die Spur eines raffinierten Einbrechers, der bei Frau Weisbrod einen für sie wichtigen Armreif gestohlen hat. Die Polizei ist im Moment mit Einbrüchen und Diebstählen stark überfordert und so beschließen TKKG, den Fall selbst zu lösen. Als sie den Armreif auf einer Kleinanzeigenseite im Internet finden, wird ihnen klar, dass sie nicht nur einen Einbrecher, sondern einen geheimnisvollen Hehler suchen. Er macht es Gaunern leicht, gestohlene Ware einfach loszuwerden und wird deshalb „easy X“ genannt. TKKG nehmen die Fährte von „easy X“ auf und merken nicht, dass dieser den Spieß längst umgedreht hat …",
+  "release_year": 2026,
+  "release_date": "2026-09-11",
+  "duration_seconds": 3854,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Anita Weisbrod",
+      "person": "Anja Topf"
+    },
+    {
+      "role": "Daphne Bleibtreu",
+      "person": "Anne Moll"
+    },
+    {
+      "role": "Dr. Lore Loewenheim",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Guido Geier",
+      "person": "Patrick Berg"
+    },
+    {
+      "role": "Jürgen Heimlich",
+      "person": "Jan Sosniok"
+    },
+    {
+      "role": "Juliane Beckmeyer",
+      "person": "Heidrun von Goessel"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Lea Recknagel",
+      "person": "Leonie Landa"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Renate Tauschinsky",
+      "person": "Eva Mayer"
+    },
+    {
+      "role": "Sören Finger",
+      "person": "Tobias Schmitz"
+    },
+    {
+      "role": "Tamina Salah",
+      "person": "Henrike Fehrs"
+    },
+    {
+      "role": "Tobias Nesselmüller",
+      "person": "Julian Greis"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger, Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2026 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/die-fahrte-des-hehlers",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f243",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

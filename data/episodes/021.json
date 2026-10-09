@@ -1,0 +1,195 @@
+{
+  "number": 21,
+  "title": "Die Rache des Bombenlegers",
+  "description": "Rätselhafte Bombenanschläge versetzen die Stadt in Angst und Schrecken. Der Attentäter scheut sogar vor einem Anschlag auf das Eigentum von Kommisar Glockner nicht zurück! Ist der Täter ein Wahnsinniger? Oder stecken die Mittagstäter hinter den Bombenanschlägen? DIe TKKG-Bande läßt sich auch von Bomben nicht schrecken. Sie nimmt die Spur auf.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2769,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Elly Burkert",
+      "person": "Brigitte Kollecker"
+    },
+    {
+      "role": "Adolf Burkert",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Fahrradhändler",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Mathematiklehrer Neubert",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Angler",
+      "person": "Jörg Pleva"
+    },
+    {
+      "role": "Paul Riebesiel",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Eduard von Simböck",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Richard Gartz",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Direktor Dr. Freund",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Matthias",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Frau Glockner",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Kunde im Fahrradladen",
+      "person": "Jörg Gillner"
+    },
+    {
+      "role": "Siggi John",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Zoohandlungsverkäufer",
+      "person": "Jörg Gillner"
+    },
+    {
+      "role": "Kundin im Fahrradgeschäft",
+      "person": "Carin Abicht"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Justizirrtum"
+    },
+    {
+      "position": 2,
+      "title": "Bombenanschlag"
+    },
+    {
+      "position": 3,
+      "title": "Blinder Alarm"
+    },
+    {
+      "position": 4,
+      "title": "Mittagsräuber"
+    },
+    {
+      "position": 5,
+      "title": "Umweltverschmutzung"
+    },
+    {
+      "position": 6,
+      "title": "Pit, der Affe"
+    },
+    {
+      "position": 7,
+      "title": "Lorchen gibt Küsschen"
+    },
+    {
+      "position": 8,
+      "title": "Explosion"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 5. April 2004 (CD)",
+      "EAN": "743219897947 (MC) / 743219897923 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f21",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-021/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

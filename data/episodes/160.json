@@ -1,0 +1,159 @@
+{
+  "number": 160,
+  "title": "Das Grauen naht um Zwölf",
+  "description": "TKKG können ihr Glück nicht fassen! Gaby hat bei einem Halloween-Kostüm-Entwurf-Wettbewerb den ersten Preis gewonnen und darf mit ihren drei besten Freunden an einer Wochenendtour auf dem Luxus-Liner 'Lucifer' teilzunehmen. Schon nach kurzer Zeit ereignen sich auf dem Traumschiff unheimliche Dinge: Eine Geisterscheinung sorgt für Unruhe, ein Gast löst sich scheinbar in Luft auf und kehrt nicht mehr zurück... Als genau um Mitternacht eine Frau über Bord stürzt, bereitet sich Panik unter den Gästen aus. Tim glaubt nicht mehr an einen harmlosen Halloween-Spuk. Gemeinsam mit Karl, Gaby und Klößchen verfolgt er die Spur eines teuflischen Plans.",
+  "release_year": 2008,
+  "release_date": null,
+  "duration_seconds": 2590,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Sabine Kuhlenberg",
+      "person": "Anja Nejarri"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Christopher",
+      "person": "Lutz Herkenrath"
+    },
+    {
+      "role": "Frankenstein",
+      "person": "Jacob Weigert"
+    },
+    {
+      "role": "Stewart",
+      "person": "Roy Martens"
+    },
+    {
+      "role": "Rezeption",
+      "person": "Lena Vogt"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "André Minninger - nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2008 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der erste Preis"
+    },
+    {
+      "position": 2,
+      "title": "Begegnung mit Doktor Frankenstein"
+    },
+    {
+      "position": 3,
+      "title": "Dunkle Wolken"
+    },
+    {
+      "position": 4,
+      "title": "Nebel"
+    },
+    {
+      "position": 5,
+      "title": "Spukt es?"
+    },
+    {
+      "position": 6,
+      "title": "Das pure Entsetzen"
+    },
+    {
+      "position": 7,
+      "title": "Böses Erwachen"
+    },
+    {
+      "position": 8,
+      "title": "Kunstliebhaber"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "26. September 2008",
+      "EAN": "886972905747 (MC) / 886972905723 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f160",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-160/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

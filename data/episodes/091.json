@@ -1,0 +1,147 @@
+{
+  "number": 91,
+  "title": "Crash-Kids riskieren ihr Leben",
+  "description": "In der TKKG-Stadt wird das Verhalten der Crash-Kids zur Seuche. Jugendliche Täter stehlen Autos und fahren sie zu Schrott. Crash-Duelle finden statt, wobei die Wagen gegeneinander rasen. Idiotische Mutproben! Heller Wahnsinn! Der Fahrer, der zuletzt herausspringt, hat gewonnen. Auffällig ist, dass fast nur die Wagen der neuen Automarke RASANTO gestohlen werden. Was steckt dahinter? - Ein atemberaubender Fall für TKKG.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 2281,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Henry Wamme",
+      "person": "Till Endemann"
+    },
+    {
+      "role": "Benni Schnödel",
+      "person": "Gosta Liptow"
+    },
+    {
+      "role": "Sascha",
+      "person": "Tobias Pauls"
+    },
+    {
+      "role": "Helga Zweiklein",
+      "person": "Sandra Kelian"
+    },
+    {
+      "role": "Waldemar Bleifuß",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Jochen Rundschrey",
+      "person": "Thomas Stein"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Hella von der Osten"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1995 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Crash bei Vollmond"
+    },
+    {
+      "position": 2,
+      "title": "Gefährliche Mutprobe"
+    },
+    {
+      "position": 3,
+      "title": "Infos am handy"
+    },
+    {
+      "position": 4,
+      "title": "Punk mit Problemen 5 - Disco Time"
+    },
+    {
+      "position": 5,
+      "title": "Rasanto in der Tiefgarage"
+    },
+    {
+      "position": 6,
+      "title": "Organist als Zeuge"
+    },
+    {
+      "position": 7,
+      "title": "Bruchlandung"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "29. Mai 1995",
+      "EAN": "743212774047 (MC) / 743212774023 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f91",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-091/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "number": 174,
+  "title": "Doppelgänger auf der Rennbahn",
+  "description": "Alarm! 'Vivaldi' - das erfolgreiche Rennpferd wurde auf dem Fasanenhof klammheimlich gegen einen Doppelgänger ausgetauscht. TKKG wittern einen neuen Fall und stürzen sich in die Ermittlungen. Doch wer spielt hier falsch? Als sich ein stummer Zeuge meldet, wird den vier Detektiven klar, dass hier eine ganz üble Sache am Kochen ist. Doch wie ist den Übeltätern beizukommen? Tim bereitet eine raffinierte Falle vor; aber werden die Verbrecher auch hineintappen?",
+  "release_year": 2011,
+  "release_date": null,
+  "duration_seconds": 3481,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Heino Schnuller",
+      "person": "Krystian Martinek"
+    },
+    {
+      "role": "Ulrich Rösner",
+      "person": "Tim Grobe"
+    },
+    {
+      "role": "Brigitte Palmer",
+      "person": "Regina Lemnitz"
+    },
+    {
+      "role": "Ingeborg",
+      "person": "Anja Topf"
+    },
+    {
+      "role": "Kati",
+      "person": "Carolin von der Groeben"
+    },
+    {
+      "role": "Ludger Schulze, Katis Vater",
+      "person": "Stephan Schleberger"
+    },
+    {
+      "role": "Rennbahn-Sprecher",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Hieronymus Kamm",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Mann",
+      "person": "Peter Lontzek"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Hörspielbearbeitung und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion und Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mangelnde Schulbildung"
+    },
+    {
+      "position": 2,
+      "title": "Glatter Sieg!"
+    },
+    {
+      "position": 3,
+      "title": "Vollbremsung"
+    },
+    {
+      "position": 4,
+      "title": "Hundert Prozent"
+    },
+    {
+      "position": 5,
+      "title": "Ausgetauscht!"
+    },
+    {
+      "position": 6,
+      "title": "Tag der offenen Tür"
+    },
+    {
+      "position": 7,
+      "title": "Vierbeiniger Wischmopp"
+    },
+    {
+      "position": 8,
+      "title": "Versicherungsprämie"
+    },
+    {
+      "position": 9,
+      "title": "Rote Strähnchen"
+    },
+    {
+      "position": 10,
+      "title": "Daneben getippt!"
+    },
+    {
+      "position": 11,
+      "title": "Hereingelegt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "23. September 2011",
+      "EAN": "886979032743 (MC) / 886979032729 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f174",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-174/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

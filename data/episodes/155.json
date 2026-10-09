@@ -1,0 +1,151 @@
+{
+  "number": 155,
+  "title": "Gefangen im Spukhaus",
+  "description": "Die Flucht vor einem gefährlichen Königstiger treibt TKKG in ein einsam gelegenes Blockhaus im unheimlichen Schauerwald. In dieser Notunterkunft machen die vier Freunde nicht nur die Bekanntschaft eines gruseligen Skeletts und eines sprechenden Affen - ihnen begegnet auch ein bizarres Gaunerpärchen. Und während draußen der Tiger Sultan hungrig auf seine Beute lauert, werden Tim, Karl, Klößchen und Gaby in der Hütte von einem Bankräuber auf der Flucht bedroht...",
+  "release_year": 2007,
+  "release_date": null,
+  "duration_seconds": 2770,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Bankräuber Paul",
+      "person": "Rainer Brandt"
+    },
+    {
+      "role": "Komplizin Helga",
+      "person": "Ursula Heyer"
+    },
+    {
+      "role": "Komplize Erwin",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Radio Moderator",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting ·"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Basierend auf dem gleichnamigen Bühnenstück von Stefan Wolf in einer Bearbeitung von Uwe Vogel"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher ·"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2007 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein Tiger!"
+    },
+    {
+      "position": 2,
+      "title": "Rettender Hechtsprung"
+    },
+    {
+      "position": 3,
+      "title": "Der Teufel persönlich"
+    },
+    {
+      "position": 4,
+      "title": "Heimliches Nachtmahl"
+    },
+    {
+      "position": 5,
+      "title": "Hände hoch!"
+    },
+    {
+      "position": 6,
+      "title": "Umtauschaktion"
+    },
+    {
+      "position": 7,
+      "title": "Ein Skelett!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. August 2007",
+      "EAN": "886971152241 (MC) / 886971152227 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f155",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-155/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

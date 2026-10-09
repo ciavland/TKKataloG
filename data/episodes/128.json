@@ -1,0 +1,163 @@
+{
+  "number": 128,
+  "title": "Die Gehilfen des Terrors",
+  "description": "Die Poseidon-Villa aus dem Jahre 1899 ist sehr groß und wurde vor langer Zeit in 14 Wohnungen aufgeteilt. Dort leben jetzt bescheidene Leute, ehrbare Leute. Plötzlich sind sie dem blanken Terror ausgesetzt. Denn die Villa hat einen neuen Besitzer: einen Baulöwen und sogenannten Luxussanierer. Er will die Mieter rauszuekeln, um die Wohnungen dann zu modernisieren und mit Riesengewinn zu verkaufen. Für die brutale Vertreibung ist ihm jedes Mittel recht. TKKG können das in ihrer Stadt natürlich nicht zulassen.",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 2889,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Heinz Birkl",
+      "person": "Holger Potzern"
+    },
+    {
+      "role": "Malco Miller",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Claudia Rödelhof",
+      "person": "Reinhilt Schneider"
+    },
+    {
+      "role": "Anna Rödelhof",
+      "person": "Florentine Draeger"
+    },
+    {
+      "role": "Kuno Lettich",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Joe Reuter",
+      "person": "Erik Schäffler"
+    },
+    {
+      "role": "Wilhelm Nahgast",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Ältere Frau",
+      "person": "Karin Lieneweg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH & Co. KG"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2001 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Typ mit dem Messer"
+    },
+    {
+      "position": 2,
+      "title": "Brutale Methoden"
+    },
+    {
+      "position": 3,
+      "title": "Anschlag mit dem Blumentopf"
+    },
+    {
+      "position": 4,
+      "title": "Heiße Infos"
+    },
+    {
+      "position": 5,
+      "title": "Claudia und Anne"
+    },
+    {
+      "position": 6,
+      "title": "Ein teuflischer Plan"
+    },
+    {
+      "position": 7,
+      "title": "Gaby in tödlicher Gefahr"
+    },
+    {
+      "position": 8,
+      "title": "Malcos Rettung"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. September 2001",
+      "EAN": "743218552144 (MC) / 743218552120 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f128",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-128/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

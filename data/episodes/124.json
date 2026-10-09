@@ -1,0 +1,163 @@
+{
+  "number": 124,
+  "title": "Vergebliche Suche nach Gaby",
+  "description": "Als Gaby auf der unbelebten Straße zwischen Zoo und Stadtwald zu Claudias Party radelt, wird sie von einem mächtigen Braunbären angegeriffen, der aus dem Zoo entwichen ist. In letzter Sekunde kann sie sich in ein kleines Haus retten - nicht ahnend, in welches Verhängnis sich sich damit begibt. Denn dort haust ein Schwerverbrecher. Voller Angst stürmt Gaby zu ihm hinein und - wird damit Zeugin seiner Tat. Fortan bleibt Gaby verschwunden. Tim, Karl und Klößchen suchen fieberhaft, müssen aber das Schlimmste befürchten.",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 2733,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Bruno Otterfeindt",
+      "person": "Erik Schäffler"
+    },
+    {
+      "role": "Siegfried Otterfeint",
+      "person": "Frank Schröder"
+    },
+    {
+      "role": "Claude Bristol",
+      "person": "Philip Constantin"
+    },
+    {
+      "role": "Claudia Brings",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Eva Liebmann",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Gundula",
+      "person": "Céline Fontanges"
+    },
+    {
+      "role": "Polizist Rottmann",
+      "person": "Wolf Frass"
+    },
+    {
+      "role": "Hubschrauber-Pilot",
+      "person": "Tilmann Madaus"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH & Co. KG"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2001 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gaby in höchster Gefahr"
+    },
+    {
+      "position": 2,
+      "title": "Hallo! Wo bist du?"
+    },
+    {
+      "position": 3,
+      "title": "Spinner speisen Bärenschinken"
+    },
+    {
+      "position": 4,
+      "title": "Meister Petz greift an"
+    },
+    {
+      "position": 5,
+      "title": "Wegschleichen zur nuen Spur"
+    },
+    {
+      "position": 6,
+      "title": "Nur noch eine Halbe Stunde"
+    },
+    {
+      "position": 7,
+      "title": "Ein verdächtiger Sarg"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "22. Januar 2001",
+      "EAN": "743218229541 (MC) / 743218229527 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f124",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-124/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

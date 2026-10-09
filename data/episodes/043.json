@@ -1,0 +1,171 @@
+{
+  "number": 43,
+  "title": "Gefangen in der Schreckenskammer",
+  "description": "Es trifft die TKKG-Freunde wie ein Schock - Gaby ist verschwunden! Wer steckt dahinter? Haben die Horror-Mönche damit etwas zu tun? Wer steckt überhaupt hinter diesem Namen? Tim, Karl und Klößchen wollen alles über die Horror-Mönche wissen - und erleben eine Überraschung nach der anderen, denn sie haben es mit Leuten zu tun, die eine \"Macke\" haben.",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 2841,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Horst Obermeier",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Hasso Feindt",
+      "person": "Christian Stark"
+    },
+    {
+      "role": "Ottmar Tickel",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Dr. Hartwig Hartholz",
+      "person": "Günter König"
+    },
+    {
+      "role": "Kleinschmidt",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Theo Lambster",
+      "person": "Michael Grimm"
+    },
+    {
+      "role": "Kriminalassistent Jansen",
+      "person": "Matthias Grimm"
+    },
+    {
+      "role": "Wachmann Argus",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Angelika Schmählich",
+      "person": "Ingrid Resch"
+    },
+    {
+      "role": "Natascha Senf",
+      "person": "Katrin Jaekel"
+    },
+    {
+      "role": "Frau Senf",
+      "person": "Ingrid Resch"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Im Reich der Horror-Mönche"
+    },
+    {
+      "position": 2,
+      "title": "Wo ist Gaby?"
+    },
+    {
+      "position": 3,
+      "title": "Psychologisches Gutachten"
+    },
+    {
+      "position": 4,
+      "title": "Schweigepflicht"
+    },
+    {
+      "position": 5,
+      "title": "Total übergeschnappt"
+    },
+    {
+      "position": 6,
+      "title": "Geklaute Kartei"
+    },
+    {
+      "position": 7,
+      "title": "Voller Hass"
+    },
+    {
+      "position": 8,
+      "title": "Im Gespensterhaus"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1986 (MC) / 8. August 2005 (CD)",
+      "EAN": "743219900142 (MC) / 743219900128 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f43",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-043/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

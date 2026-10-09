@@ -1,0 +1,203 @@
+{
+  "number": 89,
+  "title": "Feind aus der Vergangenheit",
+  "description": "Tims Mutter, Susanne Carsten, beobachtet einen Bankräuber, der bei seinem Überfall einen Kunden schwer verletzt hat. Als einzige Augenzeugin kann sie den Unbekannten genau beschreiben, und in der Zeitung erscheint daraufhin ein Phantombild. Verhängnisvoll für Susanne, denn der Verbrecher begegnet ihr ein zweites Mal. So beginnt ein atemberaubender Fall für TKKG, der hineinführt in das weitgespannte Netz von Terroristen.",
+  "release_year": 1994,
+  "release_date": null,
+  "duration_seconds": 3006,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Karin Meihäusler",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Lothar Korf",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Henry Spähtvolger",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Norbert Trensl",
+      "person": "Frank Thomé"
+    },
+    {
+      "role": "Karl-Erich Flühm",
+      "person": "Thomas Stein"
+    },
+    {
+      "role": "Martin Casseur",
+      "person": "Stefan Aurel Schlabritz"
+    },
+    {
+      "role": "Leo Blatzer",
+      "person": "Frank Meyer-Brockmann"
+    },
+    {
+      "role": "Valeska Trinitano",
+      "person": "Nina Minninger"
+    },
+    {
+      "role": "Dr. Jan Niedermann",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Fini Niedermann",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Dieter Meier-Micksner",
+      "person": "Hans Sievers"
+    },
+    {
+      "role": "Claudia Meier-Micksner",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Inspektor Havliczek",
+      "person": "Klaus-Peter Kaehler"
+    },
+    {
+      "role": "Frau Becker",
+      "person": "Barbara Ratthay"
+    },
+    {
+      "role": "Gert Haruschner",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Bankkunde",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Polizist Möllner",
+      "person": "Jens Wawrczeck"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch und Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1994 by Pelikan AG, D-30177 Hannover"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Tims Mutter ist Zeugin"
+    },
+    {
+      "position": 2,
+      "title": "Paßfotos"
+    },
+    {
+      "position": 3,
+      "title": "Entführt am hellichten Tag"
+    },
+    {
+      "position": 4,
+      "title": "Giftschlange im Sweatshirt"
+    },
+    {
+      "position": 5,
+      "title": "Neue Action"
+    },
+    {
+      "position": 6,
+      "title": "Ausgeraubter Geldtransporter"
+    },
+    {
+      "position": 7,
+      "title": "Bombe im Auto"
+    },
+    {
+      "position": 8,
+      "title": "Neros Stimme"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "29. Mai 1995",
+      "EAN": "743212219548 (MC) / 743212219524 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f89",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-089/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

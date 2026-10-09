@@ -1,0 +1,131 @@
+{
+  "number": 230,
+  "title": "Die Tesla-Verschwörung",
+  "description": "Nach einer Vorlesung an der Universität wartet Karl auf seinen Vater und wärmt sich so lange in der leeren Universitätsbibliothek auf, als er Zeuge eines Anschlags wird: Ein Mann mit Totenkopfmaske versetzt einem Studenten einen brutalen Fausthieb und flüchtet. Tim, Karl, Gaby und Klößchen schalten sich ein und bald wird klar, dass der Vorfall mit einer Erfindung der beiden Physikstudenten Paul Wenzel und Dominik Lechner zusammenhängt. Ihre bahnbrechende physikalische Versuchsanordnung könnte die Gesellschaft auf den Kopf stellen – was den Mächtigen natürlich gar nicht schmeckt. Leider geraten nun auch TKKG ins Visier der übermächtigen Gegner. Es gibt kein Zurück, TKKG müssen die Wahrheit ans Licht bringen, koste es, was es wolle!",
+  "release_year": 2024,
+  "release_date": "2024-01-19",
+  "duration_seconds": 3372,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Albert Vierstein",
+      "person": "Joachim Kretzer"
+    },
+    {
+      "role": "Bert",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Dominik Lechner",
+      "person": "Marko Schäffler"
+    },
+    {
+      "role": "Felix Schmelzer",
+      "person": "Marek Harloff"
+    },
+    {
+      "role": "Frau Bender",
+      "person": "Simona Pahl"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Lena Bachmann",
+      "person": "Nikola Schäffler"
+    },
+    {
+      "role": "Paul Wenzel",
+      "person": "Patrick Berg"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Professor Hicks",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch / Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2024 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/die-tesla-verschworung",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f230",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

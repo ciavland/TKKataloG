@@ -1,0 +1,151 @@
+{
+  "number": 206,
+  "title": "Achtung, UFO-Kult!",
+  "description": "Sommerbeginn in der Millionenstadt! Tim, Karl, Gaby und Klößchen wollen eigentlich nur ein Bad im Herbsteinsee genießen und später den Kometen Brinkovski-Krasnov durch Karls Teleskop bewundern. Aber es kommt ganz anders, denn auf dem Grundstück der Herbsteinvilla hat sich eine dubiose Glaubensgemeinschaft eingefunden und TKKG sammeln ein paar verstörende Hinweise. Als ein verängstigter Junge sie um Hilfe bittet und um Mitternacht ein Ufo landet, fallen TKKG beinahe vom Glauben ab…",
+  "release_year": 2018,
+  "release_date": "2018-07-06",
+  "duration_seconds": 3909,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Frau von Trültzsch",
+      "person": "Herma Koehn"
+    },
+    {
+      "role": "Moritz Balz",
+      "person": "Bruno Harder"
+    },
+    {
+      "role": "Theo Balz",
+      "person": "Joachim Kretzer"
+    },
+    {
+      "role": "Eckbert Setzpfand",
+      "person": "Daniel Welbat"
+    },
+    {
+      "role": "Henna Fado",
+      "person": "Dagmar Dreke"
+    },
+    {
+      "role": "Thomas Kruse",
+      "person": "André Beyer"
+    },
+    {
+      "role": "Frau Pfannmüller",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Kommissar Krause",
+      "person": "Constantin Stahlberg"
+    }
+  ],
+  "production": [],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "X/1983 VK"
+    },
+    {
+      "position": 2,
+      "title": "Saul und Rachel"
+    },
+    {
+      "position": 3,
+      "title": "Schräge Glaubensjünger"
+    },
+    {
+      "position": 4,
+      "title": "Die Fackeln rufen"
+    },
+    {
+      "position": 5,
+      "title": "UFO-Landung"
+    },
+    {
+      "position": 6,
+      "title": "Vermisst jemand 3,5 Millionen?"
+    },
+    {
+      "position": 7,
+      "title": "Nicht Oskar!"
+    },
+    {
+      "position": 8,
+      "title": "Wenn Schalavsky zwei Mal klingelt"
+    },
+    {
+      "position": 9,
+      "title": "Letzte Hoffnung"
+    },
+    {
+      "position": 10,
+      "title": "Die Macht in Klößchen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "6. Juli 2018",
+      "EAN": "190758226620"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/achtung-ufo-kult",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f206",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-206/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

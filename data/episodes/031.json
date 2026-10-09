@@ -1,0 +1,167 @@
+{
+  "number": 31,
+  "title": "Die Entführung in der Mondscheingasse",
+  "description": "Der Verbrecher Uckmann erhält den Auftrag, Kommissar Glockner zu töten. Er folgt diesem und der TKKG-Bande nach Österreich. Uckmann hat seinen Anschlag sorgfältig vorbereitet: Näher und näher kommt er seinem ahnungslosen Opfer...",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 2327,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Gus Uckmann",
+      "person": "Christian Rode"
+    },
+    {
+      "role": "Sophia Burropasti",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Xaver (Zinke-Schollau)",
+      "person": "Peer Schmidt"
+    },
+    {
+      "role": "Sofie (Zinke-Schollau)",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Herr Untermurglbacher",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Detlef Maisl",
+      "person": "Lothar Grützner"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Musik und Effekte",
+      "value": "Phil Moss"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Einschüchterung als Taktik"
+    },
+    {
+      "position": 2,
+      "title": "Handschriftenanalyse"
+    },
+    {
+      "position": 3,
+      "title": "Angriff auf Kommissar Glockner"
+    },
+    {
+      "position": 4,
+      "title": "Großangelegte Suchaktion"
+    },
+    {
+      "position": 5,
+      "title": "Millionenbeute"
+    },
+    {
+      "position": 6,
+      "title": "Auf der Lauer"
+    },
+    {
+      "position": 7,
+      "title": "Entführung in der Mondscheingasse"
+    },
+    {
+      "position": 8,
+      "title": "Reingelegt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 2. Dezember 2004 (CD)",
+      "EAN": "743219898944 (MC) / 743219898920 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f31",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-031/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

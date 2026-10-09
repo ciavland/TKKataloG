@@ -1,0 +1,244 @@
+number,title,release_year,duration_seconds,cast_count,track_count
+1,Die Jagd nach den Millionendieben,1981,2464,15,8
+2,Der blinde Hellseher,1981,2523,16,8
+3,Das leere Grab im Moor,1981,2451,15,8
+4,Das Paket mit dem Totenkopf,1981,2285,14,8
+5,Das Phantom auf dem Feuerstuhl,1981,2305,12,8
+6,Angst in der 9a,1981,2243,18,8
+7,Rätsel um die alte Villa,1982,2349,17,8
+8,Auf der Spur der Vogeljäger,1982,2338,15,8
+9,Abenteuer im Ferienlager,1982,2518,17,8
+10,Alarm im Zirkus Sarani,1982,2366,19,8
+11,Die Falschmünzer vom Mäuseweg,1982,2415,17,8
+12,"Nachts, wenn der Feuerteufel kommt",1982,2397,18,8
+13,Die Bettelmöche aus Atlantis,1982,2964,20,8
+14,Der Schlangenmensch,1982,2774,16,8
+15,Ufos in Bad Finkenstein,1982,2839,20,8
+16,X7 antwortet nicht,1982,2577,18,8
+17,Die Doppelgängerin,1982,2498,21,8
+18,Hexenjagd in Lerchenbach,1982,2470,17,8
+19,Der Schatz in der Drachenhöhle,1983,2482,16,8
+20,Das Geheimnis der chninesischen Vase,1983,2518,17,8
+21,Die Rache des Bombenlegers,1983,2769,21,8
+22,In den Klauen des Tigers,1983,2317,20,10
+23,Kampf der Spione,1983,2111,12,10
+24,Gefährliche Diamanten,1983,2147,20,10
+25,Die Stunde der schwarzen Maske,1983,2205,16,10
+26,Das Geiseldrama,1984,2261,18,10
+27,Banditen im Palasthotel,1984,2329,16,10
+28,Verrat im Höllental,1984,2331,12,8
+29,Hundediebe kennen keine Gnade,1984,2024,12,8
+30,Die Mafia kommt zur Geisterstunde,1984,2329,16,8
+31,Die Entführung in der Mondscheingasse,1984,2327,13,8
+32,Wilddiebe im Teufelsmoor,1985,2322,15,8
+33,Wer raubte das Millionenpferd?,1985,2099,10,8
+34,Vampir der Autobahn,1985,2313,14,8
+35,Die Nacht des Überfalls,1985,2300,16,8
+36,Das Geschenk des Bösen,1985,2092,12,8
+37,Der letzte Schuß,1985,2548,14,8
+38,Die weiße Schmuggler-Jacht,1985,2772,13,8
+39,Die Gift-Party,1986,2592,12,8
+40,Duell im Morgengrauen,1986,2358,14,8
+41,Heißes Gold im Silbersee,1986,1979,13,8
+42,Anschlag auf den Silberpfeil,1986,2814,19,8
+43,Gefangen in der Schreckenskammer,1986,2841,17,8
+44,Um Mitternacht am schwarzen Fluß,1987,2330,16,8
+45,Unternehmen Grüne Hölle,1987,2493,15,8
+46,Hotel in Flammen,1987,2429,14,8
+47,Todesfracht im Jaguar,1987,2159,12,8
+48,Bestien in der Finsternis,1987,2164,11,8
+49,Bombe an Bord (Haie an Bord),1987,2263,10,8
+50,Spion auf der Flucht,1987,2220,15,8
+51,Gangster auf der Gartenparty,1987,2454,12,8
+52,Überfall im Hafen,1987,2089,15,8
+53,Schüsse aus der Rosenhecke,1987,2441,15,9
+54,Alarm! Klößchen ist verschwunden,1987,2577,15,8
+55,Der Mörder aus dem Schauerwald,1987,2320,11,7
+56,Todesgruß vom Gelben Drachen,1987,2290,11,7
+57,Jagt das rote Geisterauto!,1988,2774,13,9
+58,Der doppelte Pedro,1988,2590,14,8
+59,Trickdieb auf Burg Drachenstein,1988,2507,13,8
+60,Der Teufel vom Waiga-See,1988,2985,16,8
+61,Im Schatten des Dämons,1989,2871,15,8
+62,"Terror aus dem ""Pulverfass""",1989,2484,14,8
+63,Die Falle am Fuchsbach,1989,2403,12,8
+64,Schwarze Pest aus Indien,1989,2674,12,8
+65,Sklaven für Wutawia,1989,2289,15,8
+66,"Gauner mit der ""Goldenen Hand""",1989,2297,15,8
+67,Hinterhalt im Eulenforst,1990,2559,12,8
+68,Rauschgift-Razzia im Internat,1990,2366,12,8
+69,"Achtung: Die ""Monsters"" kommen!",1990,2433,12,8
+70,Wer hat Tims Mutter entführt?,1990,2629,14,8
+71,Stimme aus der Unterwelt,1990,2526,14,8
+72,Taschengeld für ein Gespenst,1990,2685,13,8
+73,Herr der Schlangeninsel,1990,2589,11,8
+74,Im Schattenreich des Dr. Mubase,1990,2073,14,8
+75,Lösegeld am Henkersberg,1991,2363,16,8
+76,Die Goldgräberbande,1991,2450,14,8
+77,Der erpresste Erpresser,1991,2363,10,8
+78,Heißer Draht nach Paradiso,1991,3151,16,8
+79,Ein Toter braucht Hilfe,1992,2525,13,8
+80,Weißes Gift im Nachtexpress,1992,2956,19,8
+81,Horror-Trip im Luxusauto,1992,2887,14,8
+82,Spuk aus dem Jenseits,1992,3073,15,8
+83,Hilfe! Gaby in Gefahr,1993,2802,20,8
+84,Dynamit im Kofferraum,1993,2756,15,8
+85,Freiheit für gequälte Tiere,1993,2732,18,8
+86,Die Schatzsucher-Mafia schlägt zu,1993,2820,16,8
+87,Der böse Geist vom Waisenhaus,1994,2591,17,8
+88,"Kampf um das Zauberschwert ""Drachenauge""",1994,2557,10,8
+89,Feind aus der Vergangenheit,1994,3006,24,8
+90,Schmuggler reisen unerkannt,1994,2937,16,8
+91,Crash-Kids riskieren ihr Leben,1995,2281,11,7
+92,Der grausame Rächer,1995,2422,14,8
+93,Die Opfer mit der kühlen Schnauze,1995,2626,27,7
+94,In dunkler Nacht am Marmorgrab,1995,2381,15,6
+95,U-Bahn des Schreckens,1995,2258,14,6
+96,Die Entführung des Popstars,1996,2769,14,6
+97,Die Hand an den Sternen,1996,2435,13,6
+98,Die Haie vom Lotus-Garten,1996,3532,18,6
+99,Hilflos in eisiger Nacht,1996,4182,16,6
+100,Fieser Trick mit Nr. 100,1996,2718,13,6
+101,Opfer fliegen 1. Klasse,1997,3419,15,6
+102,Angst auf der Autobahn,1997,2927,13,6
+103,Mörderischer Stammbaum,1997,2904,16,6
+104,Im Wettbüro des Teufels,1997,2853,17,6
+105,Vermißte Kids und Killerpflanzen,1997,2921,16,6
+106,Mädchenraub im Ferienhaus,1997,3345,16,6
+107,Lösegeld für einen Irrtum,1998,3546,16,6
+108,Das Konzert bei den Ratten,1998,2472,13,6
+109,Mörderspiel im Burghotel,1998,3408,21,6
+110,Das Phantom im Schokoladen-Museum,1998,3222,12,6
+111,Die tödliche Falle,1998,2887,9,6
+112,Bombenspaß bei Kies & Knete,1999,2645,16,6
+113,Mit heißer Nadel Jagd auf Kids,1999,2605,16,7
+114,Die Sekte Satans,1999,3231,13,8
+115,Der Diamant im Bauch der Kobra,1999,2970,11,6
+116,Klassenfahrt zur Hexenburg,1999,3238,16,6
+117,Im Schloß der schlafenden Vampire,1999,3222,14,5
+118,Im Kaufhaus ist der Teufel los,2000,2652,16,5
+119,Frische Spur nach 70 Jahren,2000,2912,12,6
+120,Bei Anruf Angst,2000,3211,14,6
+121,Ein cooler Typ aus der Hölle,2000,3211,13,8
+122,"Der Goldschatz, der vom Himmel fiel",2000,3157,9,5
+123,Mordkomplott im Luxusklo,2000,2853,13,8
+124,Vergebliche Suche nach Gaby,2001,2733,14,7
+125,Der Mörder aus einer anderen Zeit,2001,3300,17,6
+126,Teddy Talers Höllenfahrt,2001,3009,14,8
+127,Im Schlauchboot durch die Unterwelt,2001,3403,11,8
+128,Die Gehilfen des Terrors,2001,2889,13,8
+129,Der Erpresser fährt bis Endstation,2001,2931,13,8
+130,Die gefährliche Zeugin verschwindet,2002,2922,16,8
+131,Stundenlohn für flotte Gangster,2002,2977,16,6
+132,Homejacker machen Überstunden,2002,3207,15,9
+133,Auf vier Pfoten zur Millionenbeute,2002,3575,13,9
+134,Wer stoppt die Weihnachts-Gangster?,2002,3418,17,8
+135,Der Meisterdieb und seine Feinde,2003,2997,11,8
+136,Argentinische Entführung,2003,3595,16,8
+137,Verschleppt ins Tal Diabolo,2003,3208,13,13
+138,Raubzug mit dem Bumerang,2003,3146,12,13
+139,Oskar jagt die Drogendealer,2003,3817,16,10
+140,Draculas Erben,2004,3065,8,9
+141,Todesbiss der schwarzen Mamba,2004,3364,11,8
+142,Bankräuber mit Supertrick,2004,3485,13,9
+143,Das unheimliche Haus,2004,3782,12,7
+144,Schreckensnacht im Schlangenmaul,2004,3736,12,9
+145,Hinterhalt am schwarzen Fels,2005,3440,14,8
+146,Nonstop in die Raketenfalle,2005,2934,16,12
+147,Hölle ohne Hintertür,2005,3303,13,8
+148,Fieser Trick beim Finale,2005,3653,15,9
+149,Tims gefährlichster Gegner,2005,3150,15,9
+150,Heiße Nächte im Dezember,2006,3474,15,8
+151,Gekauftes Spiel,2006,3741,14,8
+152,"Max und Anna, ein diebisches Paar",2006,3492,13,8
+153,Es geschah in einer Regennacht,2007,3410,13,9
+154,Das Geheimnis der Burgruine,2007,3818,12,0
+155,Gefangen im Spukhaus,2007,2770,10,7
+156,Erpresser fahren Achterbahn,2007,3007,17,8
+157,Oskar und die sieben Zwerge,2008,3329,13,12
+158,Trainer unter Verdacht,2008,3280,17,16
+159,Böses Spiel im Sommercamp,2008,2908,14,15
+160,Das Grauen naht um Zwölf,2008,2590,12,8
+161,Ein Yeti in der Millionenstadt,2009,2745,14,11
+162,Gefahr für Oskar!,2009,3023,14,11
+163,Die Makler-Mafia,2009,3623,15,12
+164,Operation Hexen-Graffiti,2009,3085,16,14
+165,Advent mit Knall-Effekt,2009,3209,13,12
+166,Das Mädchen mit der Kristallkugel,2009,3335,14,13
+167,Der Unsichtbare,2009,3264,17,11
+168,Millionencoup im Stadion,2010,3293,15,11
+169,Tatort Dschungel,2010,2845,18,9
+170,Schock im Schnee,2010,2797,20,10
+171,Das lebende Gemälde,2010,3792,11,9
+172,Das Geheimnis der Moorleiche,2011,3509,15,10
+173,Die Skelettbande,2011,3415,28,10
+174,Doppelgänger auf der Rennbahn,2011,3481,16,11
+175,Nachtwanderung mit Schrecken,2011,5676,21,16
+176,Verbrechen im Rampenlicht,2012,3422,20,13
+177,Die Spur der Wölfin,2012,3816,17,10
+178,Hai-Alarm im Aquapark,2012,2990,18,10
+179,Abzocke im Online-Chat,2012,3616,16,10
+180,Alarm im Raubtierhaus,2012,3783,16,12
+181,Der vertauschte Koffer,2013,3915,12,12
+182,Im Bann des Übersinnlichen,2013,4134,18,11
+183,Blindgänger im Villenviertel,2013,3568,11,10
+184,Die ewige Finsternis,2013,3621,13,11
+185,Der unsichtbare Dieb,2013,3699,12,12
+186,Die schlafende Chinesin,2014,3982,14,10
+187,Ausspioniert!,2014,3802,11,10
+188,Die blauen Schafe von Artelsbach,2014,3340,12,10
+189,"Iwan, der Schreckliche",2014,3345,12,12
+190,Der eiskalte Clown,2015,3742,14,10
+191,Nord-Nordwest zum Hexenplatz,2015,3484,10,9
+192,Feuer auf Gut Ribbeck!,2015,3681,15,9
+193,Das Weihnachts-Phantom,2015,4008,16,10
+194,Der Friedhof der Namenlosen,2015,4414,16,10
+195,Dem Sonnenkönig auf der Spur,2016,3265,13,10
+196,Tatort Wagenburg,2016,3823,15,10
+197,Bei Anpfiff Übergabe,2016,3858,17,10
+198,Der Golem vom Dunkelsee,2016,3513,12,10
+199,Verfolgungsjagd vor Mitternacht,2016,3105,15,8
+200,Der große Coup,2017,7401,25,18
+201,Vom Goldschatz besessen,2017,4041,14,10
+202,Ein Paradies für Diebe,2017,4005,15,11
+203,Der Räuber mit der Weihnachtsmaske,2017,3958,11,10
+204,Verschwörung auf hoher See,2018,3680,16,10
+205,Teuflische Kaffeefahrt,2018,4176,14,10
+206,"Achtung, UFO-Kult!",2018,3909,14,10
+207,Doppelte Entführung,2018,3752,13,0
+208,Geheimnis im Tresor,2019,3331,11,0
+209,Drohbriefe von Unbekannt,2019,4213,17,0
+210,Raubzug im Casino,2019,3846,16,0
+211,Geiselnahme im Villenviertel,2019,4341,21,0
+212,Tyrannei Kommando Eins,2019,3474,17,0
+213,Das unheimliche Dorf,2019,,9,0
+214,Diamantenrausch auf der A9,2020,4124,16,0
+215,Verbrechen im Moorsteiner Wald,2020,3972,12,0
+216,Das Geheimnis im Jagdschloss,2020,3835,15,0
+217,Tödliche Klarinette,2021,4432,19,0
+218,Schutzgeld für Dämonen,2021,3982,19,0
+219,Terror frei Haus,2021,3608,18,0
+220,Attentat am Gämsengrat,2021,3736,14,0
+221,Beim Raubzug helfen Ahnungslose,2022,3933,20,0
+222,Roter Drache 222,2022,4053,15,0
+223,Betrüger Super Sauber,2022,3992,12,0
+224,Bilderdiebe haben kein Gesicht,2022,4410,14,0
+225,Tanz mit der Giftschlange,2022,3830,15,0
+226,Der Täter unter uns,2023,4041,14,0
+227,Zwei für Zwölf,2023,4296,15,0
+228,"Das Geld, das niemand wollte",2023,3936,12,0
+229,Auf den Schwingen des Totenvogels,2023,3465,16,0
+230,Die Tesla-Verschwörung,2024,3372,14,0
+231,Knackis streicheln mit der Faust,2024,3957,18,0
+232,Drohnenaugen in der Nacht,2024,3940,17,0
+233,Räuberwald,2024,3986,14,0
+234,Im Auftrag des Bösen,2024,3312,16,0
+235,Ein Gruselfest für ein Vermögen,2025,3861,18,0
+236,Schatten aus der Unterwelt,2025,5430,17,0
+237,K.I. Kriminelle Illusion,2025,3508,15,0
+238,Nur Tote schlafen länger,2025,3895,17,0
+239,Vollgas ins Verderben,2026,3763,20,0
+240,Das verschollene Zepter von Gizeh,2026,6441,16,0
+241,Das Rätsel der Gruselvilla,2026,3791,12,0
+242,Verbrechen live im Radio,2026,3950,14,0
+243,Die Fährte des Hehlers,2026,3854,16,0

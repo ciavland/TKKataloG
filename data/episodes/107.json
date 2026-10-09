@@ -1,0 +1,167 @@
+{
+  "number": 107,
+  "title": "Lösegeld für einen Irrtum",
+  "description": "Der Chirurg Dr. Riedenbach und seine Familie werden von einem gefährlichen \"Psycho\" bedroht, der sich für den tragischen Tod seiner Frau, den der untadelige Arzt angeblich verschuldet hat, rächen will. Die Riedenbachs wagen es nicht, in die Ferien zu fahren - weil der \"Psycho\" ihr Haus brandschatzen will. Doch die Tochter Regina fährt mit TKKG und Tims Mutter an den Liegstätter See, um ein paar unbeschwerte Ferientage zu verbringen. Allerdings stellt sich heraus: auch dort ist der \"Psycho\" - und kurz nach der Ankunft ist Regina verschwunden.",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 3546,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Regina Riedenbach",
+      "person": "Ann Montenbruck"
+    },
+    {
+      "role": "Ute Riedenbach",
+      "person": "Karin Lieneweg"
+    },
+    {
+      "role": "Ralf Riedenbach",
+      "person": "Reiner Nowak"
+    },
+    {
+      "role": "Martin Greilisch",
+      "person": "Andreas Martens"
+    },
+    {
+      "role": "Anna Kappelhuber",
+      "person": "Eva Gelb"
+    },
+    {
+      "role": "Helmut Krokow",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Petra Krokow",
+      "person": "Gerlinde Dillge"
+    },
+    {
+      "role": "Elisabeth Krokow",
+      "person": "Samira Chanfir"
+    },
+    {
+      "role": "Leuschke",
+      "person": "Klaus-Peter Kaehler"
+    },
+    {
+      "role": "Rinkstedt",
+      "person": "Achim Schülke"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte und Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1998 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein gefährlicher Psychopath"
+    },
+    {
+      "position": 2,
+      "title": "Blanker Hass in den Augen"
+    },
+    {
+      "position": 3,
+      "title": "Verblüffende Ähnlichkeit"
+    },
+    {
+      "position": 4,
+      "title": "Drei Millionen für ein Junghuhn"
+    },
+    {
+      "position": 5,
+      "title": "Ein mathematisches Problem"
+    },
+    {
+      "position": 6,
+      "title": "Die Mächte des Schicksals"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. Januar 1998",
+      "EAN": "743215263241 (MC) / 743215263227 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f107",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-107/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

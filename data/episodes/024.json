@@ -1,0 +1,199 @@
+{
+  "number": 24,
+  "title": "Gefährliche Diamanten",
+  "description": "Ein Gangster überfällt ausgerechnet Karl, Klößchen und Gaby. Ein Grund für den TKKG, sofort die Fahndung aufzunehmen. Doch der Gesuchte ist gefährlich! Und das nicht nur, weil er von der Waffe Gebrauch macht, er hat vermutlich auch die Pest! Hat Gaby sich bereits angesteckt? Die Jagd nach dem Täter weitet sich zu einem überaus spannenden Fall aus...",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2147,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Franz Jacoby",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Johanna Jacoby",
+      "person": "Karin Eckhold"
+    },
+    {
+      "role": "Isolde „Isi“ Pönig",
+      "person": "Pia Werfel"
+    },
+    {
+      "role": "Bernhard „Bernie“ Maas",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Edwin Kohaut",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Norbert Bonsen",
+      "person": "Berno von Cramm"
+    },
+    {
+      "role": "Gino Cordone",
+      "person": "Victor Lenz"
+    },
+    {
+      "role": "Polizist Heinzelmann",
+      "person": "Franz Josef Steffens"
+    },
+    {
+      "role": "Dr. Fritz-Georg Rönschl",
+      "person": "Prof. Dr. Andreas Beurmann"
+    },
+    {
+      "role": "Britta Jacoby",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Jochen Linkelpart",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Leni Stegmüller",
+      "person": "Barbara Focke"
+    },
+    {
+      "role": "Paul Thiebel",
+      "person": "Victor Lenz"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Überfall"
+    },
+    {
+      "position": 2,
+      "title": "An der Pest erkrankt"
+    },
+    {
+      "position": 3,
+      "title": "Von zuhause abgehauen"
+    },
+    {
+      "position": 4,
+      "title": "Ein großes Geschenk"
+    },
+    {
+      "position": 5,
+      "title": "Tote Mäuse im Mund"
+    },
+    {
+      "position": 6,
+      "title": "Diamanten nach Italien"
+    },
+    {
+      "position": 7,
+      "title": "Am Hals gepackt"
+    },
+    {
+      "position": 8,
+      "title": "In Schutzhaft"
+    },
+    {
+      "position": 9,
+      "title": "Die Süße vom Wohltätigkeitsverein"
+    },
+    {
+      "position": 10,
+      "title": "Falschgeld"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 14. Juni 2004 (CD)",
+      "EAN": "743219898241 (MC) / 743219898227 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f24",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-024/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

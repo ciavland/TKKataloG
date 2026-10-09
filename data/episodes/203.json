@@ -1,0 +1,171 @@
+{
+  "number": 203,
+  "title": "Der Räuber mit der Weihnachtsmaske",
+  "description": "Früher Schneefall hat die Millionenstadt bereits Anfang Dezember in ein idyllisches Winterwunderland verwandelt. Aber die friedliche Stimmung währt nur kurz, denn Karl wird Zeuge eines gemeinen Verbrechens. Am Institut für Musikwissenschaft wird Prof. Tilmann Zobel ein 200 Jahre altes Notenblatt gestohlen. TKKG haben schnell einen Tatverdächtigen und heften sich an seine Fersen. Sie ahnen nicht, dass sie an der Nase herumgeführt werden...",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": 3958,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Prof. Tilmann Zobel",
+      "person": "Stephan Schwartz"
+    },
+    {
+      "role": "Emilia von Thauß",
+      "person": "Angela Stresemann"
+    },
+    {
+      "role": "Dieter Schramegg",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Sergej Iwanow",
+      "person": "Tommi Piper"
+    },
+    {
+      "role": "Professor Albert Vierstein",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Dai Wang Wang",
+      "person": "Nova Meierhenrich"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten, Maike Müller"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH."
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Es ist weg!"
+    },
+    {
+      "position": 2,
+      "title": "Geld oder Asche"
+    },
+    {
+      "position": 3,
+      "title": "Geheimnis hinter der Punschhütte"
+    },
+    {
+      "position": 4,
+      "title": "Fehlen nur noch 299.000"
+    },
+    {
+      "position": 5,
+      "title": "Ein riskanter Deal"
+    },
+    {
+      "position": 6,
+      "title": "Auf leisen Pfoten"
+    },
+    {
+      "position": 7,
+      "title": "Bitcoins, Tor und die Marienkapelle"
+    },
+    {
+      "position": 8,
+      "title": "Irgendetwas stimmt hier ganz und gar nicht"
+    },
+    {
+      "position": 9,
+      "title": "Die Übergabe"
+    },
+    {
+      "position": 10,
+      "title": "Verfolgungsjagd im Schnee"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "24. November 2017",
+      "EAN": "889853902026"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f203",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-203/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

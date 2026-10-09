@@ -1,0 +1,151 @@
+{
+  "number": 88,
+  "title": "Kampf um das Zauberschwert \"Drachenauge\"",
+  "description": "Mehr als 800 Jahre lang war das magische Kreuzritter-Schwert \"Drachenauge\" verschollen. Erst die TKKG-Freunde kommen dem Geheimnis auf die Spur, wo sich das Schwert verbirgt. Sie geraten in ein gefährliches Labyrinth unter einer Burg und merken dort, dass sie nicht die einzigen sind, die das Rätsel von \"Drachenauge\" lösen wollen. Skrupellose Verbrecher wollen die unersetzliche Waffe zu klingender Münze machen und im Ausland verschwinden lassen...",
+  "release_year": 1994,
+  "release_date": null,
+  "duration_seconds": 2557,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Dr. Waldemar Schindler",
+      "person": "Ulrich Faulhaber"
+    },
+    {
+      "role": "Ludwig Hirnvogel",
+      "person": "Karl Michael Mechel"
+    },
+    {
+      "role": "Erwin Schratt",
+      "person": "Lutz Büschken"
+    },
+    {
+      "role": "Lina, junge Frau",
+      "person": "Hansi Jochmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "H.G. Francis -"
+    },
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger -"
+    },
+    {
+      "credit": "Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1994 by Pelikan AG, D-30177 Hannover"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Bei Schratt"
+    },
+    {
+      "position": 2,
+      "title": "In der Höhle"
+    },
+    {
+      "position": 3,
+      "title": "Gauner unter sich"
+    },
+    {
+      "position": 4,
+      "title": "Geschichten aus alter Zeit"
+    },
+    {
+      "position": 5,
+      "title": "Gerippe und Schwert"
+    },
+    {
+      "position": 6,
+      "title": "Die Ganoven geben nicht auf"
+    },
+    {
+      "position": 7,
+      "title": "Kriechender Lehrer im Adlernest"
+    },
+    {
+      "position": 8,
+      "title": "Drachenauge"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "28. Februar 1994",
+      "EAN": "743211851527 (MC) / 743211851527 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f88",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-088/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

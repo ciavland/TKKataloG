@@ -1,0 +1,191 @@
+{
+  "number": 15,
+  "title": "Ufos in Bad Finkenstein",
+  "description": "Vergebens warten Tarzan und Gaby auf ihre Schulfreundin Kathie. Tarzan findet sie schließlich bewußtlos und kahlgeschoren in einem dunklen Park. Eine heiße Spur führt die TKKG-Freunde nach Bad Finkenstein. Dort ist der Teufel los: Das Ufo-Fieber hat die kleine Stadt gepackt. \"Fliegende Untertassen\" werden gesichtet, UFO's sind gelandet, \"Roboter\" aus einem \"Weltraumschiff\" verschleppen den Forscher Professor Oberthür. Der ganze Ort gerät in Panik. Spinnerei oder gefährliche Bedrohung aus dem Weltall? Die TKKG-Bande will die Wahrheit herausfinden...",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2839,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kathie Bossert",
+      "person": "Maud Ackermann"
+    },
+    {
+      "role": "Fritz Pantke",
+      "person": "Lothar Zibell"
+    },
+    {
+      "role": "Ewald Nössel",
+      "person": "Konrad Krauß"
+    },
+    {
+      "role": "Thomas Owen",
+      "person": "Ferdinand Dux"
+    },
+    {
+      "role": "Professor Hermann Oberthür",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Karl Walther Schneider",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Frau Specht, Sekretärin",
+      "person": "Pia Werfel"
+    },
+    {
+      "role": "Alwin Gutsche",
+      "person": "Paul Edwin Roth"
+    },
+    {
+      "role": "Herr Schüffler, Apotheker",
+      "person": "Harald Pages"
+    },
+    {
+      "role": "Joe Bingham",
+      "person": "Karl-Heinz Heß"
+    },
+    {
+      "role": "Petra",
+      "person": "Ute Rohrbeck"
+    },
+    {
+      "role": "Polizist",
+      "person": "Günther Lüdke"
+    },
+    {
+      "role": "Louis Walker",
+      "person": "Lothar Zibell"
+    },
+    {
+      "role": "Frau Bossert",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Verkäuferin",
+      "person": "Karin Lieneweg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1981 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Die Waldfee mit den schönen Haaren"
+    },
+    {
+      "position": 2,
+      "title": "Penetranter Knoblauchgeruch"
+    },
+    {
+      "position": 3,
+      "title": "UFO in Bad Finkenstein"
+    },
+    {
+      "position": 4,
+      "title": "Das Monster aus dem Weltall"
+    },
+    {
+      "position": 5,
+      "title": "Rasender Reporter"
+    },
+    {
+      "position": 6,
+      "title": "Kahlgeschoren"
+    },
+    {
+      "position": 7,
+      "title": "Außerirdischer Kontakt"
+    },
+    {
+      "position": 8,
+      "title": "Haare in Plastiktüten"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (MC) / 10. November 2003 (CD)",
+      "EAN": "743219897343 (MC) / 743219897329 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f15",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-015/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

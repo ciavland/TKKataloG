@@ -1,0 +1,171 @@
+{
+  "number": 98,
+  "title": "Die Haie vom Lotus-Garten",
+  "description": "Im Wald finden Tim und Gaby die Tasche eines Bankräubers, randvoll mit Beute. Auch eine verschlossene grüne Kassette ist dabei. Dann überstürzen sich die Ereignisse. Eine wilde Verfolgungsjagd endet mit einer Geiselnahme, und eine heiße Spur führt in die Zentrale einer internationalen Verbrecherbande. Viel Action für TKKG...",
+  "release_year": 1996,
+  "release_date": null,
+  "duration_seconds": 3532,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Frank Plunder",
+      "person": "Gregor Reisch"
+    },
+    {
+      "role": "Beate Kottke",
+      "person": "Marita Fliege"
+    },
+    {
+      "role": "Erwin Polluk",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Bruno Zapp",
+      "person": "Wolf Rathjen"
+    },
+    {
+      "role": "Ewald Speichensplitter",
+      "person": "Jakob Lichtblau"
+    },
+    {
+      "role": "Traugott Brigg",
+      "person": "Tim Knauer"
+    },
+    {
+      "role": "Michi",
+      "person": "Leonhard Mahlich"
+    },
+    {
+      "role": "Dr. Dr. Wilhelm K. Schneider",
+      "person": "Hauke Faßbinder"
+    },
+    {
+      "role": "Günther Grünert",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Arnold Waichmaul",
+      "person": "Frank Felicetti"
+    },
+    {
+      "role": "Kellner",
+      "person": "Thorben Liebrecht"
+    },
+    {
+      "role": "Polizist",
+      "person": "René Spiegelberger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch und Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1996 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Die Beute von Schneider & Pleitzke"
+    },
+    {
+      "position": 2,
+      "title": "Lösegeld für Gaby"
+    },
+    {
+      "position": 3,
+      "title": "Im Parkhaus"
+    },
+    {
+      "position": 4,
+      "title": "Beates Selbstgespräche"
+    },
+    {
+      "position": 5,
+      "title": "Die grüne Kasette"
+    },
+    {
+      "position": 6,
+      "title": "Die Haie vom Lotus-Garten"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "7. Oktober 1996",
+      "EAN": "743213956640 (MC) / 743213956626 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f98",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-098/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "number": 32,
+  "title": "Wilddiebe im Teufelsmoor",
+  "description": "Mit einer \"Bio-Tour\" fängt alles an. Tarzan, Karl, Klößchen und Gaby suchen Pflanzen für den Biologie-Unterricht. Aber dann wird es plötzlich gefährlich! Die TKKG-Bande macht eine gräßliche Entdeckung - und steckt auch schon mitten in einem neuen Fall. Kommissar Glockner warnt die vier Freunde, doch von Gefahren haben sich diese noch nie abhalten lassen...",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2322,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Oswald Schenk",
+      "person": "Friedrich Schoenfelder"
+    },
+    {
+      "role": "Thilo Schenk",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Paul Blokow",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Claus Lukaschky",
+      "person": "Lothar Grützner"
+    },
+    {
+      "role": "Manuela Mai",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Christian Satori",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Daniel Schütt",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Pulle Schubiak",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Kolja Lohmann",
+      "person": "Manfred Schermutzki"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Musik und Effekte",
+      "value": "Phil Moss"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein grausamer Anblick"
+    },
+    {
+      "position": 2,
+      "title": "Wo ist der Schütze?"
+    },
+    {
+      "position": 3,
+      "title": "In der Falle"
+    },
+    {
+      "position": 4,
+      "title": "Wichtiges Beweisstück"
+    },
+    {
+      "position": 5,
+      "title": "Mordanschlag"
+    },
+    {
+      "position": 6,
+      "title": "Zwischen Zorn und Verzweiflung"
+    },
+    {
+      "position": 7,
+      "title": "Affentheater"
+    },
+    {
+      "position": 8,
+      "title": "Trophäenjäger"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 2. Dezember 2004 (CD)",
+      "EAN": "743219899040 (MC) / 743219899026 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f32",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-032/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

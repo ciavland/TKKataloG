@@ -1,0 +1,159 @@
+{
+  "number": 141,
+  "title": "Todesbiss der schwarzen Mamba",
+  "description": "Erpressungen, wie noch nie dagewesen - damit bekommen es TKKG zu tun. Ein Psycho, der sich in den Liebeswahn zu der Schauspielerin Claudia Emm hineingesteigert hat, entwendet gefährliche Giftschlangen aus einer Farm - und benutzt sie als Waffe. Ein Postbote verletzt das Postgeheimnis und fährt auf einer ähnlichen Schiene. Schicksalshaft überkreuzen sich die Verbrechen dort, wo TKKG mit ihren Ermittlungen ansetzen. Dann ist höchste Gefahr. Es geht um Minuten...",
+  "release_year": 2004,
+  "release_date": null,
+  "duration_seconds": 3364,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Claudia Emm",
+      "person": "Saskia Weckler"
+    },
+    {
+      "role": "Kevin Gastheym",
+      "person": "Till Demtröder"
+    },
+    {
+      "role": "Karl-Otto Kunze",
+      "person": "Jan-David Rönfeldt"
+    },
+    {
+      "role": "Fabian Froggensäh",
+      "person": "Ben Hecker"
+    },
+    {
+      "role": "Albert Contrechien",
+      "person": "Roy Martens"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der BMG Deutschland GmbH"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2004 BMG Deutschland GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Verspätete Briefe"
+    },
+    {
+      "position": 2,
+      "title": "Giftige Streitmacht"
+    },
+    {
+      "position": 3,
+      "title": "Luisa, die Baby-Mamba"
+    },
+    {
+      "position": 4,
+      "title": "Pfuhl der Hölle"
+    },
+    {
+      "position": 5,
+      "title": "Postgeheimnis"
+    },
+    {
+      "position": 6,
+      "title": "Aus Liebe wird Hass"
+    },
+    {
+      "position": 7,
+      "title": "Kevin im Schrank"
+    },
+    {
+      "position": 8,
+      "title": "Schlangengespenster"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. März 2004",
+      "EAN": "828765731447 (MC) / 828765731423 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f141",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-141/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

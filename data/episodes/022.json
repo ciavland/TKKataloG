@@ -1,0 +1,199 @@
+{
+  "number": 22,
+  "title": "In den Klauen des Tigers",
+  "description": "Eine Schreckensnachricht breitet sich in der Stadt aus: Ein Königstiger vom Zirkus ist ausgebrochen. Er irrt im Wald herum, und dort haben die Mädchen vom Schwimmverein - unter ihnen Gaby - ein Zeltlager errichtet. Als Kommissar Glockner und Tarzan in den Wald gehen, wissen sie, dass den schutzlosen Mädchen eine tödliche Gefahr droht...",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2317,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Zirkusdirektor Zeisig",
+      "person": "Henning Schlüter"
+    },
+    {
+      "role": "Leni Zeisig",
+      "person": "Marita Fliege"
+    },
+    {
+      "role": "Carlo Tomasino",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Isabell Renke",
+      "person": "Ursula Vogel"
+    },
+    {
+      "role": "Kathie Lorenz",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Polizist Weinschenk",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Otto Fensel",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Georg Hardtke",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Susanne von Plockwind",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Kommissar Blüchl",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Wirt Bossert",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Wachtmeister Pongartz",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Dr. Jansen",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Wachtmeister",
+      "person": "Manfred Schermutzki"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gefrorenes Spanferkel"
+    },
+    {
+      "position": 2,
+      "title": "Der Tiger ist weg!"
+    },
+    {
+      "position": 3,
+      "title": "RACHE"
+    },
+    {
+      "position": 4,
+      "title": "Rettungsaktion"
+    },
+    {
+      "position": 5,
+      "title": "In höchster Gefahr"
+    },
+    {
+      "position": 6,
+      "title": "Gefängnisausbruch"
+    },
+    {
+      "position": 7,
+      "title": "Im Sperrgebiet"
+    },
+    {
+      "position": 8,
+      "title": "Tierarzt mit Narkosegewehr"
+    },
+    {
+      "position": 9,
+      "title": "Gezielter Schuss"
+    },
+    {
+      "position": 10,
+      "title": "Überrumpelt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 14. Juni 2004 (CD)",
+      "EAN": "743219898043 (MC) / 743219898029 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f22",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-022/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "number": 101,
+  "title": "Opfer fliegen 1. Klasse",
+  "description": "Im Grandhotel trifft sich alljährlich am 3. Mai eine bunt zusammengewürfelte Gruppe: 22 Männer und Frauen - die Überlebenden eines Flugzeugabsturzes, der an diesem Datum vor Jahren die Weltöffentlichkeit erschütterte, weil er zahllose Opfer forderte. Eine Bombe war an Bord. Aber der Täter konnte nicht ermittelt werden. Niemand ahnt, dass er sich unter den 22 Überlebenden befindet. TKKG werden hinzugezogen in eine unglaubliches Geschehen.",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 3419,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Irene Flörchinger",
+      "person": "Judy Winter"
+    },
+    {
+      "role": "Armin Leipel",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Nadja Kühnert",
+      "person": "Ann Montenbruck"
+    },
+    {
+      "role": "Susanne Kühnert",
+      "person": "Konstanze Ullmer"
+    },
+    {
+      "role": "Kurt Werfall",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Patrick Schröder",
+      "person": "Niklas Senst"
+    },
+    {
+      "role": "Valentina Venske",
+      "person": "Heikedine Körting"
+    },
+    {
+      "role": "Helmut Werfall",
+      "person": "Hans Irle"
+    },
+    {
+      "role": "Ettel",
+      "person": "Prof. Dr. Andreas Beurmann"
+    },
+    {
+      "role": "Frau Pryzbylla-Kosemund",
+      "person": "Wanda Osten"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch und Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "TKKG-Titelmusik"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1997 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Respekt vor dem Alter"
+    },
+    {
+      "position": 2,
+      "title": "Heiße Rivalen"
+    },
+    {
+      "position": 3,
+      "title": "Schock im Salon"
+    },
+    {
+      "position": 4,
+      "title": "Opfer fliegen 1. Klasse"
+    },
+    {
+      "position": 5,
+      "title": "Ein Schluck zuviel"
+    },
+    {
+      "position": 6,
+      "title": "Teuflische Falle"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. März 1997",
+      "EAN": "743214544747 (MC) / 743214544723 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f101",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-101/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

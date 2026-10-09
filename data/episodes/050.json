@@ -1,0 +1,167 @@
+{
+  "number": 50,
+  "title": "Spion auf der Flucht",
+  "description": "In ein Haus wird eingebrochen, und die Täter stehlen wertvolle Unterlagen einer Erfindung. Die TKKG-Freunde kommen bei ihren Recherchen einem Fall von Industrie-Spionage auf die Spur. Aber der Täter scheint nicht zu fassen zu sein. Doch einen Fehler hat er gemacht - er fährt ein auffälliges Auto.",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2220,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Peter",
+      "person": "Thomas Kast"
+    },
+    {
+      "role": "Sabine",
+      "person": "Pamela Großer"
+    },
+    {
+      "role": "Sebastian Pleff",
+      "person": "Reent Reins"
+    },
+    {
+      "role": "Ludwig Dröselhoff",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Helga Dröselhoff",
+      "person": "Vera Lohr"
+    },
+    {
+      "role": "Dr. Friedrich Lattmann",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Jörg",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Kiechle",
+      "person": "Hanna Heine"
+    },
+    {
+      "role": "Bert Wiegand",
+      "person": "Andreas Fröhlich"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Sabine war allein zu Haus"
+    },
+    {
+      "position": 2,
+      "title": "Reiner Zufall"
+    },
+    {
+      "position": 3,
+      "title": "Ein geschultes Auge"
+    },
+    {
+      "position": 4,
+      "title": "Bussi hier - Bussi da!"
+    },
+    {
+      "position": 5,
+      "title": "Ernste Situation"
+    },
+    {
+      "position": 6,
+      "title": "Tierquälerei"
+    },
+    {
+      "position": 7,
+      "title": "Geheime Akten"
+    },
+    {
+      "position": 8,
+      "title": "Jacke wie Hose"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 25. November 2005 (CD)",
+      "EAN": "743219900845 (MC) / 743219900821 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f50",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-050/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "number": 162,
+  "title": "Gefahr für Oskar!",
+  "description": "Wer ist der unbekannte Hundehasser, der in der Millionenstadt gefährliche Köder auslegt? Als Gabys Hund Oskar beinahe das Opfer des fiesen Verbrechers wird, werden TKKG aktiv! Und schon bald zeigt sich eine erste Spur. Doch plötzlich nimmt der Fall eine gefährliche Wendung und Tim, Karl, Klößchen und Gaby befinden sich in der Höhle des Löwen...",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3023,
+  "cast": [
+    {
+      "role": "Frau Klamm",
+      "person": "Elga Schütz"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Gunnar Diepentrog",
+      "person": "Werner Cartano"
+    },
+    {
+      "role": "Alexander Meierdirk",
+      "person": "Klaus Dittmann"
+    },
+    {
+      "role": "Oliver Lächner",
+      "person": "Felix Strüven"
+    },
+    {
+      "role": "Frau Lächner",
+      "person": "Brita Subklew"
+    },
+    {
+      "role": "Redakteur",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Nachbarin",
+      "person": "Hannelore Wüst"
+    },
+    {
+      "role": "Passantin",
+      "person": "Nina Minninger"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "André Minninger - nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2009 Eine Produktion der Sony Music Entertainment (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Messerscharf daneben!"
+    },
+    {
+      "position": 2,
+      "title": "Klarer Verstand"
+    },
+    {
+      "position": 3,
+      "title": "Unerkannte Ermittler"
+    },
+    {
+      "position": 4,
+      "title": "Aktion \"Flugblatt\""
+    },
+    {
+      "position": 5,
+      "title": "Anschlag"
+    },
+    {
+      "position": 6,
+      "title": "Schock!"
+    },
+    {
+      "position": 7,
+      "title": "Leibgarde"
+    },
+    {
+      "position": 8,
+      "title": "Verfolgung"
+    },
+    {
+      "position": 9,
+      "title": "Endlich ein Motiv"
+    },
+    {
+      "position": 10,
+      "title": "Ertappt!"
+    },
+    {
+      "position": 11,
+      "title": "In der Höhle des Löwen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "13. Februar 2009",
+      "EAN": "886974439745 (MC) / 886974439721 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f162",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-162/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

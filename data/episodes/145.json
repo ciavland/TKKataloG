@@ -1,0 +1,171 @@
+{
+  "number": 145,
+  "title": "Hinterhalt am schwarzen Fels",
+  "description": "Die Klasse 9b hat offenbar Glück. Die Klassenfahrt zu den keltischen Kultstätten im Witwental wird um eine Woche vorverlegt. So entgehen TKKG und ihre Mitschüler einem merkwürdigen Überfall auf die berühmte Internatsschule. Maskierte Verbrecher tauchen in der Schule auf - und verschwinden dann so plötzlich, als hätten sie sich in der Adresse geirrt. Was hat das zu bedeuten und wer ist die Zielscheibe dieser Verbrecher?",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3440,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Freddy Westor",
+      "person": "Peter Brix"
+    },
+    {
+      "role": "Jens Landres",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Galeb",
+      "person": "Thor W. Müller"
+    },
+    {
+      "role": "Leutke",
+      "person": "Helgo Liebig"
+    },
+    {
+      "role": "Leo Kunze",
+      "person": "Robin Brosch"
+    },
+    {
+      "role": "Arthur Levinski",
+      "person": "Olaf Kreuzenbeck"
+    },
+    {
+      "role": "Rebecca Langsasse",
+      "person": "Lotte Bublitz"
+    },
+    {
+      "role": "Dr. Jörg Midler",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Hendrik Bachheym",
+      "person": "Killian Knauer"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der BMG Records GmbH"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2005 BMG Records GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gabys lästiger Verehrer"
+    },
+    {
+      "position": 2,
+      "title": "Auftrag für Knochenbrecher"
+    },
+    {
+      "position": 3,
+      "title": "Terroristische Pleite"
+    },
+    {
+      "position": 4,
+      "title": "Keilerei auf der Waldwiese"
+    },
+    {
+      "position": 5,
+      "title": "Rufnummern und Wolfsgeheul"
+    },
+    {
+      "position": 6,
+      "title": "Auch Rebecca ist Geisel"
+    },
+    {
+      "position": 7,
+      "title": "Giftpfeil ins Vaterherz"
+    },
+    {
+      "position": 8,
+      "title": "Verknackte Komplizen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "4. April 2005",
+      "EAN": "828765731843 (MC) / 828765731829 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f145",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-145/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "number": 194,
+  "title": "Der Friedhof der Namenlosen",
+  "description": "TKKG verbringen die Herbstferien auf einer Nordseeinsel und helfen dort bei der Restaurierung uralter Seefahrer-Grabsteine. Die Steine erzählen die Geschichten der alten Seefahrer und Inselbewohner, und die vier geraten unverhofft an ein rätselhaftes Dokument, das ihnen keine Ruhe lässt. Ist es vielleicht eine Schatzkarte? Das wüssten auch einige andere Leute auf der Insel nur zu gern.",
+  "release_year": 2015,
+  "release_date": null,
+  "duration_seconds": 4414,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Herr Knoll",
+      "person": "Bernd Stephan"
+    },
+    {
+      "role": "Ingrid Harms",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Herta Höges",
+      "person": "Christine Wilhelmi"
+    },
+    {
+      "role": "Herr Schmoll",
+      "person": "Gerd Baltus"
+    },
+    {
+      "role": "Gesche",
+      "person": "Antje Otterson"
+    },
+    {
+      "role": "Femke",
+      "person": "Iris Rufner"
+    },
+    {
+      "role": "Polizist",
+      "person": "Monty Arnold"
+    },
+    {
+      "role": "Eisverkäuferin",
+      "person": "Anne Backhaus"
+    },
+    {
+      "role": "Bootsmann",
+      "person": "Sven Kläschen"
+    },
+    {
+      "role": "Beamter",
+      "person": "Hans-Joachim Dethlof"
+    },
+    {
+      "role": "Ekki Blome",
+      "person": "Björn Bonn"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Veronika Hampl nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Seefahrergeschichten"
+    },
+    {
+      "position": 2,
+      "title": "Die Schatzkarte"
+    },
+    {
+      "position": 3,
+      "title": "Spurensuche"
+    },
+    {
+      "position": 4,
+      "title": "Wer hat den Schatz geklaut?"
+    },
+    {
+      "position": 5,
+      "title": "Apfelkuchen"
+    },
+    {
+      "position": 6,
+      "title": "Drei Söhne"
+    },
+    {
+      "position": 7,
+      "title": "Drei goldene Becher"
+    },
+    {
+      "position": 8,
+      "title": "Die Jagd beginnt"
+    },
+    {
+      "position": 9,
+      "title": "Das Versteck"
+    },
+    {
+      "position": 10,
+      "title": "Ein sicherer Ort"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "20. November 2015",
+      "EAN": "888751150621"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f194",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-194/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

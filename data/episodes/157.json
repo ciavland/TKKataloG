@@ -1,0 +1,179 @@
+{
+  "number": 157,
+  "title": "Oskar und die sieben Zwerge",
+  "description": "Erna Vogel bricht auf offener Straße zusammen! Skrupellose Verbrecher haben ihre sieben Pudel entführt und drohen per Handy, den Hunden etwas Schreckliches anzutun, falls die alte Dame die Polizei einschaltet. Doch obwohl auf die Forderungen der Kidnapper eingegangen wird, finden TKKG die armen Tiere betäubt im Auto. Ihre Ermittlungen führen sie auf gefährliches Glatteis...",
+  "release_year": 2008,
+  "release_date": null,
+  "duration_seconds": 3329,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Frau Vogel",
+      "person": "Brigitte Böttrich"
+    },
+    {
+      "role": "Hartmut Hohl",
+      "person": "Mario Grete"
+    },
+    {
+      "role": "Joachim Dietrich",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Veranstalter",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Gisela",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Taxifahrer",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "Sekretärin",
+      "person": "Konstanze Ullmer"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger – nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher ·"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2008 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Zucker-Babys"
+    },
+    {
+      "position": 2,
+      "title": "Betäubung per Ampulle"
+    },
+    {
+      "position": 3,
+      "title": "Ein Traum in Rosa"
+    },
+    {
+      "position": 4,
+      "title": "Überzeugungskraft"
+    },
+    {
+      "position": 5,
+      "title": "Schock!"
+    },
+    {
+      "position": 6,
+      "title": "Mündiger Bürger"
+    },
+    {
+      "position": 7,
+      "title": "Noch mal Glück gehabt!"
+    },
+    {
+      "position": 8,
+      "title": "Alles nur geliehen"
+    },
+    {
+      "position": 9,
+      "title": "Gisela bleibt hartnäckig"
+    },
+    {
+      "position": 10,
+      "title": "Heißhunger"
+    },
+    {
+      "position": 11,
+      "title": "Lauschangriff"
+    },
+    {
+      "position": 12,
+      "title": "Dümmer, als die Polizei erlaubt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "29. Februar 2008",
+      "EAN": "886971689648 (MC) / 886971689624 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f157",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-157/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

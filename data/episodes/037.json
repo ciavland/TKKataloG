@@ -1,0 +1,167 @@
+{
+  "number": 37,
+  "title": "Der letzte Schuß",
+  "description": "Die TKKG-Freunde machen eine seltsame Beobachtung: Der Stadtstreicher Wittig versenkt einen nagelneuen Straßenkreuzer im Fluß. Was steckt dahinter? Die TKKG-Freunde nehmen sich des Falles an und kommen einer seltsamen Geschichte auf die Spur. Schließlich geht es gar um einen Mordversuch!",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2548,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Christian Pianowsky",
+      "person": "Michael Langner"
+    },
+    {
+      "role": "Camilla Pianowsky-Gretzig",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Albrecht Wittig",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Lorenz Gretzig",
+      "person": "Eckart Dux"
+    },
+    {
+      "role": "Groschen-Toni",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Gottfried Ihmke",
+      "person": "Marek Harloff"
+    },
+    {
+      "role": "Herbert Pianowsky",
+      "person": "Hans Paetsch"
+    },
+    {
+      "role": "Otto Reschbein",
+      "person": "Michael Harck"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1985 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Wilderei"
+    },
+    {
+      "position": 2,
+      "title": "Ohne festen Wohnsitz"
+    },
+    {
+      "position": 3,
+      "title": "Blind und bescheuert"
+    },
+    {
+      "position": 4,
+      "title": "Rotwein-Dusche"
+    },
+    {
+      "position": 5,
+      "title": "Schreckliche Ausdünstung"
+    },
+    {
+      "position": 6,
+      "title": "Bundeskanzler auf der Gartenparty"
+    },
+    {
+      "position": 7,
+      "title": "Perfekter Plan"
+    },
+    {
+      "position": 8,
+      "title": "Der letzte Schuss"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 9. Mai 2005 (CD)",
+      "EAN": "743219899545 (MC) / 743219899521 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f37",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-037/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "number": 16,
+  "title": "X7 antwortet nicht",
+  "description": "Auf einer Radtour entdecken die vier TKKG-Freunde zunächst drei finstere Gestalten und dann vier gefährliche Mörsergranaten. Als die vier Freunde versuchen, den Verbrechern auf die Spur zu kommen, geraten sie an ein Ganoven-Pärchen. Schließlich wird eines klar: Unbekannte planen einen großen Überfall auf den Geldtransport (Betriebscode X7). Fast eine Million steht auf dem Spiel! Eine aufregende Jagd nach der riesigen Beute beginnt und die TKKG-Freunde stecken mittendrin.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2577,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Ute Fläming",
+      "person": "Pia Werfel"
+    },
+    {
+      "role": "Robert Katzmeier",
+      "person": "Martin Piontek"
+    },
+    {
+      "role": "Fritz Gerlach",
+      "person": "Konrad Krauß"
+    },
+    {
+      "role": "Rosenthal",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Paule",
+      "person": "Bertram von Boxberg"
+    },
+    {
+      "role": "Wachtmeister Lampe",
+      "person": "Lothar Zibell"
+    },
+    {
+      "role": "Steger",
+      "person": "Günther Lüdke"
+    },
+    {
+      "role": "Dr. Voss",
+      "person": "Karl-Heinz Heß"
+    },
+    {
+      "role": "Frl. Meerbott",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Direktor Dr. Freund",
+      "person": "Manfred Steffen"
+    },
+    {
+      "role": "Emma",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Nachrichtensprecher",
+      "person": "Martin Piontek"
+    },
+    {
+      "role": "Wachtmeister",
+      "person": "Harald Pages"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1981 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "15 000 Sommersprossen"
+    },
+    {
+      "position": 2,
+      "title": "Mörsergranaten im Teufelswald"
+    },
+    {
+      "position": 3,
+      "title": "Ute Fläming hat Sorgen"
+    },
+    {
+      "position": 4,
+      "title": "X7 nach Lergries"
+    },
+    {
+      "position": 5,
+      "title": "Eine Million an Bord"
+    },
+    {
+      "position": 6,
+      "title": "Mit dem Messer bedroht"
+    },
+    {
+      "position": 7,
+      "title": "Um eine Nasenlänge voraus"
+    },
+    {
+      "position": 8,
+      "title": "Männersache"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (MC) / 9. Februar 2004 (CD)",
+      "EAN": "743219897442 (MC) / 743219897428 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f16",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-016/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

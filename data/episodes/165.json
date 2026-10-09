@@ -1,0 +1,179 @@
+{
+  "number": 165,
+  "title": "Advent mit Knall-Effekt",
+  "description": "Oh, du Fröhliche! Am ersten Advent wird Familie Glockner von einem heimtückischen Anschlag in Angst und Schrecken versetzt. Kurz darauf meldet sich der Attentäter am Telefon. Er verlangt bis zum 24. Dezember die Freilassung einer Gefängnisinsassin - und kündigt weitere Verbrechen an, wenn seiner Forderung nicht nachgekommen wird. TKKG sind in Alarmbereitschaft! Die Zeit läuft und es sieht ganz so aus, als ob der gefährliche Drahtzieher sein Ziel erreicht. Doch dann hat Tim einen grandiosen Einfall...",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3209,
+  "cast": [
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Martina Habicht",
+      "person": "Ingrid Andree"
+    },
+    {
+      "role": "Yvonne Habicht",
+      "person": "Susanne Lothar"
+    },
+    {
+      "role": "Klaus Dähn",
+      "person": "Rüdiger Schultzki"
+    },
+    {
+      "role": "Frau Frosti",
+      "person": "Ingeborg Christiansen"
+    },
+    {
+      "role": "Wärterin",
+      "person": "Heikedine Körting"
+    },
+    {
+      "role": "Birker",
+      "person": "Thomas Birker"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion und Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG – Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "COMICON S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2009 Eine Produktion der Sony Music Entertainment (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Haftbefehl"
+    },
+    {
+      "position": 2,
+      "title": "Erster Advent"
+    },
+    {
+      "position": 3,
+      "title": "Ausgezeichneter Polizeihund"
+    },
+    {
+      "position": 4,
+      "title": "Erste Ermittlungen"
+    },
+    {
+      "position": 5,
+      "title": "Nahendes Urteil"
+    },
+    {
+      "position": 6,
+      "title": "Zweiter Advent"
+    },
+    {
+      "position": 7,
+      "title": "Wunscherfüllung"
+    },
+    {
+      "position": 8,
+      "title": "Gespräch unter sechs Augen"
+    },
+    {
+      "position": 9,
+      "title": "Dritter Advent"
+    },
+    {
+      "position": 10,
+      "title": "Ein aufdringlicher Zeitgenosse"
+    },
+    {
+      "position": 11,
+      "title": "Vierter Advent"
+    },
+    {
+      "position": 12,
+      "title": "Ausgetrickst"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "25. September 2009",
+      "EAN": "886975161343 (MC) / 886975161329 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f165",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-165/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "number": 76,
+  "title": "Die Goldgräberbande",
+  "description": "Nachts in der Lindenhof-Allee: Computer-Karl und Willi beobachten zwei dunkle Gestalten, die an einer leerstehenden Villa den Briefkasten abmontieren und durch einen fünfmal größeren ersetzen. Als die TKKG-Bande das Rätsel lösen will, gerät sie in die Fänge der Goldgräber-Bande.",
+  "release_year": 1991,
+  "release_date": null,
+  "duration_seconds": 2450,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Johannes von Unken",
+      "person": "Marc Seidenberg"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Oswald Krenk",
+      "person": "Tobias Pauls"
+    },
+    {
+      "role": "Dr. Jochen Rädl",
+      "person": "Rolf Jülich"
+    },
+    {
+      "role": "Nina Rädl",
+      "person": "Ursula Vogel"
+    },
+    {
+      "role": "Sabine Rädl",
+      "person": "Melanie Zimmermann"
+    },
+    {
+      "role": "Chareles Wolmhus",
+      "person": "Ben Tappé"
+    },
+    {
+      "role": "Dieter Brestler",
+      "person": "Monty Arnold"
+    },
+    {
+      "role": "Bettina von Unken",
+      "person": "Katharina Brauren"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1991 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Was läuft hier?"
+    },
+    {
+      "position": 2,
+      "title": "Ein ganz linker Stiefel"
+    },
+    {
+      "position": 3,
+      "title": "Briefgeheimnis ist Briefgeheimnis"
+    },
+    {
+      "position": 4,
+      "title": "Angst"
+    },
+    {
+      "position": 5,
+      "title": "Vorgetäuschter Überfall"
+    },
+    {
+      "position": 6,
+      "title": "Genaue Täterbeschreibung"
+    },
+    {
+      "position": 7,
+      "title": "Sogenannte Mitläufer"
+    },
+    {
+      "position": 8,
+      "title": "Karate-Schläge gefällig?"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1991 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903341 (MC) / 743219903327 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f76",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-076/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "number": 148,
+  "title": "Fieser Trick beim Finale",
+  "description": "Bei einem einzigartigen Fußballturnier ermitteln Oberschulen und Gymnasien, welche der Schülermannschaften die Beste ist. Auch die schlauen Köpfe dürfen mitmachen, denn zu jedem Spiel gehört ein Quiz-Wettbewerb unter den jeweiligen Gegnern. Tim ist die Stütze der Internatsmannschaft, Karl vertritt die Schule als Quizkandidat, Gaby und Klößchen glänzen als Radioreporter. Doch dann geschieht das Unfassbare: ein Einruch ohne Spuren, eine hinterhältige Mannschaft und eine geplante Erpressung greifen ineinander...",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3653,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Roland Spieker",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Edgar Dussek",
+      "person": "Henry König"
+    },
+    {
+      "role": "Kevin Lorenzo",
+      "person": "Jona Mues"
+    },
+    {
+      "role": "Dr. Tiekmann",
+      "person": "Jürgen Holdorf"
+    },
+    {
+      "role": "Löschke",
+      "person": "Mario Grete"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Sebastian Lorenzo",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Marie-Fleur Fantl",
+      "person": "Theresa Underberg"
+    },
+    {
+      "role": "Fabian Kresch",
+      "person": "Tobias Schmidt"
+    },
+    {
+      "role": "Technikerin",
+      "person": "Joana Adu-Gyamfi"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2005 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Turnier der Besten"
+    },
+    {
+      "position": 2,
+      "title": "Dussek, der Safeknacker"
+    },
+    {
+      "position": 3,
+      "title": "Rivalen um Marie-Fleur"
+    },
+    {
+      "position": 4,
+      "title": "Geplante Erpressung"
+    },
+    {
+      "position": 5,
+      "title": "Klößchen als Radio-Reporter"
+    },
+    {
+      "position": 6,
+      "title": "Einbrecher oder Irrlicht?"
+    },
+    {
+      "position": 7,
+      "title": "Rattentyp mit Kamera"
+    },
+    {
+      "position": 8,
+      "title": "Tims Kopfball-Tor"
+    },
+    {
+      "position": 9,
+      "title": "Finale im Studio"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "30. September 2005 (WM) / 10. November 2006",
+      "EAN": "828768961148 (MC) / 828768961124 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f148",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-148/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "number": 55,
+  "title": "Der Mörder aus dem Schauerwald",
+  "description": "Bei einem Spaziergang mit Oskar im Schauerwald wird Gaby von einem blutrünstigen Mastino angefallen. In letzter Sekunde kommt ihr ein fremder Mann zuhilfe, der sich im Wald versteckt hat. Entsetzt erkennt Gaby ihren Lebensretter: Hasso Flüther, ein entflohener Sträfling, ein \"Mörder\"! Er schwört Gaby, dass er unschuldig ist und sie glaubt ihm. Die TKKG-Bande rollt seinen Fall wieder auf. Am Ende steht eine unglaubliche Entdeckung!",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2320,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hasso Flüther",
+      "person": "Klaus-Peter Kaehler"
+    },
+    {
+      "role": "Lutz Röder",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Guido Buntmann",
+      "person": "Friedrich Hey"
+    },
+    {
+      "role": "Frau von Dölmhorst-Meiswitz",
+      "person": "Katharina Brauren"
+    },
+    {
+      "role": "Norbert Jokel",
+      "person": "Joachim Richert"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Lebensretter"
+    },
+    {
+      "position": 2,
+      "title": "Der große Unbekannte"
+    },
+    {
+      "position": 3,
+      "title": "Ausbruch aus dem Gefängnis"
+    },
+    {
+      "position": 4,
+      "title": "Nachbarschaftsärger"
+    },
+    {
+      "position": 5,
+      "title": "Römischer Kampfhund"
+    },
+    {
+      "position": 6,
+      "title": "Schlechtes Gewissen"
+    },
+    {
+      "position": 7,
+      "title": "Beweisfotos"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 10. Februar 2006 (CD)",
+      "EAN": "743219901347 (MC) / 743219901323 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f55",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-055/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

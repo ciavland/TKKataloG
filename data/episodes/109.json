@@ -1,0 +1,187 @@
+{
+  "number": 109,
+  "title": "Mörderspiel im Burghotel",
+  "description": "Im neu eröffneten Burghotel \"Falkenhain\" findet am Wochenende ein Mörderspiel statt - nämlich eine interaktive Krimi-Vorstellung, bei der die Gäste mitmachen und den Täter ermitteln sollen. Ein Spaß? TKKG erfahren, dass ein unbekannter Täter die Gelegenheit zu einem echten Verbrechen benutzen will - zu einem Rachemord. TKKG geraten in einen Strudel dramatischer Ereignisse. Was ist hier Spiel? Was Wirklichkeit?",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 3408,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Dr. Enzo Grokk",
+      "person": "Hartmut von Tippsien"
+    },
+    {
+      "role": "Höhlensepp",
+      "person": "Niko Minninger"
+    },
+    {
+      "role": "Blauer Udo",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Polizist Voss",
+      "person": "Lennart Krüger"
+    },
+    {
+      "role": "Polizist Biegehart",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Renate Wanniger",
+      "person": "Konstanze Ullmer"
+    },
+    {
+      "role": "Achim Wanniger",
+      "person": "Balduin Baas"
+    },
+    {
+      "role": "Robert Krämer",
+      "person": "Manfred Steffen"
+    },
+    {
+      "role": "Eduard Reikl",
+      "person": "Dieter Ohlendiek"
+    },
+    {
+      "role": "Zimmermädchen Nicole",
+      "person": "Angela Ascher"
+    },
+    {
+      "role": "Bürgermeister Spendenfroh",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Felix von Gebeiningen",
+      "person": "Daniel Bublitz"
+    },
+    {
+      "role": "Gero von Gebeiningen",
+      "person": "Gerd Baltus"
+    },
+    {
+      "role": "Jasmine-Stivta von Unruu",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Frau Gruber",
+      "person": "Anne Moll"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher,"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1998 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein mörderischer Spaß"
+    },
+    {
+      "position": 2,
+      "title": "Reiche Beute"
+    },
+    {
+      "position": 3,
+      "title": "Vom Wahnsinn besessen"
+    },
+    {
+      "position": 4,
+      "title": "Ein leeres Schließfach"
+    },
+    {
+      "position": 5,
+      "title": "Vergifteter Schnaps"
+    },
+    {
+      "position": 6,
+      "title": "Wo ist der Schmuck?"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "6. Juni 1998",
+      "EAN": "743215447344 (MC) / 743215447320 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f109",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-109/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

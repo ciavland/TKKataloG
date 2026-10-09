@@ -1,0 +1,159 @@
+{
+  "number": 5,
+  "title": "Das Phantom auf dem Feuerstuhl",
+  "description": "Sie kommen von einem Volleyball-Spiel der Schulmannschaft des Internats: Dr. Bienert, Studienrat für Englisch und Sport und gleichzeitig Trainer der Mannschaft, und Tarzan. Unter einer Brücke verübt ein Unbekannter einen Anschlag auf das Auto der beiden. Er wirft einen schweren Stein gegen die Windschutzscheibe. Sie zersplittert, Dr. Bienert verliert die Herrschaft, der Wagen gerät ins Schleudern und überschlägt sich. Der Studienrat wird verletzt, Tarzan kommt mit dem Schrecken davon. So fängt alles an. Ein Phantom geht um auf nächtlichen Landstraßen und Autobahnen, wirft von Brücken Steine herab und schleudert Stahlkugeln gegen fahrende Autos. Die Polizei scheint machtlos, niemand hat den Unbekannten jemals gesehen. Man weiß nur, dass er ein Motorad hat. Tarzan, Klößchen, Karl und Gaby wollen das Phantom finden. Hat der seltsame Holzschnitzer etwas zu tun mit den Attentaten? Oder ist der Vater der gelähmten Claudia verdächtig, weiler sich an allen Autofahrern rächen will? Und was steckt hinter der Brandstift",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2305,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Dr. Bienert",
+      "person": "Peter Buchholz"
+    },
+    {
+      "role": "Franz Ströter",
+      "person": "Hans Irle"
+    },
+    {
+      "role": "Paul Herfurth",
+      "person": "Siegfried Wald"
+    },
+    {
+      "role": "Claudia Herfurth",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Anneliese Weindl",
+      "person": "Eva Michaelis"
+    },
+    {
+      "role": "Polizist",
+      "person": "Rolf Mamero"
+    },
+    {
+      "role": "Polizist",
+      "person": "Christian Mey"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1979 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Knapp überlebt"
+    },
+    {
+      "position": 2,
+      "title": "Ein seltsamer Holzschnitzer"
+    },
+    {
+      "position": 3,
+      "title": "Das gelähmte Mädchen"
+    },
+    {
+      "position": 4,
+      "title": "Ein schlimmer Konflikt"
+    },
+    {
+      "position": 5,
+      "title": "Die neue Spur"
+    },
+    {
+      "position": 6,
+      "title": "Tarzan und Gaby"
+    },
+    {
+      "position": 7,
+      "title": "Plötzliche Erleuchtung"
+    },
+    {
+      "position": 8,
+      "title": "Endspiel - und das Phantom im Keller"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (LP / MC) / 12. Mai 2003 (CD)",
+      "EAN": "743219896346 (MC) / 743219896322 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f5",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-005/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

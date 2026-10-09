@@ -1,0 +1,163 @@
+{
+  "number": 38,
+  "title": "Die weiße Schmuggler-Jacht",
+  "description": "Das hier ist die Folge, in der \"Tarzan\" offiziell zu \"Tim\" wird. Beziehungsweise, es wird erklärt, warum \"Tim\" nicht mehr \"Tarzan\" genannt werden möchte. Die Story für sich, ist in Ordnung und gut aus dem Buch adaptiert worden.",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2772,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Dietmar Uhl",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Mr. Roswell P. Baker",
+      "person": "Günther Pfitzmann"
+    },
+    {
+      "role": "Mrs. Suzy Baker",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Nancy Baker",
+      "person": "Berit Juppenlatz"
+    },
+    {
+      "role": "Aristoteles Dragoumi",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Sadra Leofóros",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Joe",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ursela Monn"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1985 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein ernstes Problem"
+    },
+    {
+      "position": 2,
+      "title": "Wohnhaft in Rhodos"
+    },
+    {
+      "position": 3,
+      "title": "Heroin!"
+    },
+    {
+      "position": 4,
+      "title": "Satans 7. Rippe"
+    },
+    {
+      "position": 5,
+      "title": "Griechische Götter"
+    },
+    {
+      "position": 6,
+      "title": "Entführt!"
+    },
+    {
+      "position": 7,
+      "title": "Blödes Gerede"
+    },
+    {
+      "position": 8,
+      "title": "Auf der Poseidon"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 9. Mai 2005 (CD)",
+      "EAN": "743219899644 (MC) / 743219899620 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f38",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-038/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

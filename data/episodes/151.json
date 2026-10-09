@@ -1,0 +1,167 @@
+{
+  "number": 151,
+  "title": "Gekauftes Spiel",
+  "description": "Unbekannte Hooligans des FC Smogmoor überziehen den internationalen Schiedsrichter Fender mit ihrem Hass. Sie unterstellen ihm, er hätte sich bestechen lassen und das Endspiel der Champions League - die Begegnung des FC Smogmoor und dem AC Avanti - ein gekauftes Spiel gewesen wäre. Zu Gunsten der siegreichen Avantis. Fender und seine Familie sind seitdem einem gnadenlosen Telefonterror ausgesetzt. Aber der Schiri hat einen guten Draht zu TKKG - denn er bildet Tim zum Nachwuchsschiedsrichter aus. Logisch, dass sich die vier für ihn einsetzen. Dann aber eskaliert die Bedrohung, denn Fenders Tochter Evelyn ist plötzlich spurlos verschwunden.",
+  "release_year": 2006,
+  "release_date": null,
+  "duration_seconds": 3741,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Edward Wilson",
+      "person": "Ben Hecker"
+    },
+    {
+      "role": "Roberto Clausen",
+      "person": "Franz Josef Steffens"
+    },
+    {
+      "role": "Mario Clausen",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Rosetta Mirandola",
+      "person": "Ingeborg Christiansen"
+    },
+    {
+      "role": "Jonathan Fender",
+      "person": "Urs Affolter"
+    },
+    {
+      "role": "Evelyn Fender",
+      "person": "Katinka Körting"
+    },
+    {
+      "role": "Jack Milburn",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Brian Pitcher",
+      "person": "Robin Brosch"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2006 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Das Grab hinterm Haus"
+    },
+    {
+      "position": 2,
+      "title": "Terror beim Schiri"
+    },
+    {
+      "position": 3,
+      "title": "Wie es wirklich war"
+    },
+    {
+      "position": 4,
+      "title": "Verlogene Psychos"
+    },
+    {
+      "position": 5,
+      "title": "Die Hooligans"
+    },
+    {
+      "position": 6,
+      "title": "Tellerminen"
+    },
+    {
+      "position": 7,
+      "title": "Evelyn, spurlos verschwunden"
+    },
+    {
+      "position": 8,
+      "title": "Liebesbrief von Rosetta"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "3. März 2006 (WM) / 10. November 2006",
+      "EAN": "828768961247 (MC) / 828768961223 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f151",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-151/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

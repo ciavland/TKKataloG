@@ -1,0 +1,179 @@
+{
+  "number": 161,
+  "title": "Ein Yeti in der Millionenstadt",
+  "description": "Aufregung in der Millionenstadt! Sollte es ihn wahrhaftig geben? Den legendären Schneemenschen aus dem Himalaja? Mehrere Augenzeugen beschwören seine Existenz, denn sie alle wurden Opfer eines hinterhältigen Überfalls. Eine behaarte Bestie hatte ihnen am Geldautomaten aufgelauert, das Geld gekrallt und war dann brüllend verschwunden. Keine leichte Aufgabe für TKKG, und Tim muss während der Ermittlungen einige Tiefschläge einstecken - im wahrsten Sinne des Wortes!",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 2745,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Frau Sommer",
+      "person": "Judy Winter"
+    },
+    {
+      "role": "Herr Specht",
+      "person": "Eckart Dux"
+    },
+    {
+      "role": "Dame",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Peter Peinlich",
+      "person": "Tobias Schmidt"
+    },
+    {
+      "role": "Frau Hammer",
+      "person": "Marion Martienzen"
+    },
+    {
+      "role": "Gustav",
+      "person": "Wolfgang Hartmann"
+    },
+    {
+      "role": "Nils Schwabing",
+      "person": "Jacob Weigert"
+    },
+    {
+      "role": "Ronny",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Leon",
+      "person": "Jannik Endemann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "André Minninger - nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2008 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Kein Humor"
+    },
+    {
+      "position": 2,
+      "title": "Selten dämlich"
+    },
+    {
+      "position": 3,
+      "title": "Überfall!"
+    },
+    {
+      "position": 4,
+      "title": "Unruhiger Schlaf"
+    },
+    {
+      "position": 5,
+      "title": "Geklaut!"
+    },
+    {
+      "position": 6,
+      "title": "Die Unschuld in Person"
+    },
+    {
+      "position": 7,
+      "title": "Diskussion im Adlernest"
+    },
+    {
+      "position": 8,
+      "title": "Klirrende Kälte"
+    },
+    {
+      "position": 9,
+      "title": "Rasende Reporter"
+    },
+    {
+      "position": 10,
+      "title": "Aussageprotokolle"
+    },
+    {
+      "position": 11,
+      "title": "Unter der Yeti-Maske"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "14. November 2008",
+      "EAN": "886972905846 (MC) / 886972905822 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f161",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-161/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

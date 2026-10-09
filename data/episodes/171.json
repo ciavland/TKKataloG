@@ -1,0 +1,167 @@
+{
+  "number": 171,
+  "title": "Das lebende Gemälde",
+  "description": "Die alte Dame Martha Mühlstein ist fassungslos: Quasi vor ihren Augen hat sich auf dem Öl-Gemälde in ihrem Zimmer ein wichtiges Detail verändert! In ihrer Angst bittet sie TKKG um Hilfe und die Vier sind sogleich zur Stelle. Doch schon bald kommen erste Zweifel auf: ist die alte Dame vielleicht nur geistig verwirrt? Aber dann wiederholt sich der Spuk, und dieses Mal werden auch Tim, Karl und Klößchen Zeugen eines unerklärlichen Vorgangs...",
+  "release_year": 2010,
+  "release_date": null,
+  "duration_seconds": 3792,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Edith Dahlie",
+      "person": "Ursula Heyer"
+    },
+    {
+      "role": "Martha Mühlstein",
+      "person": "Luise Lunow"
+    },
+    {
+      "role": "Elisabeth Jahling",
+      "person": "Gisela Fritsch"
+    },
+    {
+      "role": "Max Schitteck",
+      "person": "Rolf E. Schenker"
+    },
+    {
+      "role": "Martha als Kind",
+      "person": "Florentine Draeger"
+    },
+    {
+      "role": "Elisabeth als Kind",
+      "person": "Lea Sprick"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion und Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B –"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher ·"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Betende Hände"
+    },
+    {
+      "position": 2,
+      "title": "Abendruh"
+    },
+    {
+      "position": 3,
+      "title": "Gänsehaut"
+    },
+    {
+      "position": 4,
+      "title": "Plem-Plem"
+    },
+    {
+      "position": 5,
+      "title": "Computerhirn"
+    },
+    {
+      "position": 6,
+      "title": "Schock!"
+    },
+    {
+      "position": 7,
+      "title": "Fehlanzeige"
+    },
+    {
+      "position": 8,
+      "title": "Zurück in die Vergangenheit"
+    },
+    {
+      "position": 9,
+      "title": "Schuldgeständnis"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "26. November 2010",
+      "EAN": "886977525049 (MC) / 886977525025 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f171",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-171/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

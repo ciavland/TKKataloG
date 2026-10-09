@@ -1,0 +1,187 @@
+{
+  "number": 186,
+  "title": "Die schlafende Chinesin",
+  "description": "Die Millionenstadt ist in Aufruhr: Eine Skulptur von unschätzbarem Wert wurde still und heimlich aus dem Kunstmuseum gestohlen! Wie konnte es im Museum zu so einer fatalen Sicherheitspanne kommen? Fernsehen, Radio und Zeitungen stürzen sich wie die Geier auf den peinlichen Skandal. Tim, Karl, Klößchen und Gaby sind sich fast sicher, den Dieb zufällig bei seiner Flucht beobachtet zu haben - und schalten sich ein. Was hat der Dieb mit der Skulptur vor? Was hat die adelige Frau von Dünkelsheim mit dem Kunstdiebstahl zu tun? Und warum wurde im Museum kein Alarm ausgelöst? TKKG nehmen die Spur auf - sie führt in den düsteren Moorsteiner Wald...",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": 3982,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Dorothea Künz",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Herr Aichinger",
+      "person": "Eberhard Haar"
+    },
+    {
+      "role": "Reporter 1",
+      "person": "Bertram Hiese"
+    },
+    {
+      "role": "Reporter 2",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Frau von Dünkelsheim",
+      "person": "Birke Bruck"
+    },
+    {
+      "role": "Taxifahrer",
+      "person": "Klaus Dittmann"
+    },
+    {
+      "role": "Olaf Greimel",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "TV-Sprecher",
+      "person": "Sven Dahlem"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Nagel und Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Flucht vor dem Drachen"
+    },
+    {
+      "position": 2,
+      "title": "Die schlafende Chinesin"
+    },
+    {
+      "position": 3,
+      "title": "Die Zunge verrät den Dieb"
+    },
+    {
+      "position": 4,
+      "title": "Corpus delicti"
+    },
+    {
+      "position": 5,
+      "title": "Größte anzunehmende Katastrophe"
+    },
+    {
+      "position": 6,
+      "title": "Klößchen verweigert die Foltergeräte"
+    },
+    {
+      "position": 7,
+      "title": "Das Gefängnis im Moorsteiner Wald"
+    },
+    {
+      "position": 8,
+      "title": "Die Sache mit dem Alarm"
+    },
+    {
+      "position": 9,
+      "title": "TKKG landen einen Supercoup"
+    },
+    {
+      "position": 10,
+      "title": "Verwandtschaftsverhältnisse"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "14. Februar 2014",
+      "EAN": "888430108028"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f186",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-186/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

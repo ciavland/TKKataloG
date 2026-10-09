@@ -1,0 +1,167 @@
+{
+  "number": 79,
+  "title": "Ein Toter braucht Hilfe",
+  "description": "Vor Jahren kam Tims Vater bei einem Unfall ums Leben. Jetzt wird der als untadelig bekannte Ingenieur in einer mysteriösen Geheimakte für ein schweres Verbrechen verantwortlich gemacht. Tim rollt gemeinsam mit seinen TKKG-Freunden den Fall wieder auf, denn sein toter Vater braucht Hilfe gegen üble Verleumdungen. Bald kommen die Vier einer internationalen Giftgas-Affäre auf die Spur.",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 2525,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Hartwig Reuter",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Olaf Wüstenherr",
+      "person": "Wolfgang Schimmelpfennig"
+    },
+    {
+      "role": "Tanja Wüstenherr",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Knud Tetloff",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Ferdinand Frankenheym",
+      "person": "Hans Pracht"
+    },
+    {
+      "role": "Hugo Wuchtig",
+      "person": "Rolf Becker"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1991 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Genügend Beweise"
+    },
+    {
+      "position": 2,
+      "title": "Ein sehr ernstes Problem"
+    },
+    {
+      "position": 3,
+      "title": "Müllskandal"
+    },
+    {
+      "position": 4,
+      "title": "Alles geht schief"
+    },
+    {
+      "position": 5,
+      "title": "Ein Schlag ins Gesicht"
+    },
+    {
+      "position": 6,
+      "title": "Explosion"
+    },
+    {
+      "position": 7,
+      "title": "Offensichtliche Fälschung"
+    },
+    {
+      "position": 8,
+      "title": "Auf glühenden Kohlen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1992 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903648 (MC) / 743219903624 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f79",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-079/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

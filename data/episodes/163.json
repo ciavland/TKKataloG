@@ -1,0 +1,187 @@
+{
+  "number": 163,
+  "title": "Die Makler-Mafia",
+  "description": "Klößchen macht sich Sorgen um seine Oma Rosalinde Sauerlich. Sie liegt nach einem Schwächeanfall im Krankenhaus und wirkt am Telefon sehr ängstlich und geradezu eingeschüchtert. TKKG beschließen Oma Sauerlich zu besuchen und erfahren von ihr von unheimlichen Ereignissen, die sich jede Nacht um und in ihrer Villa abspielen. Und auch auf den Grundstücken von Oma Rosalindes Nachbarinnen geschehen immer wieder merkwürdige Dinge. Wird das noble Villenviertel von übernatürlichen Phänomenen heimgesucht? Klar, dass sich TKKG auf Spurensuche begeben. Dabei stolpern sie ständig über einen dubiosen Makler... Was hat der wohl im Sinn?",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3623,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Rosalinde Sauerlich",
+      "person": "Gisela Fritsch"
+    },
+    {
+      "role": "Kiki von Manteufel",
+      "person": "Inken Sommer"
+    },
+    {
+      "role": "Isolde Mischok",
+      "person": "Sabine Hahn"
+    },
+    {
+      "role": "Elsbeth Trudemann",
+      "person": "Aranka Jaenke-Mamero"
+    },
+    {
+      "role": "Frau Dahlke",
+      "person": "Susanne von Loessl"
+    },
+    {
+      "role": "Björn von Magog",
+      "person": "Roman Kretschmer"
+    },
+    {
+      "role": "Profesor Hübner",
+      "person": "Holger Löwenberg"
+    },
+    {
+      "role": "Schlange",
+      "person": "Thomas Fritsch"
+    },
+    {
+      "role": "Kahlbach",
+      "person": "Edgar Hoppe"
+    },
+    {
+      "role": "Angelika",
+      "person": "Susanne Stangl"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Kussmaul nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Hörspielbearbeitung und Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2009 Eine Produktion der Sony Music Entertainment (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Das Hexenbrett"
+    },
+    {
+      "position": 2,
+      "title": "Gerechte Strafe"
+    },
+    {
+      "position": 3,
+      "title": "Angst"
+    },
+    {
+      "position": 4,
+      "title": "Flüsternde Pflanzen"
+    },
+    {
+      "position": 5,
+      "title": "Baba Makawa"
+    },
+    {
+      "position": 6,
+      "title": "Mitternacht"
+    },
+    {
+      "position": 7,
+      "title": "Geistig verwirrt"
+    },
+    {
+      "position": 8,
+      "title": "Rückendeckung"
+    },
+    {
+      "position": 9,
+      "title": "Bedeutsames Dokument"
+    },
+    {
+      "position": 10,
+      "title": "In der Gruft"
+    },
+    {
+      "position": 11,
+      "title": "Gefesselt"
+    },
+    {
+      "position": 12,
+      "title": "Ausgetrickst"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "17. April 2009 (MC / CD)",
+      "EAN": "886974439844 (MC) / 886974439820 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f163",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-163/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

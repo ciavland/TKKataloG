@@ -1,0 +1,163 @@
+{
+  "number": 118,
+  "title": "Im Kaufhaus ist der Teufel los",
+  "description": "Das Kaufhaus \"Neues Jahrtausend\" wird von Verbrechern erpresst. Sie drohen damit, sämtliche CDs in Bomben zu verwandeln. Um ihre teuflischen Fähigkeiten zu beweisen, hinterlegen die Erpresser eine Bomben-CD in der Audio-Video-Abteilung. Ausgerechnet diese heiße Scheibe wird unmittelbar daraufhin von Jugendlichen geklaut und soll das Geschenk werden bei der Geburtstagsfete, zu der auch TKKG eingeladen sind.",
+  "release_year": 2000,
+  "release_date": null,
+  "duration_seconds": 2652,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Löhring",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Sebastian Szdoba",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Egon Flauch",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Vera von Hellenfeld",
+      "person": "Verena Grosser"
+    },
+    {
+      "role": "Laura Lockstett",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Mechthild Lockstett",
+      "person": "Wanda Osten"
+    },
+    {
+      "role": "Lothar Zinkdübel",
+      "person": "Wolf Frass"
+    },
+    {
+      "role": "Günter Bauer",
+      "person": "Jochen Piel"
+    },
+    {
+      "role": "Michael Riedmann",
+      "person": "Jona Mues"
+    },
+    {
+      "role": "Nicole Garnik",
+      "person": "Lotte Bublitz"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2000 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Auf dem Weg ins \"Neue Jahrtausend\""
+    },
+    {
+      "position": 2,
+      "title": "Laura zeigt ihre Beute"
+    },
+    {
+      "position": 3,
+      "title": "Wie man eine Bombe klaut"
+    },
+    {
+      "position": 4,
+      "title": "Gaby als Diebin"
+    },
+    {
+      "position": 5,
+      "title": "Die CD explodiert"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. Januar 2000",
+      "EAN": "743217088941 (MC) / 743217088927 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f118",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-118/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

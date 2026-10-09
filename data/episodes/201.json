@@ -1,0 +1,183 @@
+{
+  "number": 201,
+  "title": "Vom Goldschatz besessen",
+  "description": "Tim, Karl und Gaby begleiten Familie Sauerlich an einen Alpensee und quartierten sich in einer einsam gelegenen Holzhütte ein. Klößchen will eigentlich nur alle Viere von sich strecken, aber stattdessen schlittern TKKG schon am ersten Tag in ein geheimnisvolles Abenteuer: ihr Nachbar, ein ergrauter Einsiedler packt eine uralte Goldsucher-Geschichte aus! Doch die einzigen Hinweise, dass der Goldschatz wirklich existiert, verschwinden noch bevor die vier sich ein Bild machen können. Und plötzlich scheinen nicht nur TKKG dem Gold auf der Spur zu sein...",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": 4041,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Anneliese Koch",
+      "person": "Christiane Leuchtmann"
+    },
+    {
+      "role": "Ines Fassbinder",
+      "person": "Neda Rahmanian"
+    },
+    {
+      "role": "John Taylor",
+      "person": "Joachim Kretzer"
+    },
+    {
+      "role": "Jeffrey Cain",
+      "person": "Tilo Schmitz"
+    },
+    {
+      "role": "Ludwig Waltz",
+      "person": "Horst Stark"
+    },
+    {
+      "role": "Dr. Ruth Schadewell",
+      "person": "Theresa Berlage"
+    },
+    {
+      "role": "Frau Geitel",
+      "person": "Christine Wilhelmi"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten, Maike Müller"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH."
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Schuss am See"
+    },
+    {
+      "position": 2,
+      "title": "Der Fluch des Goldschatzes"
+    },
+    {
+      "position": 3,
+      "title": "Überraschung im Erdloch"
+    },
+    {
+      "position": 4,
+      "title": "Aus den Tiefen des Sees"
+    },
+    {
+      "position": 5,
+      "title": "Sperrgebiet"
+    },
+    {
+      "position": 6,
+      "title": "Gold!"
+    },
+    {
+      "position": 7,
+      "title": "Treppenwitz der Geschichte"
+    },
+    {
+      "position": 8,
+      "title": "Das Geständnis"
+    },
+    {
+      "position": 9,
+      "title": "In der Bunkerruine"
+    },
+    {
+      "position": 10,
+      "title": "Die Rückkehr der Diebin"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "9. Juni 2017",
+      "EAN": "889853901821"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f201",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-201/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

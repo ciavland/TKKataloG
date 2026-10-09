@@ -1,0 +1,119 @@
+{
+  "number": 215,
+  "title": "Verbrechen im Moorsteiner Wald",
+  "description": "Tim, Karl, Gaby und Klößchen sind zum Baden am Moorsteiner See, als Karl ein mysteriöser Hilferuf ereilt, der sich rasant über Soziale Medien verbreitet. Ein Foto zeigt einen geknebelten Mann, der seine Augenbinde für ein schnelles Selfie etwas nach oben geschoben hat. Dem Bild ist ein eiliges „hilfe“ beigefügt. Soll das etwa ein schlechter Webwitz sein? Tim erkennt den Hintergrund der Aufnahme: Es handelt sich eindeutig um die Fischerhütte eines alten Bekannten gleich hier am Moorsteiner See! TKKG eilen zur Hütte, um das Opfer zu befreien, und werden in einen brenzligen Fall verwickelt, dessen Tragweite sie nicht erahnen konnten ...",
+  "release_year": 2020,
+  "release_date": "2020-07-24",
+  "duration_seconds": 3972,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Dao Thiet-Sang",
+      "person": "Gabriele Libbach"
+    },
+    {
+      "role": "Friedrich Muhlheim",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Jenny Raubein",
+      "person": "Melanie Kastaun"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Kommissarin Hübner",
+      "person": "Nova Meierhenrich"
+    },
+    {
+      "role": "Marco Frohleben",
+      "person": "Tobias Schmidt"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Thorsten Knollschitz",
+      "person": "Armin Schlagwein"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/verbrechen-im-moorsteiner-wald",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f215",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

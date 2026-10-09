@@ -1,0 +1,183 @@
+{
+  "number": 12,
+  "title": "Nachts, wenn der Feuerteufel kommt",
+  "description": "Seit Monaten jagt die Polizei ohne Erfolg ein Phantom, das Wochenendhäuser, Gasthöfe, Scheunen und Lokale niederbrennt. Auch die TKKG-Bande nimmt die Spur auf. Doch die Zahl der Verdächtigen ist groß. Wer ist der Feuerteufel? Tarzan, Karl, Klößchen und Gaby werden ihn entlarven.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2397,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Alwin Seitz",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Fanhauser",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Erich Bosselt",
+      "person": "Frederik Houben"
+    },
+    {
+      "role": "Norbert Hecker",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Konrad Hecker",
+      "person": "Horst Stark"
+    },
+    {
+      "role": "Helmut Mölln",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Hartwig Mölln",
+      "person": "Daniel Sieg"
+    },
+    {
+      "role": "Otto Krug",
+      "person": "Klaus-Peter Kaehler"
+    },
+    {
+      "role": "Karl-Otto „Karlo“ Krug",
+      "person": "Daniel Petersen"
+    },
+    {
+      "role": "Werner Keidel",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Frau Keidel",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Rudolf Mataschke",
+      "person": "Karl-Heinz Gerdesmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1981 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Scheune in Flammen"
+    },
+    {
+      "position": 2,
+      "title": "Ein Bombenexperte"
+    },
+    {
+      "position": 3,
+      "title": "Enttäuschende Neuigkeit"
+    },
+    {
+      "position": 4,
+      "title": "Rußspuren"
+    },
+    {
+      "position": 5,
+      "title": "Anonymer Anrufer"
+    },
+    {
+      "position": 6,
+      "title": "Selbstgebastelter Sprengsatz"
+    },
+    {
+      "position": 7,
+      "title": "Ein volles Geständnis"
+    },
+    {
+      "position": 8,
+      "title": "Folgetäter"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (LP / MC) / 1. September 2003 (CD)",
+      "EAN": "743219897046 (MC) / 743219897022 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f12",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-012/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

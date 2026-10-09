@@ -1,0 +1,151 @@
+{
+  "number": 110,
+  "title": "Das Phantom im Schokoladen-Museum",
+  "description": "Autobanditen berauben TKKG und andere Reisende; ein ahnungsloser Pilzsammler hat hochgiftige Knollenblätterpilze gesammelt und muß gewarnt werden; der bekannte Schokoladenfabrikant Herrmann Sauerlich - Klößchens Vater - hat ein Schokoladenmuseum eröffnet, dem ein tückischer Anschlag droht: ein neidvoller Konkurrent will die Schokolade vergiften. Pausenlose Action für TKKG ist angesagt!",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 3222,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Dr. Waldemar Schlankbein",
+      "person": "Ringo Klemm"
+    },
+    {
+      "role": "Detlef Kempferth",
+      "person": "Harald Halgardt"
+    },
+    {
+      "role": "Werner Tippgen",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Erich Glenschel",
+      "person": "Klaus Frevert"
+    },
+    {
+      "role": "Otto Röhrling",
+      "person": "Dieter Ohlendiek"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Elisabeth Vierstein",
+      "person": "Ursula Sieg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher,"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1998 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Giftige Pilze"
+    },
+    {
+      "position": 2,
+      "title": "Ausgeplündert"
+    },
+    {
+      "position": 3,
+      "title": "Alter geht vor Schönheit"
+    },
+    {
+      "position": 4,
+      "title": "Wiedererkannt"
+    },
+    {
+      "position": 5,
+      "title": "Vergiftete Pralinen"
+    },
+    {
+      "position": 6,
+      "title": "Coup auf das Schoko-Museum"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. August 1998",
+      "EAN": "743215476047 (MC) / 743215476023 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f110",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-110/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

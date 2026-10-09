@@ -1,0 +1,179 @@
+{
+  "number": 9,
+  "title": "Abenteuer im Ferienlager",
+  "description": "Langeweile ist ausgeschlossen, wenn die Freunde von TKKG die Sommerferien in einem Feriendorf verbringen. Haarsträubende Abenteuer sind zu bestehen - gegen Gespenster, Grundstücksspekulanten und bewaffnete Rocker. Schließlich drohen sogar rücksichtslose Erpresser, den lustigen Hund Oskar umzubringen.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2518,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Günther Berger",
+      "person": "Wolfgang Völz"
+    },
+    {
+      "role": "Martha Truels",
+      "person": "Katharina Brauren"
+    },
+    {
+      "role": "Will Thiessen",
+      "person": "Ernst von Klippstein"
+    },
+    {
+      "role": "Nils Thiessen",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Jens",
+      "person": "Klaus Selitsch"
+    },
+    {
+      "role": "Herr Kaus",
+      "person": "Rüdiger Schulzki"
+    },
+    {
+      "role": "Sylta Dinrich",
+      "person": "Pamela Punti"
+    },
+    {
+      "role": "Dirk Hansen",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Frau Hansen",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Hundebesitzer",
+      "person": "Joachim Baumert"
+    },
+    {
+      "role": "Polizist",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Frau Dinrich",
+      "person": "Pamela Punti"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1981 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Oma in Not"
+    },
+    {
+      "position": 2,
+      "title": "Gefährliche Gespenster"
+    },
+    {
+      "position": 3,
+      "title": "Anruf um Mitternacht"
+    },
+    {
+      "position": 4,
+      "title": "Reif fürs Irrenhaus"
+    },
+    {
+      "position": 5,
+      "title": "Drohbrief an Gaby"
+    },
+    {
+      "position": 6,
+      "title": "Oskar ist weg!"
+    },
+    {
+      "position": 7,
+      "title": "Pistolenschüsse"
+    },
+    {
+      "position": 8,
+      "title": "In der Falle"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (LP / MC) / 1. September 2003 (CD)",
+      "EAN": "743219896742 (MC) / 743219896728 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f9",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-009/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

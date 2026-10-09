@@ -1,0 +1,139 @@
+{
+  "number": 240,
+  "title": "Das verschollene Zepter von Gizeh",
+  "description": "Die rote Sonne verschwindet hinter der Cheopspyramide und zieht die Schatten der Kamele im Wüstensand grotesk in die Länge, die große Gizeh-Show kann beginnen: Auftritt der geheimnisvollen Königin Kleopatra! Als nur leider niemand erscheint, schleichen Tim, Karl, Klößchen und Gaby hinter die Freiluftbühne und sehen, wie Kleopatra von Männern mit Schakalköpfen entführt wird. Obwohl die junge Schauspielerin die Schwester von Herrn Viersteins Gastgeberin – der berühmten Archäologin Asraa Farouk – ist, bleibt diese erstaunlich gelassen. Aber warum? TKKG starten ihre Ermittlungen und schnell tauchen neue Fragen auf: Warum treffen sich Herr Vierstein und vier seiner ehemaligen Studienfreunde 15 Jahre nach ihrer gemeinsamen Ägyptenreise wieder in Gizeh? Welches Geheimnis trägt die entführte Schauspielerin Laila in sich? Und was hat es mit dem mächtigen Zepter des Totenwächters Anubis auf sich? Je mehr Antworten TKKG finden, desto mehr wollen dunkle Schakalgestalten sie im Inneren der großen Pyramide für immer zum Schweigen bringen …",
+  "release_year": 2026,
+  "release_date": "2026-03-13",
+  "duration_seconds": 6441,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Albert Vierstein",
+      "person": "Joachim Kretzer"
+    },
+    {
+      "role": "Asraa Farouk",
+      "person": "Anika Baumann"
+    },
+    {
+      "role": "Dr. Lutz Blochwitz",
+      "person": "Tim Grobe"
+    },
+    {
+      "role": "Emma Adler",
+      "person": "Andrea Lüdke"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Gizeh-Show-Sprecher",
+      "person": "Ronny Krappmann"
+    },
+    {
+      "role": "Joe Smith",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Laila Farouk",
+      "person": "Leonie Landa"
+    },
+    {
+      "role": "Max Hoffmann",
+      "person": "Sebastian König"
+    },
+    {
+      "role": "Nafi Kamal",
+      "person": "Tim Kreuer"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Schlangenbeschwörer",
+      "person": "Vixaysak Sihachak"
+    },
+    {
+      "role": "Shayma Sakr",
+      "person": "Céline Fontanges"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger, Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2026 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/das-verschollene-zepter-von-gizeh",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f240",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

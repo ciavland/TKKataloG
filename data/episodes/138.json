@@ -1,0 +1,183 @@
+{
+  "number": 138,
+  "title": "Raubzug mit dem Bumerang",
+  "description": "Angst geht um in der Millionenstadt. Entlegene Parks und Spazierwege vereinsamen. Denn dort ist niemand mehr sicher. Ein unheimlicher Raubtäter streckt seine Opfer hinterrücks nieder mit einer lautlosen Waffe: dem Bumerang, dem australischen Wurfholz. Die bewusstlosen Opfer werden ausgeraubt. Die polizeilichen Ermittlungen kommen nicht voran. Fest steht nur eins: Der Verbrecher beherrscht seine Waffe exzellent. Jeden kann der gefährliche Bumerang treffen - plötzlich, aus dem Nichts. Auch TKKG. Denn die Nachwuchsdetektive ermitteln in vorderster Linie...",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 3146,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Jürgen Dünnler",
+      "person": "Frank Felicetti"
+    },
+    {
+      "role": "Fabian Fenloh",
+      "person": "Stefan Arztberg"
+    },
+    {
+      "role": "Roderich Mierling",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "Hubert Mierling",
+      "person": "Wolfgang Hartmann"
+    },
+    {
+      "role": "Gärtner Branko",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Ronald Zaunig",
+      "person": "Friedrich Kiffheuler"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2003 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Bumerangoooo!"
+    },
+    {
+      "position": 2,
+      "title": "Ein kleiner Champ"
+    },
+    {
+      "position": 3,
+      "title": "Dampfkessel mit Explosionsgefahr"
+    },
+    {
+      "position": 4,
+      "title": "Liebeswahn"
+    },
+    {
+      "position": 5,
+      "title": "Psycho-Duell"
+    },
+    {
+      "position": 6,
+      "title": "Jagdgerät der Ureinwohner"
+    },
+    {
+      "position": 7,
+      "title": "Auf Kriegsfuß"
+    },
+    {
+      "position": 8,
+      "title": "Wieder bei Bewusstsein"
+    },
+    {
+      "position": 9,
+      "title": "20.000 als Anzahlung"
+    },
+    {
+      "position": 10,
+      "title": "Fenloh, die Totenblume"
+    },
+    {
+      "position": 11,
+      "title": "Zu spät"
+    },
+    {
+      "position": 12,
+      "title": "Nächtlicher Ausflug"
+    },
+    {
+      "position": 13,
+      "title": "Ganze Arbeit"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1. September 2003",
+      "EAN": "743219886149 (MC) / 743219886125 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f138",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-138/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

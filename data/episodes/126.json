@@ -1,0 +1,167 @@
+{
+  "number": 126,
+  "title": "Teddy Talers Höllenfahrt",
+  "description": "Alarm für TKKG! Gaby findet ein Aktenblatt des Oberstaatsanwalts mit katastrophalen Angaben über den künftigen Stiefvater ihrer Freundin Nadine - deren Mutter bald heiraten will. Auch Nadine ist begeistert von Werner Bronk, der bereits bei ihnen wohnt. Bronk, offenbar in ein neuerliches Verbrechen verwickelt, will einsteigen bei der Drogen-Mafia!",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 3009,
+  "cast": [
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Werner Bronk",
+      "person": "Wolfgang Berger"
+    },
+    {
+      "role": "Matuschke",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Michaela Löbl",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Nadine",
+      "person": "Marita Fliege"
+    },
+    {
+      "role": "Klara Usig",
+      "person": "Céline Fontanges"
+    },
+    {
+      "role": "Pierre Blaireau",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Unfallzeuge I",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Unfallzeuge II",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Polizist PM",
+      "person": "Jakob Lichtblau"
+    },
+    {
+      "role": "Hauslmeier",
+      "person": "Rüdiger Schulzki"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH & Co. KG"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2001 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Kein Typ zum Heiraten"
+    },
+    {
+      "position": 2,
+      "title": "Unfallflucht im grauen Porsche"
+    },
+    {
+      "position": 3,
+      "title": "Marderzähne - Mordwerkzeuge"
+    },
+    {
+      "position": 4,
+      "title": "Keuschheitsprobe"
+    },
+    {
+      "position": 5,
+      "title": "Teddy Talers Höllenfahrt"
+    },
+    {
+      "position": 6,
+      "title": "Klara, das Stuntgirl"
+    },
+    {
+      "position": 7,
+      "title": "Eine Falle für Bronk"
+    },
+    {
+      "position": 8,
+      "title": "Nur gegen Unterschrift"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "14. Mai 2001",
+      "EAN": "743218387845 (MC) / 743218387821 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f126",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-126/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

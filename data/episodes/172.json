@@ -1,0 +1,187 @@
+{
+  "number": 172,
+  "title": "Das Geheimnis der Moorleiche",
+  "description": "Fast niemand kennt den kleinen See am alten Torfmoor, zu dem die vier Freunde von TKKG an diesem sonnigen Nachmittag einen Ausflug machen. Als Oskar plötzlich verschwindet, und die Freunde ihn suchen, machen sie eine unglaubliche Entdeckung: vor ihnen liegt eine geöffnete Grabstätte mit einem mumifizierten Skelett - eine Moorleiche! Handelt es sich dabei um einen 3000 Jahre alten Germanen oder wurde hier erst kürzlich ein Mord begangen? Als ein merkwürdiger Archäologe bei Kommissar Glockner auftaucht und die Leiche unbedingt untersuchen will, werden die Freunde hellhörig und stellen eigene Nachforschungen an, die dem Fall eine überraschende Wendung geben...",
+  "release_year": 2011,
+  "release_date": null,
+  "duration_seconds": 3509,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Frank Schustmann",
+      "person": "Robin Brosch"
+    },
+    {
+      "role": "Professor Graber",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Jacky",
+      "person": "Jens Wendland"
+    },
+    {
+      "role": "Kevin",
+      "person": "Frank Meyer-Brockmann"
+    },
+    {
+      "role": "Adam",
+      "person": "Stephan Gabriel"
+    },
+    {
+      "role": "Nachbarin",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Journalistin",
+      "person": "Christine Pappert"
+    },
+    {
+      "role": "Fritz",
+      "person": "Knud Riepen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Veronika Hampl nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Hörspielbearbeitung und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion und Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B –"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher ·"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Grausiger Fund"
+    },
+    {
+      "position": 2,
+      "title": "Moorleiche oder Mumie?"
+    },
+    {
+      "position": 3,
+      "title": "Seltsame Zeichen"
+    },
+    {
+      "position": 4,
+      "title": "Der Mann vom Phantombild"
+    },
+    {
+      "position": 5,
+      "title": "Geheimnisvoller Schlüssel"
+    },
+    {
+      "position": 6,
+      "title": "Nicht verzagen – Nachbarn fragen!"
+    },
+    {
+      "position": 7,
+      "title": "Germanische Runen"
+    },
+    {
+      "position": 8,
+      "title": "Aufgeschlitzte Polster"
+    },
+    {
+      "position": 9,
+      "title": "Poststraße 14"
+    },
+    {
+      "position": 10,
+      "title": "Die Brüder"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "11. Februar 2011",
+      "EAN": "886977525346 (MC) / 886977525322 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f172",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-172/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "number": 113,
+  "title": "Mit heißer Nadel Jagd auf Kids",
+  "description": "Treibt ein Wahnsinniger in der TKKG-Stadt sein Unwesen? Kids werden hinterrücks überfallen, betäubt und mit Tätowierungen verunstaltet - mit Tattoos im Gesicht. Das Motiv des Täters und seiner Komplizen: Vermögende Eltern werden erpresst, indem man ihnen droht, ihre Kinder auf die gleiche Weise zu entstellen. Als auch Gaby in Gefahr gerät, gibt es für ihre Freunde kein Halten mehr.",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 2605,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Friedrich Schneider",
+      "person": "Jürgen Strube"
+    },
+    {
+      "role": "Katja Schneider",
+      "person": "Jennifer Böttcher"
+    },
+    {
+      "role": "Berthold Prickner",
+      "person": "Wolfgang Riehm"
+    },
+    {
+      "role": "Alwin Klatschke",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Kommissar Helmut Arndmeier",
+      "person": "Thomas R. Douglas"
+    },
+    {
+      "role": "Hotelportier Wallenberg",
+      "person": "Franz Josef Steffens"
+    },
+    {
+      "role": "Luhser",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Serviererin",
+      "person": "Anja Maria Mahler"
+    },
+    {
+      "role": "Telefon-Zentrale",
+      "person": "Heikedine Körting"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1999 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Unfall im Steinpilz-Revier"
+    },
+    {
+      "position": 2,
+      "title": "Ungeliebter Schwiegersohn"
+    },
+    {
+      "position": 3,
+      "title": "Tattoos zum Erpressen"
+    },
+    {
+      "position": 4,
+      "title": "Nun auch Katja"
+    },
+    {
+      "position": 5,
+      "title": "In Berts Tätowierstube"
+    },
+    {
+      "position": 6,
+      "title": "Gefahr für Gaby"
+    },
+    {
+      "position": 7,
+      "title": "Kimmissar Arndmeier"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. Februar 1999",
+      "EAN": "743216206247 (MC) / 743216206223 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f113",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-113/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

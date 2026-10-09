@@ -1,0 +1,183 @@
+{
+  "number": 6,
+  "title": "Angst in der 9a",
+  "description": "Am liebsten von allen Lehrern in ihrem Internat mögen die TKKG-Freunde die Müller-Borello. Sie ist immer fröhlich und gibt gute Noten. Bloß in letzter Zeit, da macht die Mübo einen recht traurigen Eindruck, und in der 9a wird sie regelrecht schikaniert. Drechsel und Bettger, zwei üble Rowdies, sind die Anführer. Warum? Tarzan sieht die beiden in einer Kneipe zusammen mit \"King\" Seibold, einem stadtbekannten Rocker, der mit seinen Kumpanen besonders die Kinder von italienischen Gastarbeitern terrorisiert. Dass \"King\", dessen Vater eine schmuddelige Werkstatt betreibt, aber einen flotten Porsche fährt, mit dem angeberischen Autohändler Antonio Borelo unter einer Decke steckt, macht die Geschichte nur noch rätselhafter. Antonio ist der Ehemann der Mübo, die sich aber von ihm scheiden lassen will und um den gemeinsamen Sohn Marco kämpft. Die TKKG-Freunde lösen auch diesen Fall und klären in letzter Minute sogar die Entführung.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2243,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Marco, Sohn der Müller-Borello",
+      "person": "Marek Harloff"
+    },
+    {
+      "role": "Frau Müller-Borello",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Antonio Borello",
+      "person": "Wolfgang Jürgen"
+    },
+    {
+      "role": "Joachim Drechsel",
+      "person": "Florian Westphal"
+    },
+    {
+      "role": "Detlef Bettger",
+      "person": "Eric Heitmann"
+    },
+    {
+      "role": "Otto „King“ Seibold",
+      "person": "Friedrich Hey"
+    },
+    {
+      "role": "Friedhelm Wagner",
+      "person": "Christian Mey"
+    },
+    {
+      "role": "Otto Seibold sen.",
+      "person": "Hans Irle"
+    },
+    {
+      "role": "Maria Estate",
+      "person": "Marlen Krause"
+    },
+    {
+      "role": "Ulrich Kanter-Ranke",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Carlo, Kellner der Frattoria",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Dr. Lemberg",
+      "person": "Prof. Dr. Andreas Beurmann"
+    },
+    {
+      "role": "Fabio Leone",
+      "person": "Jan Krause"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1980 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gaby wird ungerecht benotet"
+    },
+    {
+      "position": 2,
+      "title": "Anschläge auf die Lehrerin"
+    },
+    {
+      "position": 3,
+      "title": "Wer hat Tarzans Rennrad gestohlen?"
+    },
+    {
+      "position": 4,
+      "title": "Ein böser Trick"
+    },
+    {
+      "position": 5,
+      "title": "In schlechter Gesellschaft"
+    },
+    {
+      "position": 6,
+      "title": "Den Autodieben auf der Spur"
+    },
+    {
+      "position": 7,
+      "title": "Kindesentführung"
+    },
+    {
+      "position": 8,
+      "title": "Pures Gift"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (LP / MC) / 12. Mai 2003 (CD)",
+      "EAN": "743219896445 (MC) / 743219896421 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f6",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-006/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

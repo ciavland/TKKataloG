@@ -1,0 +1,159 @@
+{
+  "number": 64,
+  "title": "Schwarze Pest aus Indien",
+  "description": "Der Schularzt erhält ein Päckchen mit tödlichem Inhalt: Bakterien der Schwarzen Pest! Seuchengefahr! Ausgerechnet jetzt wird in der Praxis eingebrochen und der Dieb, Detlef Knobel, nimmt auch dieses Paket mit. Alarm für die ganze Stadt! Natürlich auch für die TKKG-Freunde - und sie machen eine gefährliche Entdeckung!",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 2674,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Dr. med. Claus Heilmann",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Norbert Tümmel",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Claudia Tümmel",
+      "person": "Sabine Falkenberg"
+    },
+    {
+      "role": "Assessor Alois Keismar",
+      "person": "Thomas Naumann"
+    },
+    {
+      "role": "Direktor Dr. Freund",
+      "person": "Norbert Langer"
+    },
+    {
+      "role": "Elsa Kranig",
+      "person": "Anne Schermutzki"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Polizeilich gesucht"
+    },
+    {
+      "position": 2,
+      "title": "Mädchen mit Donald-Duck-Stimme"
+    },
+    {
+      "position": 3,
+      "title": "Keine Beweise"
+    },
+    {
+      "position": 4,
+      "title": "Muffengang bis in die Beinkleider"
+    },
+    {
+      "position": 5,
+      "title": "Pockenbakterien"
+    },
+    {
+      "position": 6,
+      "title": "Hartnäckig geleugnet"
+    },
+    {
+      "position": 7,
+      "title": "Notfall"
+    },
+    {
+      "position": 8,
+      "title": "Die geborene Verbrecherin"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902245 (MC) / 743219902221 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f64",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-064/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

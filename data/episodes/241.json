@@ -1,0 +1,123 @@
+{
+  "number": 241,
+  "title": "Das Rätsel der Gruselvilla",
+  "description": "Das Wochenende steht vor der Tür und testhalber schlägt Klößchen sein neues Zelt im Sauerlich-Garten auf. Seine Freunde Tim, Karl und Gaby sind natürlich mit von der Partie. Im völlig verwilderten Nachbargarten kämpft ein Gärtner unterdessen tapfer gegen den Wildwuchs. Die dazugehörige Gruselvilla, die einst Stefanie Baroness von Engelbrecht bewohnte, scheint einen neuen Besitzer gefunden zu haben. Ein Einbruch am helllichten Tag ruft TKKG auf den Plan. Ihre Ermittlungen führen sie zu einem geheimnisvollen Tagebuch der Baroness, in dem von einem versteckten Goldbarren zu lesen ist. Die Nacht legt sich über den Gruselgarten, ein Landstreicher schleicht herum, mit spitzen Ohren liegen TKKG im dunklen Zelt …",
+  "release_year": 2026,
+  "release_date": "2026-05-08",
+  "duration_seconds": 3791,
+  "cast": [
+    {
+      "role": "Arno von Engelbrecht",
+      "person": "Constantin von Westphalen"
+    },
+    {
+      "role": "Beppo Barfuß",
+      "person": "Erkki Hopf"
+    },
+    {
+      "role": "Doris Tusche",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Frau Sauerlich",
+      "person": "Eva Colombina"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Magdalena Ludmann",
+      "person": "Lisa Flachmeyer"
+    },
+    {
+      "role": "Manfred Bausewein",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Monique van Dorten",
+      "person": "Monika Werner"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger, Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2026 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/das-ratsel-der-gruselvilla",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f241",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

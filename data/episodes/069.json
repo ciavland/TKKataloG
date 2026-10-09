@@ -1,0 +1,159 @@
+{
+  "number": 69,
+  "title": "Achtung: Die \"Monsters\" kommen!",
+  "description": "Maskierte Schläger überfallen eine Klassenféte der Mädchenschule und verwüsten, was ihnen in die Quere kommt. Dabei verletzen sie sogar Gaby! Tim kocht vor Wut. Keine Frage, dass er sich auf die Spur der \"Monsters\" setzt und nicht lockerläßt, bis er den wahrhaft Schuldigen gefunden hat...",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2433,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Carina Kerzenheym",
+      "person": "Ann Montenbruck"
+    },
+    {
+      "role": "Bettina Lechner",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Sascha Lechner",
+      "person": "Marc Seidenberg"
+    },
+    {
+      "role": "Walter Zahlske",
+      "person": "Helmut Ahner"
+    },
+    {
+      "role": "Dr. Hartwig Beißinger",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Würgegriff-Paula",
+      "person": "Anne Schermutzki"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Enorme Verantwortung"
+    },
+    {
+      "position": 2,
+      "title": "Bullenstarke Typen"
+    },
+    {
+      "position": 3,
+      "title": "\"Beim Schweif des Kometen\""
+    },
+    {
+      "position": 4,
+      "title": "Monster, wohin man guckt!"
+    },
+    {
+      "position": 5,
+      "title": "Begrenzter Schaden"
+    },
+    {
+      "position": 6,
+      "title": "Spielschulden"
+    },
+    {
+      "position": 7,
+      "title": "Auch Ganoven haben Zahnweh"
+    },
+    {
+      "position": 8,
+      "title": "Ein Fall für die Klapsmühle"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1990 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902740 (MC) / 743219902726 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f69",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-069/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

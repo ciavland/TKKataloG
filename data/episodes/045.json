@@ -1,0 +1,163 @@
+{
+  "number": 45,
+  "title": "Unternehmen Grüne Hölle",
+  "description": "Ein Juweliergeschäft soll überfallen werden und die Verbrecher haben sich einen ganz besonders raffinierten Plan ausgedacht. Doch Tim und Klößchen kommen ihnen in die Quere. Mit ihrer Tat aber lösen sie ein weiteres Verbrechen aus! Die Spur des Täters führt in die \"Grüne Hölle\". Doch das wird ihnen erst bewußt, als sie schon mittendrin sind...",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2493,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Friedhelm Merpe",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Obdachloser",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Johanna Behlen",
+      "person": "Carin Abicht"
+    },
+    {
+      "role": "Agathe Behlen",
+      "person": "Gisela Trowe"
+    },
+    {
+      "role": "Horst Dungert",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Stefanie von Jaburg",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Elisa von Jaburg",
+      "person": "Eva Michaelis"
+    },
+    {
+      "role": "Anis Gasthmi",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Chauffeur",
+      "person": "Jörg Gillner"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Klotz von Kalifaru"
+    },
+    {
+      "position": 2,
+      "title": "Dichter Nebel"
+    },
+    {
+      "position": 3,
+      "title": "Vornehme Gäste"
+    },
+    {
+      "position": 4,
+      "title": "Wo ist der Diamant?"
+    },
+    {
+      "position": 5,
+      "title": "Fliegender Kaugummi"
+    },
+    {
+      "position": 6,
+      "title": "Arabischer Gast"
+    },
+    {
+      "position": 7,
+      "title": "El Hamid, der Schreckliche"
+    },
+    {
+      "position": 8,
+      "title": "Verplappert"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 8. August 2005 (CD)",
+      "EAN": "743219900340 (MC) / 743219900326 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f45",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-045/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "number": 99,
+  "title": "Hilflos in eisiger Nacht",
+  "description": "Nachts schrecken Tim und Klößchen aus dem Schlaf, denn unweit des Internats erfolgt eine gewaltige Explosion. Hinter einem Waldstück findet man einen tiefen Krater im Boden. Ein Landstreicher, der in der Nähe übernachtet hat, zittert vor Angst. Er hat eine sensationelle Beobachtung gemacht: Ein Ufo, behauptet er, wäre gelandet. Grünschillernde menschenähnliche Wesen hätten es fluchtartig verlassen. Denn sei das Raumschiff explodiert. Ein heißer Fall für TKKG - denn die Fernreisenden aus dem Weltall sind offenbar nicht in friedlicher Absicht gelandet, wie sich bald herausstellt.",
+  "release_year": 1996,
+  "release_date": null,
+  "duration_seconds": 4182,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Susanne",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Oliver",
+      "person": "Gregor Reisch"
+    },
+    {
+      "role": "Franzi",
+      "person": "Corinna Wodrich"
+    },
+    {
+      "role": "Kurt Selbig",
+      "person": "Eberhard Haar"
+    },
+    {
+      "role": "Oma",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Martina Paulmann",
+      "person": "Isabella Grothe"
+    },
+    {
+      "role": "Cornelius Luhe",
+      "person": "Wolf Rathjen"
+    },
+    {
+      "role": "Fred Zeiler",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Christian Körner",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Volker Sommer",
+      "person": "Mario Mertens"
+    },
+    {
+      "role": "Schüler",
+      "person": "André Minninger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch und Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1996 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Brief der Verstorbenen"
+    },
+    {
+      "position": 2,
+      "title": "Gossensprache"
+    },
+    {
+      "position": 3,
+      "title": "Explosion um 0.31 Uhr"
+    },
+    {
+      "position": 4,
+      "title": "Der entlastende Brief"
+    },
+    {
+      "position": 5,
+      "title": "Zerstochene Reifen"
+    },
+    {
+      "position": 6,
+      "title": "Der Überfall"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "7. Oktober 1996",
+      "EAN": "743213956749 (MC) / 743213956725 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f99",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-099/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

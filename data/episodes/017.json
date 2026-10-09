@@ -1,0 +1,195 @@
+{
+  "number": 17,
+  "title": "Die Doppelgängerin",
+  "description": "Inge ist 16 Jahre alt und das Kind armer Eltern. Durch Zufall gerät sie an einen riesigen Schatz: Zwei seltene Briefmarken, die 400.000 DM wert sind - gestohlen von zwei Dieben! Inge vertraut sich dem TKKG an. Doch bevor die vier vom TKKG etwas unternehmen können, versucht einer der Diebe, Inge zu entführen. Aber er verwechselt sie mit einer Klassenkameradin: Bärbel ist Inges Doppelgängerin, ihre Eltern sind Millionäre. Eine gefährliche Aufgabe für die TKKG-Freunde, das Mädchen zu befreien und Inge zu helfen...",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2498,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Fritz Paulsen",
+      "person": "Martin Piontek"
+    },
+    {
+      "role": "Edwin Funke",
+      "person": "Hubert Mittendorf"
+    },
+    {
+      "role": "Bärbel Zonker",
+      "person": "Svenja Pages"
+    },
+    {
+      "role": "Robert L. Zonker",
+      "person": "Karl-Heinz Heß"
+    },
+    {
+      "role": "Inge Selbmann",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Werner Albrecht Selbmann",
+      "person": "Siegfried Wald"
+    },
+    {
+      "role": "Kathie Selbmann",
+      "person": "Pamela Punti"
+    },
+    {
+      "role": "Hartmut Amadeus Selbmann",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Lydia Waberina",
+      "person": "Hildegard Wensch"
+    },
+    {
+      "role": "Dettl",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Toni Ehrlich",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Ottmar Paulsen",
+      "person": "Nicolas Körting"
+    },
+    {
+      "role": "Röbbeck",
+      "person": "Lothar Zibell"
+    },
+    {
+      "role": "Margot Zonker",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Butler Friedrich",
+      "person": "Joachim Richert"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1981 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "XY"
+    },
+    {
+      "position": 2,
+      "title": "Erbberechtigt"
+    },
+    {
+      "position": 3,
+      "title": "Geizknochen"
+    },
+    {
+      "position": 4,
+      "title": "Erpressung"
+    },
+    {
+      "position": 5,
+      "title": "Butterweich"
+    },
+    {
+      "position": 6,
+      "title": "Kidnapping"
+    },
+    {
+      "position": 7,
+      "title": "Enttäuscht"
+    },
+    {
+      "position": 8,
+      "title": "Bestrafung"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 9. Februar 2004 (CD)",
+      "EAN": "743219897541 (MC) / 743219897527 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f17",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-017/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

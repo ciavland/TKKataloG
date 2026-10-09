@@ -1,0 +1,159 @@
+{
+  "number": 68,
+  "title": "Rauschgift-Razzia im Internat",
+  "description": "Mitten im Wald entdeckt die TKKG-Bande eine Rauschgift-Plantage. Wer hat die Haschisch-Stauden gepflanzt? Die TKKG-Freunde entlarven einen Dealer. Doch dabei stoßen sie auf einen Rauschgift-Ring, dessen mächtige Bosse vor keinem Verbrechen zurückschrecken! Eine heiße Spur führt sogar in die Internatsschule...",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2366,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Dr. Wolfgang Kleinfrieden",
+      "person": "Michael Quiatkowsky"
+    },
+    {
+      "role": "Raimund „Rai“ Fieslinger",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Anna-Ilse",
+      "person": "Gabriele Libbach"
+    },
+    {
+      "role": "Manfred Mack-Müller",
+      "person": "Henning Pommée"
+    },
+    {
+      "role": "Dirk Raunzbolde",
+      "person": "Till Endemann"
+    },
+    {
+      "role": "Sascha Wendt",
+      "person": "Tobias Pauls"
+    },
+    {
+      "role": "Erwin Patelka",
+      "person": "Boris Tessmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Haschisch im Kaffee"
+    },
+    {
+      "position": 2,
+      "title": "Auf der Rauschgift-Plantage"
+    },
+    {
+      "position": 3,
+      "title": "Dealer-Organisation"
+    },
+    {
+      "position": 4,
+      "title": "Völlig ahnungslos"
+    },
+    {
+      "position": 5,
+      "title": "Kurzschluss-Handlung"
+    },
+    {
+      "position": 6,
+      "title": "Toter Briefkasten"
+    },
+    {
+      "position": 7,
+      "title": "Gefährlicher Plan"
+    },
+    {
+      "position": 8,
+      "title": "Verhaftet"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902641 (MC) / 743219902627 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f68",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-068/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

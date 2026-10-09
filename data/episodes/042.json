@@ -1,0 +1,187 @@
+{
+  "number": 42,
+  "title": "Anschlag auf den Silberpfeil",
+  "description": "TKKG-\"Häuptling\" Tim hat seine Mutter besucht. Auf der Rückfahrt zum Internat rast er förmlich in das nächste Abenteuer hinein, denn unbekannte Täter haben Steinbrocken vor den Zug gewälzt! Und schon bald darauf meldet sich ein Erpresser, der weitere Schläge ankündigt - Anschläge auf den Express-Zug \"Silberpfeil\".",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 2814,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Christine Pfab",
+      "person": "Caroline van Bergen"
+    },
+    {
+      "role": "Gertrud Rawitzky",
+      "person": "Ursela Monn"
+    },
+    {
+      "role": "Otto Nitschl",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Herr Schulzl-Müller",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Robert Jesper",
+      "person": "Friedrich Schoenfelder"
+    },
+    {
+      "role": "Erich Jesper",
+      "person": "Christian Stark"
+    },
+    {
+      "role": "Frank Hauke",
+      "person": "Pinkas Braun"
+    },
+    {
+      "role": "Zugschaffner",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Herbert",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Polizei-Funkzentrale",
+      "person": "Günter König"
+    },
+    {
+      "role": "Brandmeister Löschl",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Kellner im Silberpfeil",
+      "person": "Matthias Grimm"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1986 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein verschobenes Versteck"
+    },
+    {
+      "position": 2,
+      "title": "Sensationsfotos"
+    },
+    {
+      "position": 3,
+      "title": "Oskar hat Geburtstag"
+    },
+    {
+      "position": 4,
+      "title": "Erpresser mit rauer Stimme"
+    },
+    {
+      "position": 5,
+      "title": "Teufelstunnel"
+    },
+    {
+      "position": 6,
+      "title": "Finanzielle Schwierigkeiten"
+    },
+    {
+      "position": 7,
+      "title": "Spaß-Dialekt"
+    },
+    {
+      "position": 8,
+      "title": "In letzter Sekunde"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1986 (MC) / 11. Juli 2005 (CD)",
+      "EAN": "743219900043 (MC) / 743219900029 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f42",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-042/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

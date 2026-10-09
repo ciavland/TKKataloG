@@ -1,0 +1,175 @@
+{
+  "number": 2,
+  "title": "Der blinde Hellseher",
+  "description": "Tarzans Schulfreund Volker Krause war schon immer etwas scheu und zurückhaltend. Seine Freunde werden nicht recht schlau aus ihm. Eines Tages kommt Volker nicht zur Schule: Verbrecher haben ihn entführt und fordern hohes Lösegeld von seinen Eltern. Die Krauses sind sehr reich, und Volkers Mutter gilt als etwas übergeschnappt. Sie glaubt an überirdische Erscheinungen und läßt sich von dem blinden Hellseher Raimondo seltsame Botschaften aus dem Jenseits übermitteln. Unsere vier Freunde vom TKKG trauen diesem Raimondo nicht. Hat er den armen Volker entführt? Oder war es Mario, der ein italienisches Restaurant betreibt und sich recht verdächtig benimmt? Tarzan, Klößchen, Karl und Gaby suchen ihren Schulfreund auf eigene Faust. Natürlich hilft auch Oskar kräftig mit, Gabys treuer Cocker-Spaniel. Die Kinder geraten von einer gefährlichen Situation in die andere, und der Fall wird immer geheimnisvoller - ein Fall für TKKG.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2523,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Volker Krause",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Edith Krause",
+      "person": "Eva Gelb"
+    },
+    {
+      "role": "Vater Krause",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Wilfried",
+      "person": "Friedrich Hey"
+    },
+    {
+      "role": "Susi",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Suzanne Hivers",
+      "person": "Susanne Wulkow"
+    },
+    {
+      "role": "Claudia Klamm",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Otto Biersack / Raimondo",
+      "person": "Hans Irle"
+    },
+    {
+      "role": "Klara Bichler / Amanda",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Mario Frasketti",
+      "person": "Andreas von der Meden"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1979 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mutprobe"
+    },
+    {
+      "position": 2,
+      "title": "Vor 500 Jahren schon mal gelebt?"
+    },
+    {
+      "position": 3,
+      "title": "Wer ist der Kidnapper?"
+    },
+    {
+      "position": 4,
+      "title": "In Marios Restaurant"
+    },
+    {
+      "position": 5,
+      "title": "Nachtrichten aus dem Jenseits?"
+    },
+    {
+      "position": 6,
+      "title": "Die Mächte der Finsternis"
+    },
+    {
+      "position": 7,
+      "title": "Rastplatz Kuckucksruh"
+    },
+    {
+      "position": 8,
+      "title": "Wer hätte das gedacht?"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (LP / MC) / 12. Mai 2003 (CD)",
+      "EAN": "743219896049 (MC) / 743219896025 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f2",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-002/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

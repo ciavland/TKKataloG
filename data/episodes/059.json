@@ -1,0 +1,163 @@
+{
+  "number": 59,
+  "title": "Trickdieb auf Burg Drachenstein",
+  "description": "Ein Schulfreund lädt die TKKG-Bande übers Wochenende in das Luxus-Hotel seiner Eltern ein. Es ist die Burg Drachenstein, die voller historischer Kostbarkeiten steckt. Zur selben Zeit wohnt ein international gesuchter Dieb im Hotel. Will er die wertvolle Handschrift aus dem 17. Jahrhundert stehlen?",
+  "release_year": 1988,
+  "release_date": null,
+  "duration_seconds": 2507,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Murad Hached",
+      "person": "Michael Grimm"
+    },
+    {
+      "role": "Udo von Dröhningen",
+      "person": "Stephan Hartwig"
+    },
+    {
+      "role": "Eduard von Dröhningen",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Lotte von Dröhningen",
+      "person": "Ilona Schütze"
+    },
+    {
+      "role": "Julia von Dröhningen",
+      "person": "Gabriele Libbach"
+    },
+    {
+      "role": "Achim Knutzlspecht",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Otto Servill",
+      "person": "Hans Ahner"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1988 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mit allen Wassern gewaschen"
+    },
+    {
+      "position": 2,
+      "title": "Hinter den Kulissen"
+    },
+    {
+      "position": 3,
+      "title": "Der Typ aus dem WC"
+    },
+    {
+      "position": 4,
+      "title": "Professioneller Verbrecher"
+    },
+    {
+      "position": 5,
+      "title": "Auf zur Henkerseiche!"
+    },
+    {
+      "position": 6,
+      "title": "Versteck im Astloch"
+    },
+    {
+      "position": 7,
+      "title": "Versicherungsbetrug"
+    },
+    {
+      "position": 8,
+      "title": "Falscher Bart"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1988 (MC) / 9. Juni 2006 (CD)",
+      "EAN": "743219901743 (MC) / 743219901729 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f59",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-059/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

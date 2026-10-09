@@ -1,0 +1,175 @@
+{
+  "number": 187,
+  "title": "Ausspioniert!",
+  "description": "Klößchens Vater, Hermann Sauerlich, ist ratlos: Wertvolle Betriebsgeheimnisse der \"Sauerlich Schokolade GmbH\" sind bei einem Konkurrenzunternehmen gelandet! Herr Sauerlich hatte viel Geld in die Entwicklung eines neuartigen Schokoriegels gesteckt - war nun alles umsonst? Klößchen fühlt sich für die Sicherheitspanne mitverantwortlich und beschließt - den grimmigen Drohungen der Erpresser zum Trotz - die Sache selbst in die Hand zu nehmen. Hat eine Mitarbeiterin der Schokoladenfabrik mit der Betriebsspionage zu tun? Wer hat der Konkurrenz die geheimen Unterlagen zugespielt? TKKG nehmen die Spur auf - und stehen bald im wahrsten Sinn des Wortes vor einem tiefen Abgrund...",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": 3802,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Brigitte Böttrich"
+    },
+    {
+      "role": "Karin Stern",
+      "person": "Caroline Kiesewetter"
+    },
+    {
+      "role": "Rolf Reiher",
+      "person": "Joachim Kerzel"
+    },
+    {
+      "role": "Werner Angler",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Alben Mülsch",
+      "person": "Peter Lakenmacher"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Nagel und Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Elefanten unter der Motorhaube"
+    },
+    {
+      "position": 2,
+      "title": "Keine Polizei!"
+    },
+    {
+      "position": 3,
+      "title": "Netzwerke"
+    },
+    {
+      "position": 4,
+      "title": "Trojaner auf zwei Beinen"
+    },
+    {
+      "position": 5,
+      "title": "Auf eigene Faust"
+    },
+    {
+      "position": 6,
+      "title": "Nichts wie weg"
+    },
+    {
+      "position": 7,
+      "title": "Ist das nicht...?"
+    },
+    {
+      "position": 8,
+      "title": "Die Übergabe"
+    },
+    {
+      "position": 9,
+      "title": "Rettet die Beweismittel!"
+    },
+    {
+      "position": 10,
+      "title": "Ausgetrickst"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "11. April 2014",
+      "EAN": "88843031402"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f187",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-187/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

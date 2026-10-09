@@ -1,0 +1,167 @@
+{
+  "number": 131,
+  "title": "Stundenlohn für flotte Gangster",
+  "description": "Anna Riedel, die jüngste Lehrerin an der TKKG-Schule, ist eine außergewöhnliche Schönheit. Außerdem nett und ihr Unterricht ist spannend. Viele Jungs lernen ihr zuliebe. Anna könnte zufrieden sein. Doch ihr Leben ist die Hölle: die junge Pädagogin ist blankem Terror ausgesetzt. Sie wird belästigt, verfolgt und bedroht von zwielichtigen Typen, die sie gar nicht kennt. In wessen Auftrag handeln sie? Welches dunkle Geheimnis überschattet Annas Leben? TKKG sind auf der richtigen Spur...",
+  "release_year": 2002,
+  "release_date": null,
+  "duration_seconds": 2977,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Anna Riedel",
+      "person": "Svenja Pages"
+    },
+    {
+      "role": "Paul Egon Flappe",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Ludwig Kittvogel",
+      "person": "Claus Fuchs"
+    },
+    {
+      "role": "Friedemann Läutsälig",
+      "person": "Tilmann Madaus"
+    },
+    {
+      "role": "Alma Neupott",
+      "person": "Hella Vanda"
+    },
+    {
+      "role": "Dr. Hans-Erich Lorder",
+      "person": "Constantin Westphalen"
+    },
+    {
+      "role": "Benito Mugani",
+      "person": "Helgo Liebig"
+    },
+    {
+      "role": "Bruce Redfire",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Christopher Spechthammer",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Lisa Stechowski",
+      "person": "Maike Harten"
+    },
+    {
+      "role": "Gill",
+      "person": "Christian Rudolf"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2002 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Zitternde Finger"
+    },
+    {
+      "position": 2,
+      "title": "Diebstahl an allen Ecken"
+    },
+    {
+      "position": 3,
+      "title": "Verleumdung"
+    },
+    {
+      "position": 4,
+      "title": "Ein Batzen Kohle"
+    },
+    {
+      "position": 5,
+      "title": "Herzversagen"
+    },
+    {
+      "position": 6,
+      "title": "Strumpfmaske und Gummiknüppel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "15. April 2002",
+      "EAN": "743218964244 (MC) / 743218964220 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f131",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-131/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

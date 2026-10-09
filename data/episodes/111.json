@@ -1,0 +1,139 @@
+{
+  "number": 111,
+  "title": "Die tödliche Falle",
+  "description": "Vor acht Jahren hat Bruno Butzke, genannt Wodka-Bruno, eine Million geraubt. Das Geld wurde nie gefunden. Jetzt wird der Ganove aus dem Gefängnis entlassen. TKKG sind überzeugt: er hat die Kohle noch, hat sie irgendwo versteckt. Und bei Wiederbeschaffung würde eine hübsche Prämie anfallen, die TKKG für behinderte Kinder spenden könnten. Also Beschattung, Verfolgung! Und TKKG geraten in eine dramatische Auseinandersetzung unter Verbrechern.",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 2887,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Lothar Voigt",
+      "person": "Peter Groß"
+    },
+    {
+      "role": "Bruno Butzke",
+      "person": "Klaus Dittmann"
+    },
+    {
+      "role": "Erwin Grunzgrube",
+      "person": "Vincent Göbel"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher,"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1998 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Anspruch auf Finderlohn"
+    },
+    {
+      "position": 2,
+      "title": "Knacki mit Wodkagesicht"
+    },
+    {
+      "position": 3,
+      "title": "Aufgestaute Wünsche"
+    },
+    {
+      "position": 4,
+      "title": "In Luft aufgelöst"
+    },
+    {
+      "position": 5,
+      "title": "Wer kriegt die Million?"
+    },
+    {
+      "position": 6,
+      "title": "Kleinvieh macht auch Mist"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. Oktober 1998",
+      "EAN": "743215932642 (MC) / 743215932628 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f111",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-111/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

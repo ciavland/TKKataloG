@@ -1,0 +1,167 @@
+{
+  "number": 58,
+  "title": "Der doppelte Pedro",
+  "description": "Rätsel um Pedro Riguera! Kunden und Mitarbeiter des Bankhauses Thaler bezeugen, dass er den Überfall auf das Geldinstitut begangen hat. Gäste und Angestellte eines Restaurants versichern jedoch, der Spanier sei zur gleichen Zeit dort gewesen. Wer hat recht? Die TKKG-Freunde lösen das Rätsel - und Oskar ist der Held des Tages!",
+  "release_year": 1988,
+  "release_date": null,
+  "duration_seconds": 2590,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Pedro Riguera",
+      "person": "Norbert Langer"
+    },
+    {
+      "role": "Alfredo / Angelo Riguera",
+      "person": "Norbert Langer"
+    },
+    {
+      "role": "Rosalinde „Rosa“ Beihoff",
+      "person": "Barbara Feindt"
+    },
+    {
+      "role": "Detlef Beihoff",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Hermann Grabschakowsky",
+      "person": "Hans Ahner"
+    },
+    {
+      "role": "Heiko Gluschl",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Kriminal-Assistent Jeske",
+      "person": "Marco Kröger"
+    },
+    {
+      "role": "Nachbar",
+      "person": "Hans Ahner"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1988 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Eine Menge Bargeld"
+    },
+    {
+      "position": 2,
+      "title": "Gegen Tollwut geimpft"
+    },
+    {
+      "position": 3,
+      "title": "Chaotische Unordnung"
+    },
+    {
+      "position": 4,
+      "title": "Die Mafia im Genick"
+    },
+    {
+      "position": 5,
+      "title": "Hände hoch!"
+    },
+    {
+      "position": 6,
+      "title": "Funkelnde Augen"
+    },
+    {
+      "position": 7,
+      "title": "Der doppelte Pedro"
+    },
+    {
+      "position": 8,
+      "title": "Betrogener Betrüger"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1988 (MC) / 9. Juni 2006 (CD)",
+      "EAN": "743219901644 (MC) / 743219901620 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f58",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-058/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

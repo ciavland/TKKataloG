@@ -1,0 +1,163 @@
+{
+  "number": 92,
+  "title": "Der grausame Rächer",
+  "description": "Dr. Robert Hausschild, Studienrat und Vater der 9jährigen Regina, erhält den Anruf eines Unbekannten. Der beschuldigt ihn, er hätte vor zwei Jahren die Tochter des Anrufers tödlich überfahren und Fahrerflucht begangen, eine bis heute ungesühnte Tat. Aber nun sei er entdeckt - und Rache angesagt. Regina soll das gleiche Schicksal erleiden. - Eine schreckliche Drohung und ein heißer Fall für TKKG.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 2422,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Lothar Wasitzki",
+      "person": "Hans Sievers"
+    },
+    {
+      "role": "Katharina Padedö",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Assistentin",
+      "person": "Corinna Wodrich"
+    },
+    {
+      "role": "Martin Doppelstock",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Dieter Doppelstock",
+      "person": "Leonhard Mahlich"
+    },
+    {
+      "role": "Dr. Robert Hausschild",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Beate Hausschild",
+      "person": "Victoria von Trautmannsdorff"
+    },
+    {
+      "role": "Regina Hausschild",
+      "person": "Theresa Underberg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "TKKG-Titelmusik"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1995 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Rächer am Telefon"
+    },
+    {
+      "position": 2,
+      "title": "Untergetaucht"
+    },
+    {
+      "position": 3,
+      "title": "Ein Haufen Lügen"
+    },
+    {
+      "position": 4,
+      "title": "Reingelegt"
+    },
+    {
+      "position": 5,
+      "title": "Regina war allein zu Haus"
+    },
+    {
+      "position": 6,
+      "title": "Ein Notfall!"
+    },
+    {
+      "position": 7,
+      "title": "Nochmal Glück gehabt"
+    },
+    {
+      "position": 8,
+      "title": "Gemeinsames Spiel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "25. September 1995",
+      "EAN": "743213087047 (MC) / 743213087023 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f92",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-092/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

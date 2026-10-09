@@ -1,0 +1,190 @@
+{
+  "number": 205,
+  "title": "Teuflische Kaffeefahrt",
+  "description": "Tim, Karl, Gaby und Klößchen kommen einem Betrüger auf die Schliche: Auf Gratiskaffeefahrten nimmt der Geschäftsmann Hagen Teufel gutgläubige, ältere Menschen aus, indem er ihnen wertlose Heilmittel zu schamlos überteuerten Preisen verkauft. Aber TKKG haben einen Plan, heften sich an Teufels Fersen und sind kurz davor, den Betrüger samt seinem Busfahrer Harry Henkel dingfest zu machen. Leider läuft der Plan aus dem Ruder, denn was TKKG nicht wussten: Der ehemalige Boxchampion Harry Henkel spielt sein eigenes Spiel...",
+  "release_year": 2018,
+  "release_date": "2018-05-04",
+  "duration_seconds": 4176,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Dr. Kempfer",
+      "person": "Andreas Birnbaum"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Hagen Teufel",
+      "person": "Frank Roder"
+    },
+    {
+      "role": "Kuntz",
+      "person": "Michael Prelle"
+    },
+    {
+      "role": "Maria Kloßhammer",
+      "person": "Anja Topf"
+    },
+    {
+      "role": "Harry Henkel",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Rosalinde Sauerlich",
+      "person": "Rosemarie Wohlbauer"
+    },
+    {
+      "role": "Gertraud Haiminger",
+      "person": "Sabine Hahn"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller, Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten/ Alexander Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B - Gestaltung: Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH © 2018"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Immer auf die Schwachen!"
+    },
+    {
+      "position": 2,
+      "title": "Im Angesicht des Teufels"
+    },
+    {
+      "position": 3,
+      "title": "Oma Rosalinde weiß, wie’s gemacht wird"
+    },
+    {
+      "position": 4,
+      "title": "Das ist die Hölle"
+    },
+    {
+      "position": 5,
+      "title": "Planänderung"
+    },
+    {
+      "position": 6,
+      "title": "Flinker Wiesel"
+    },
+    {
+      "position": 7,
+      "title": "Klopf, klopf, klopf!"
+    },
+    {
+      "position": 8,
+      "title": "Flucht in den Wald"
+    },
+    {
+      "position": 9,
+      "title": "Doppeltes Spiel"
+    },
+    {
+      "position": 10,
+      "title": "Eine Umarmung aus Beton"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "04. Mai 2018",
+      "EAN": "190758040523"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/teuflische-kaffeefahrt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f205",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-205/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

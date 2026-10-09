@@ -1,0 +1,179 @@
+{
+  "number": 86,
+  "title": "Die Schatzsucher-Mafia schlägt zu",
+  "description": "Räuber suchen nach Schätzen aus grauer Vorzeit, die im Boden ruhen. Sie erbeuten alte Goldmünzen, wertvollen Silberschmuck oder Schwerter aus der Bronzezeit, obwohl das streng verboten ist. Die TKKG-Freunde schalten sich ein - und sehen sich einer internationalen Schatzsucher-Mafia gegenüber...",
+  "release_year": 1993,
+  "release_date": null,
+  "duration_seconds": 2820,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Schatzsucher Goldammer",
+      "person": "Nick Benjamin"
+    },
+    {
+      "role": "Paul Feicht",
+      "person": "Boris Tessmann"
+    },
+    {
+      "role": "Edgar Mürr",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Carola Simon",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Rentner",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Anna Lohmann",
+      "person": "Ninja Körting"
+    },
+    {
+      "role": "Jochen Ratzke",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Fabian Wergl",
+      "person": "Christian Stark"
+    },
+    {
+      "role": "Oliver Kronschmidt",
+      "person": "Christian Stark"
+    },
+    {
+      "role": "Mann",
+      "person": "Erich Soller"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1993 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Die Bananenpreise fallen"
+    },
+    {
+      "position": 2,
+      "title": "Schlechtes Gewissen"
+    },
+    {
+      "position": 3,
+      "title": "Delle am Jeep"
+    },
+    {
+      "position": 4,
+      "title": "Putzmunter"
+    },
+    {
+      "position": 5,
+      "title": "Auf der richtigen Fährte"
+    },
+    {
+      "position": 6,
+      "title": "Afrikanischer Bronzekopf"
+    },
+    {
+      "position": 7,
+      "title": "Sieben Flüche"
+    },
+    {
+      "position": 8,
+      "title": "Skelett an der Wand"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1. November 1993 (MC) / 22. September 2006 (CD)",
+      "EAN": "743211516341 (MC) / 743211516327 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f86",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-086/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

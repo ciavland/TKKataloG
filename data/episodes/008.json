@@ -1,0 +1,171 @@
+{
+  "number": 8,
+  "title": "Auf der Spur der Vogeljäger",
+  "description": "Als Tarzan und Klößchen im Vogelschutzgebiet Tiere beobachten, machen sie eine schreckliche Entdeckung: Ein Wilddieb schießt während der Schonzeit einen Bussard. Damit beginnen unheimliche Abenteuer. Die TKKG-Bande kommt Trophäen-Jägern auf die Spur, die keinerlei Rücksicht nehmen. Eine aufregende und gefährliche Jagd beginnt...",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2338,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Anneliese Obermüller",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Ferdinand Kaufmann",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Dr. Reitz",
+      "person": "Hans Paetsch"
+    },
+    {
+      "role": "Hans Patenfuß",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Aurig",
+      "person": "Lothar Grützner"
+    },
+    {
+      "role": "Erich Voigt",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Herr von Picheritzki",
+      "person": "Ernst von Klippstein"
+    },
+    {
+      "role": "Edmund Schlitzer",
+      "person": "Horst Stark"
+    },
+    {
+      "role": "Bärbel",
+      "person": "Susanne Wulkow"
+    },
+    {
+      "role": "Mutter",
+      "person": "Renate Pichler"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1980 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Klößchen hat Geburtstag"
+    },
+    {
+      "position": 2,
+      "title": "Im Reptilien-Zoo"
+    },
+    {
+      "position": 3,
+      "title": "Die Gabun-Viper"
+    },
+    {
+      "position": 4,
+      "title": "Eine Rettungsaktion"
+    },
+    {
+      "position": 5,
+      "title": "Nächtlicher Ausflug"
+    },
+    {
+      "position": 6,
+      "title": "Der Stadtpark wird durchsucht"
+    },
+    {
+      "position": 7,
+      "title": "Das Duell mit der Giftschlange"
+    },
+    {
+      "position": 8,
+      "title": "Eine neue Verbündete"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (LP / MC) / 1. September 2003 (CD)",
+      "EAN": "743219896643 (MC) / 743219896629 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f8",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-008/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

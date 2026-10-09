@@ -1,0 +1,167 @@
+{
+  "number": 34,
+  "title": "Vampir der Autobahn",
+  "description": "An der Autobahn verschwindet eine Freundin von Gaby. Ist sie dem \"Vampir\" in die Hände gefallen? Wer ist dieser unheimliche Mensch, der sich an der Autobahn herumtreibt? Die TKKG-Bande stellt Nachforschungen an und entdeckt eine grausige Wahrheit. Für die Suche nach Susanne weden Hunderte von Polizisten alarmiert. Es geht um Minuten...",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2313,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Georg Woderiski",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Susanne Alberts",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Dr. Richard Remplem",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Ilse Wettau",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Igor Schulpe",
+      "person": "Ferdinand Dux"
+    },
+    {
+      "role": "Hasso Mähling",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Junge Frau",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Stösel",
+      "person": "Joachim Richert"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1985 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Tramper verschwunden"
+    },
+    {
+      "position": 2,
+      "title": "Aus der Klappsmühle entflohen"
+    },
+    {
+      "position": 3,
+      "title": "Trainingslager für Wasserballnixen"
+    },
+    {
+      "position": 4,
+      "title": "Osterhase im Naturschutzgebiet"
+    },
+    {
+      "position": 5,
+      "title": "Das Opfer des Verbrechens"
+    },
+    {
+      "position": 6,
+      "title": "In höchster Gefahr"
+    },
+    {
+      "position": 7,
+      "title": "Ausgebildete Suchhunde"
+    },
+    {
+      "position": 8,
+      "title": "Der goldene Schmetterling"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 14. Februar 2005 (CD)",
+      "EAN": "743219899248 (MC) / 743219899224 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f34",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-034/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

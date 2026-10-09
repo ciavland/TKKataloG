@@ -1,0 +1,207 @@
+{
+  "number": 182,
+  "title": "Im Bann des Übersinnlichen",
+  "description": "Mysterium oder fauler Zauber? Geisterbeschwörungen, Wundertinkturen, spiritistische Geheimvorstellungen ziehen die Menschen in ihren Bann - die Millionenstadt scheint der Magie verfallen. Da verschwindet eine beträchtliche Summe Geld aus Klößchens Hosentasche ... TKKG nehmen die Spur auf, um herauszufinden, wer hinter den Betrügereien in der Stadt steckt. Warum hat es der Meistermagier Alessandro Andrea Giovini nach den Proben seiner Zaubershow so eilig? Ist der Taschenspieler wirklich so unschuldig wie es scheint? Und wer ist dieser mysteriöse Houdinini? Tim, Karl, Klößchen und Gaby glauben natürlich nicht an den ganzen Hokuspokus, der da vor sich geht - bis sie auf jemanden treffen, der tatsächlich magische Kräfte besitzt...",
+  "release_year": 2013,
+  "release_date": null,
+  "duration_seconds": 4134,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Alessandro Andrea Giovini",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Bella",
+      "person": "Susanne Wulkow"
+    },
+    {
+      "role": "Beppita",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Frau Klamm",
+      "person": "Regine Lamster"
+    },
+    {
+      "role": "FreeDee",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Milo",
+      "person": "Anton Sprick"
+    },
+    {
+      "role": "Thorsten",
+      "person": "Stephan Benson"
+    },
+    {
+      "role": "Holger",
+      "person": "Stephan Benson"
+    },
+    {
+      "role": "Verkäufer",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Jemand",
+      "person": "Frank Jordan"
+    },
+    {
+      "role": "Herr",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Schüler",
+      "person": "Baltus Pachmeier"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten und Maike Nagel"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Magie verfallen"
+    },
+    {
+      "position": 2,
+      "title": "Alessandro Andrea Giovini"
+    },
+    {
+      "position": 3,
+      "title": "Klößchen in der Klemme"
+    },
+    {
+      "position": 4,
+      "title": "Hinter den Kulissen"
+    },
+    {
+      "position": 5,
+      "title": "Unheilvolle Geisterbeschwörung"
+    },
+    {
+      "position": 6,
+      "title": "Ein wasserdichtes Alibi"
+    },
+    {
+      "position": 7,
+      "title": "Ein herber Rückschlag"
+    },
+    {
+      "position": 8,
+      "title": "Der Handlanger des Trickbetrügers"
+    },
+    {
+      "position": 9,
+      "title": "Wahre Magie!"
+    },
+    {
+      "position": 10,
+      "title": "Tim ist schlauer"
+    },
+    {
+      "position": 11,
+      "title": "Besser als jede Zaubershow"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. April 2013",
+      "EAN": "887654415523"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f182",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-182/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

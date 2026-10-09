@@ -1,0 +1,163 @@
+{
+  "number": 106,
+  "title": "Mädchenraub im Ferienhaus",
+  "description": "TKKG werden von Gabys Freundin Nina zu einer Urlaubswoche nach Wildfelsenklamm in Tirol eingeladen, wo die Bachwinkels ein Ferienhaus besitzen. Nina und ihre Mutter fahren voraus und werden, kaum dass sie angekommen sind, von brutalen Kidnappern überfallen. Sie entführen das Mädchen und fordern eine Million Mark Lösegeld. Die Bachwinkels besitzen soviel Geld, denn Ninas Mutter hat in der Lotterie gewonnen. Das Geld soll von Ninas Stiefvater auf der Autobahn übergeben werden - und TKKG sind dabei. Doch dann kommt alles ganz anders und die dramatischen Ereignisse überschlagen sich.",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 3345,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Nina Bachwinkel",
+      "person": "Henrike Fehrs"
+    },
+    {
+      "role": "Herta Bachwinkel",
+      "person": "Eva Gelb"
+    },
+    {
+      "role": "Erwin Bachwinkel",
+      "person": "Gerhart Hinze"
+    },
+    {
+      "role": "Otto-Wilhelm Runkel",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Lorenz-Igor Kowalski",
+      "person": "Justus Krausse"
+    },
+    {
+      "role": "Knut Bachwinkel",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Sarah Leichtbein",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Harald",
+      "person": "Richard Kochmann"
+    },
+    {
+      "role": "Italienischer Polizist",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Deutscher Polizist",
+      "person": "Hauke Hajen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte und Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1997 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Überfall!"
+    },
+    {
+      "position": 2,
+      "title": "T-Shirt mit bunter Eistüte"
+    },
+    {
+      "position": 3,
+      "title": "Perfekte Tarnung"
+    },
+    {
+      "position": 4,
+      "title": "Ein falscher Moment"
+    },
+    {
+      "position": 5,
+      "title": "Lebensrettende Auskunft"
+    },
+    {
+      "position": 6,
+      "title": "Ein lohnendes Projekt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. Dezember 1997",
+      "EAN": "743215105442 (MC) / 743215105428 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f106",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-106/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

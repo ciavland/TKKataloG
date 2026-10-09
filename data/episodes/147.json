@@ -1,0 +1,163 @@
+{
+  "number": 147,
+  "title": "Hölle ohne Hintertür",
+  "description": "Martin, ein 18 jähriger Schüler des Internats, ist spielsüchtig. Er hat sich mit der gefährlichen Zocker-Mafia eingelassen und schuldet den Gangstern nun eine hohe Summe - die er zu bezahlen vergisst. Um ihn zu warnen, lauern ihm zwei Mitglieder der Zocker-Mafia auf... In seiner Not, wendet sich Martin an Tim, Karl, Klößchen und Gaby. Hilfe braucht auch ein spielsüchtiger Kunstmaler, der auf einen wahnsinnigen Trick verfällt, um sich zu retten. Ein Alptraum beginnt. TKKG greifen in letzter Sekunde ein.",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3303,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Martin Flotosko",
+      "person": "Patrick Berg"
+    },
+    {
+      "role": "H.H. Flotosko",
+      "person": "Frank Ebeling"
+    },
+    {
+      "role": "Gunnar Korlitzer",
+      "person": "Paul Weis"
+    },
+    {
+      "role": "Maria Corsetta",
+      "person": "Isabel Navarro"
+    },
+    {
+      "role": "Luigi Morolato",
+      "person": "Franco Bellini"
+    },
+    {
+      "role": "Bernd Vorstein",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Adamo Scaleri",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Alexander Korlitzer",
+      "person": "Peter Weis"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2005 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Die Knochenbrecher"
+    },
+    {
+      "position": 2,
+      "title": "2. 68.000 Euro verzockt"
+    },
+    {
+      "position": 3,
+      "title": "Der blinde und sein Hund"
+    },
+    {
+      "position": 4,
+      "title": "Ein gemeiner Plan"
+    },
+    {
+      "position": 5,
+      "title": "Bube, Dame, König, Ass"
+    },
+    {
+      "position": 6,
+      "title": "Rollentausch"
+    },
+    {
+      "position": 7,
+      "title": "Im Spukhaus"
+    },
+    {
+      "position": 8,
+      "title": "Showdown im Bungalow"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "11. Juli 2005",
+      "EAN": "828766991543 (MC) / 828766991529 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f147",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-147/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

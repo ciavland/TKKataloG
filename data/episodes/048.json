@@ -1,0 +1,147 @@
+{
+  "number": 48,
+  "title": "Bestien in der Finsternis",
+  "description": "Richter Solthus, Gabys Onkel, ist in höchster Gefahr! Irgend jemand hat ihm eine gefährliche Falle gestellt. Aber wer? Ist es vielleicht ein entlassener Sträfling, der sich rächen will? Die TKKG-Freunde nehmen den Kampf gegen den Unbekannten auf: Als schauriges Löwengebrüll die Nacht erfüllt, fällt die Entscheidung...",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2164,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hugo Patzke",
+      "person": "Michael Grimm"
+    },
+    {
+      "role": "Robert Solthus",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Bote",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Otto Rödl",
+      "person": "Henry König"
+    },
+    {
+      "role": "Dietmar Kahl",
+      "person": "Stephan Chrzescinski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein Richter wird Tierpfleger"
+    },
+    {
+      "position": 2,
+      "title": "Aufgebrochene Wohnungstür"
+    },
+    {
+      "position": 3,
+      "title": "Arbeit für Kommissar Glockner"
+    },
+    {
+      "position": 4,
+      "title": "Lebensgefährlicher Anschlag"
+    },
+    {
+      "position": 5,
+      "title": "Info aus erster Hand"
+    },
+    {
+      "position": 6,
+      "title": "Der nackte Wahnsinn"
+    },
+    {
+      "position": 7,
+      "title": "Interview mit einem Löwen"
+    },
+    {
+      "position": 8,
+      "title": "Gut gebrüllt!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 12. September 2005 (CD)",
+      "EAN": "743219900647 (MC) / 743219900623 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f48",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-048/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

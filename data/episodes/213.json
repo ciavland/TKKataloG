@@ -1,0 +1,100 @@
+{
+  "number": 213,
+  "title": "Das unheimliche Dorf",
+  "description": "Sommer, Sonne, Ferien! Tim, Karl, Gaby und Klößchen sind schon eine Woche mit dem Fahrrad unterwegs und nur noch eine Nacht von der Millionenstadt entfernt, als sie an einem kleinen See dem bewusstlos im Wasser treibenden Arne Aalreiter das Leben retten. Ein Badeunfall? TKKG hören sich im angrenzenden Dorf um und erfahren von unheimlichen Geschichten. Warum hört man um Mitternacht die Kirchturmglocke schlagen, wo die Dorfkirche doch schon vor vielen Jahren abgebrannt ist? Kommt das Scharren der Pferde im verlassenen Gutshof wirklich von des Teufels Pferdefuß? Wer steuert eigentlich diese Drohne, die ständig surrend über TKKG kreist? Und natürlich... wer wollte Arne Aalreiter im See ertränken?",
+  "release_year": 2019,
+  "release_date": "2019-12-06",
+  "duration_seconds": null,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen (Willi)",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Arne Aalreiter",
+      "person": "Peter Kaempfe"
+    },
+    {
+      "role": "Eduard Möllen",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Greta Wessel",
+      "person": "Luise Lunow"
+    },
+    {
+      "role": "Mert Schmitz",
+      "person": "Jürgen Uter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2019 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/das-unheimliche-dorf",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

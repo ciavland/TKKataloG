@@ -1,0 +1,179 @@
+{
+  "number": 20,
+  "title": "Das Geheimnis der chninesischen Vase",
+  "description": "Tarzan und Gaby sollen einen Kaufhausdetektiv interviewen. Aus der harmlos erscheinenden Aufgabe entwickelt sich eine gefährlicher Fall, in dessen Mittelpunkt die Entführung eines Kindes steht. Der Vater des Kindes will Lösegeld zahlen, doch Tarzan hat eine verblüffende Idee!",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2518,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Werner Hempel",
+      "person": "Jörg Gillner"
+    },
+    {
+      "role": "Frau Huber",
+      "person": "Gisela Trowe"
+    },
+    {
+      "role": "Pia Friese",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Karin Eichberg",
+      "person": "Marlen Krause"
+    },
+    {
+      "role": "Robert Eichberg",
+      "person": "Volker Brandt"
+    },
+    {
+      "role": "Katharina Eichberg",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Max Schaudig",
+      "person": "Jörg Pleva"
+    },
+    {
+      "role": "Kellnerin Hertha",
+      "person": "Brigitte Kollecker"
+    },
+    {
+      "role": "Fritz Bahr",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Erwin Appelt",
+      "person": "Volker Brandt"
+    },
+    {
+      "role": "Josef Reichert",
+      "person": "Manfred Steffen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Jugendliche Kaufhausdiebe"
+    },
+    {
+      "position": 2,
+      "title": "Baby gekidnappt!"
+    },
+    {
+      "position": 3,
+      "title": "Berufsverbrecher"
+    },
+    {
+      "position": 4,
+      "title": "Stillschweigen"
+    },
+    {
+      "position": 5,
+      "title": "Eine Million Lösegeld"
+    },
+    {
+      "position": 6,
+      "title": "Benutzte Windeln"
+    },
+    {
+      "position": 7,
+      "title": "Trinkflasche und Schnuller"
+    },
+    {
+      "position": 8,
+      "title": "Schock!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 5. April 2004 (CD)",
+      "EAN": "743219897848 (MC) / 743219897824 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f20",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-020/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

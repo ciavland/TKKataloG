@@ -1,0 +1,183 @@
+{
+  "number": 25,
+  "title": "Die Stunde der schwarzen Maske",
+  "description": "Die TKKG-Bande überwältigt einen Einbrecher, der in ein Haus einsteigen will. Als dieser die Maske fallenläßt, sind die vier TKKG-Freunde sehr erstaunt, wen sie da erwischt haben! Damit stehen sie am Anfang einer Spur, die zu einem gefährlichen Verbrecher führt...",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2205,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Sabine Lenz",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Gertrud Vossburger",
+      "person": "Gisela Trowe"
+    },
+    {
+      "role": "Friedrich von Eschbergen",
+      "person": "Joachim Baumert"
+    },
+    {
+      "role": "Einbrecher",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Kidnapper",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Wilhelm Himsel",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Juwelier Henry Murczyk",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Eckbert Schrumpf",
+      "person": "Helmut Ahner"
+    },
+    {
+      "role": "Rudolf Vossburger",
+      "person": "Joachim Baumert"
+    },
+    {
+      "role": "Sekretärin",
+      "person": "Barbara Focke"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1983 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Verflixt gut im Judo"
+    },
+    {
+      "position": 2,
+      "title": "Eisige Blicke"
+    },
+    {
+      "position": 3,
+      "title": "Ein Fall für TKKG"
+    },
+    {
+      "position": 4,
+      "title": "Schlimme Auseinandersetzung"
+    },
+    {
+      "position": 5,
+      "title": "Hilflos wie ein kleines Kind"
+    },
+    {
+      "position": 6,
+      "title": "Ein ziemlich sturer Vogel"
+    },
+    {
+      "position": 7,
+      "title": "Ausgekugelte Schulter"
+    },
+    {
+      "position": 8,
+      "title": "Flucht!"
+    },
+    {
+      "position": 9,
+      "title": "Kundenbesuche"
+    },
+    {
+      "position": 10,
+      "title": "Platt wie eine Briefmarke"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 9. August 2004 (CD)",
+      "EAN": "743219898340 (MC) / 743219898326 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f25",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-025/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

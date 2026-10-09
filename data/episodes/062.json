@@ -1,0 +1,167 @@
+{
+  "number": 62,
+  "title": "Terror aus dem \"Pulverfass\"",
+  "description": "In der TKKG-Internatsschule geschehen seltsame Dinge. Schüler der unteren Klassen \"verlieren\" immer häufiger ihr Taschengeld. Sie laufen mit blauen Flecken herum, die sie sich angeblich bei Unfällen zugezogen haben. Die vier TKKG-Freunde entdecken rasch, dass hinter den geheimnsvollen Vorfällen System steckt: Eine \"Schutzgeld-Mafia\" ist am Werk! Die Spur führt in die Disco \"Pulverfaß\"...",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 2484,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Dr. Alois Genschhöfer",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Ewald Meisner",
+      "person": "Henry König"
+    },
+    {
+      "role": "Luzi Fährmann",
+      "person": "Monika Gabriel"
+    },
+    {
+      "role": "Nicole Bertram",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Hugo Plaschke",
+      "person": "Michael Grimm"
+    },
+    {
+      "role": "Direktor Dr. Olaf Freund",
+      "person": "Hans Clarin"
+    },
+    {
+      "role": "Gert Fährmann",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Carina Vadutti",
+      "person": "Katrin Jaekel"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Es regnet Bindfäden"
+    },
+    {
+      "position": 2,
+      "title": "Griff in fremde Taschen"
+    },
+    {
+      "position": 3,
+      "title": "Teuflische Situation"
+    },
+    {
+      "position": 4,
+      "title": "Um 16:00 Uhr im Adlernest"
+    },
+    {
+      "position": 5,
+      "title": "Toter Briefkasten"
+    },
+    {
+      "position": 6,
+      "title": "Raubüberfall"
+    },
+    {
+      "position": 7,
+      "title": "Ein goldener Manschettenknopf"
+    },
+    {
+      "position": 8,
+      "title": "Der Meisterdieb"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902047 (MC) / 743219902023 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f62",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-062/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

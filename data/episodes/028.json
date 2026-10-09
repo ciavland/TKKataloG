@@ -1,0 +1,159 @@
+{
+  "number": 28,
+  "title": "Verrat im Höllental",
+  "description": "Es fängt alles ganz harmlos an. Ein junger Lehrer ist in Not, und die TKKG-Bande will helfen. Doch dabei kommt sie einer etwas zwielichtigen Dame auf die Schliche, und plötzlich stecken Tarzan, Karl, Klößchen und Gaby mitten drin in einem schwierigen Fall, bei dem es um Raub, Überfall und Erpressung geht, und bei dem eine große Überraschung auf sie alle wartet.",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 2331,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Nicole Tepler",
+      "person": "Marion Elskis"
+    },
+    {
+      "role": "Ottmar Lohmann",
+      "person": "Franz Josef Steffens"
+    },
+    {
+      "role": "Herr Dr. Knoth",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Franz-Anton Kläcksl",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Friedrich Petullje",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Bert Gnaski",
+      "person": "Eric Vaessen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Überfall"
+    },
+    {
+      "position": 2,
+      "title": "Ein Unglück kommt selten allein"
+    },
+    {
+      "position": 3,
+      "title": "Gefälschte Bilder"
+    },
+    {
+      "position": 4,
+      "title": "Selbstanzeige"
+    },
+    {
+      "position": 5,
+      "title": "Hoffnungslos verliebt"
+    },
+    {
+      "position": 6,
+      "title": "Stillgelegter Tunnel"
+    },
+    {
+      "position": 7,
+      "title": "Geklautes Gift"
+    },
+    {
+      "position": 8,
+      "title": "Die Schokoladenseite des Lebens"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 11. Oktober 2004 (CD)",
+      "EAN": "743219898647 (MC) / 743219898623 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f28",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-028/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

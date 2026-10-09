@@ -1,0 +1,263 @@
+{
+  "number": 200,
+  "title": "Der große Coup",
+  "description": "In der Internatsschule, die Tim, Karl, Gaby und Klößchen besuchen, gibt es etwas zu feiern. Alle sind da: Schüler, Eltern, Lehrer, Politiker und Journalisten... sowie jemand, mit dem TKKG ganz und gar nicht gerechnet haben. Denn kaum haben die Festreden im Foyer begonnen, schleicht ein vermummter Mann in das Zimmer von Tim und Klößchen. Was zuerst wie ein normaler Diebeszug aussieht, verwandelt sich schnell in einen verzwickten Fall, in dessen Verlauf das eine oder andere Bandenmitglied kurzfristig oder gar für immer verloren geht...",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": 7401,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Direktor Dr. Freund",
+      "person": "Gernot Endemann"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Elisabeth Vierstein",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Professor Albert Vierstein",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Georg",
+      "person": "Claus Wilcke"
+    },
+    {
+      "role": "Detlef Bigsel",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Herr Mandl",
+      "person": "Martin May"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Schüler",
+      "person": "Jannik Endemann"
+    },
+    {
+      "role": "Dr. Mechthild Bleul",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Rolf Reiher",
+      "person": "Joachim Kerzel"
+    },
+    {
+      "role": "Rudi Kaluschke",
+      "person": "Till Demtröder"
+    },
+    {
+      "role": "Adeline Huber",
+      "person": "Svenja Pages"
+    },
+    {
+      "role": "Hanne Hartmut",
+      "person": "Hansi Jochmann"
+    },
+    {
+      "role": "Kommissar Knauer",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Sascha Peymann",
+      "person": "Rainer Brandt"
+    },
+    {
+      "role": "Fabian Fenloh",
+      "person": "Michael Lott"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH."
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Wir sind 200!"
+    },
+    {
+      "position": 2,
+      "title": "Vom Dachboden bis zum Grund des Schwimmbeckens"
+    },
+    {
+      "position": 3,
+      "title": "Spurensuche"
+    },
+    {
+      "position": 4,
+      "title": "Alter Tatort, alter Bekannter"
+    },
+    {
+      "position": 5,
+      "title": "Drei Millionen"
+    },
+    {
+      "position": 6,
+      "title": "Totenblume"
+    },
+    {
+      "position": 7,
+      "title": "Auf dem Schrottplatz"
+    },
+    {
+      "position": 8,
+      "title": "Schlamassel"
+    },
+    {
+      "position": 9,
+      "title": "Keine Wahl"
+    },
+    {
+      "position": 10,
+      "title": "Zu Mittag"
+    },
+    {
+      "position": 11,
+      "title": "Klößchen muss mal"
+    },
+    {
+      "position": 12,
+      "title": "Wiedersehen"
+    },
+    {
+      "position": 13,
+      "title": "Kleiner Aufschlag"
+    },
+    {
+      "position": 14,
+      "title": "Letzte Anweisungen"
+    },
+    {
+      "position": 15,
+      "title": "Volle Fahrt voraus!"
+    },
+    {
+      "position": 16,
+      "title": "Gaunerehre"
+    },
+    {
+      "position": 17,
+      "title": "Mit vereinten Kräften"
+    },
+    {
+      "position": 18,
+      "title": "Das Ende von TKKG"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD / LP",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "17. März 2017",
+      "EAN": "889853901722"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f200",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-200/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

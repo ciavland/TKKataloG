@@ -1,0 +1,159 @@
+{
+  "number": 63,
+  "title": "Die Falle am Fuchsbach",
+  "description": "Postboten und Postautos werden überfallen und ausgeraubt - aber nur selten ist Bargeld dabei. Was also bezwecken die unbekannten Ganoven? Auch Tim ist betroffen: Ein für ihn sehr wertvoller Brief ist verschwunden. Tim und die TKKG-Freunde erklären den Tätern den Krieg...",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 2403,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Inspektor Schröttlmeyer",
+      "person": "Henry König"
+    },
+    {
+      "role": "Polizist Knutlinger",
+      "person": "Gernot Endemann"
+    },
+    {
+      "role": "Landstreicher Heiko",
+      "person": "Hans Paetsch"
+    },
+    {
+      "role": "Witwe Claudia",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Postbeamter Beck",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Wirtin Benzrube",
+      "person": "Beate Hasenau"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Feuer"
+    },
+    {
+      "position": 2,
+      "title": "Geschenk von einem Freund"
+    },
+    {
+      "position": 3,
+      "title": "Gedanken im Hinterkopf"
+    },
+    {
+      "position": 4,
+      "title": "Anzeichen von Trauer"
+    },
+    {
+      "position": 5,
+      "title": "Bankräuber"
+    },
+    {
+      "position": 6,
+      "title": "Giftiger Blick"
+    },
+    {
+      "position": 7,
+      "title": "Täterbeschreibung"
+    },
+    {
+      "position": 8,
+      "title": "Herzinfarkt am Steuer"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902146 (MC) / 743219902122 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f63",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-063/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

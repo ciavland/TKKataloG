@@ -1,0 +1,167 @@
+{
+  "number": 40,
+  "title": "Duell im Morgengrauen",
+  "description": "Es sind vor allem die Kirchen, die von den Räubern heimgesucht werden. Aber warum werden ausgerechnet die alten, fast wertlosen Kirchenbänke gestohlen? Niemand kann sich einen Reim darauf machen, bis die TKKG-Freunde entdecken, was dahinter steckt. Wer aber sind die Diebe? TKKG findet eine heiße Spur...",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 2358,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Amalie von Prünf",
+      "person": "Gisela Trowe"
+    },
+    {
+      "role": "Wilhelm Duttweiler",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Libritschek",
+      "person": "Wolfgang Völz"
+    },
+    {
+      "role": "Liese",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Doris Müller",
+      "person": "Ingrid Resch"
+    },
+    {
+      "role": "Heinrich von Ebbül",
+      "person": "Pinkas Braun"
+    },
+    {
+      "role": "Pastor",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "LKW-Fahrer",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Otto Wurm",
+      "person": "Günter König"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1986 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Einbruch in der Kirche"
+    },
+    {
+      "position": 2,
+      "title": "Betrugsversuch"
+    },
+    {
+      "position": 3,
+      "title": "Die Holzwurm-Mafia"
+    },
+    {
+      "position": 4,
+      "title": "Raffinierte Idee"
+    },
+    {
+      "position": 5,
+      "title": "Gefälschte Möbel"
+    },
+    {
+      "position": 6,
+      "title": "Maskiert"
+    },
+    {
+      "position": 7,
+      "title": "Geöffnete Gruft"
+    },
+    {
+      "position": 8,
+      "title": "Duell im Morgengrauen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 11. Juli 2005 (CD)",
+      "EAN": "743219899842 (MC) / 743219899828 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f40",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-040/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

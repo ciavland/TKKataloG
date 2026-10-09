@@ -1,0 +1,171 @@
+{
+  "number": 1,
+  "title": "Die Jagd nach den Millionendieben",
+  "description": "Eigentlich wollen Tarzan, Gaby und Karl nur mal abends übers Volksfest bummeln, aber aus dem kleinen Ausflug wird ein großes Abenteuer. Zufällig beobachtet Tarzan, wie die schon lange gesuchten Millionendiebe aus einer Villa wertvolle Gemälde stehlen. Unsere vier Freunde vom TKKG, denn natürlich gehört auch Klößchen dazu, wollen die Bande ganz allein entlarven. Welche Rolle spielt der seltsame Bruder des unsympathischen Zeichenlehrers Pauling? Haben die Rocker etwas mit den Einbrüchen zu tun? Was tut sich in der feudalen Villa von Klößchens Eltern, wo der Chauffeur niedergeschlagen wird und das Luxusauto verschwindet? Lauter merkwürdige Dinge geschehen, die sich nicht zusammenreimen. Nichts kann unsere vier Freunde von der waghalsigen Gangsterjagd abhalten, die mit einer handfesten Überraschung endet.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2464,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Andreas Wolters"
+    },
+    {
+      "role": "Otto Macholt",
+      "person": "Christian Mey"
+    },
+    {
+      "role": "Eddi",
+      "person": "Peter Buchholz"
+    },
+    {
+      "role": "Dr. Pauling",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Schießbudenbesitzer",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Polizist",
+      "person": "Prof. Dr. Andreas Beurmann"
+    },
+    {
+      "role": "Paul Pauling",
+      "person": "Hans Irle"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Würstchenverkäuferin",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Kommissar",
+      "person": "Rolf Mamero"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1979 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Tarzan sieht die Bilderdiebe"
+    },
+    {
+      "position": 2,
+      "title": "Wie man einen Schlumpf sieht"
+    },
+    {
+      "position": 3,
+      "title": "Knubbelnase wirft daneben"
+    },
+    {
+      "position": 4,
+      "title": "Hilfe, das Seil ist weg"
+    },
+    {
+      "position": 5,
+      "title": "Das Schlecker-Paradis"
+    },
+    {
+      "position": 6,
+      "title": "Großes Essen bei Sauerlichs"
+    },
+    {
+      "position": 7,
+      "title": "Wer hat den Jaguar gestohlen"
+    },
+    {
+      "position": 8,
+      "title": "Die Bilderdiebe werden entlarvt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (LP / MC) / 12. Mai 2003 (CD)",
+      "EAN": "743219895943 (MC) / 743219895929 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-001/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

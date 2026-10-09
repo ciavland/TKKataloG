@@ -1,0 +1,187 @@
+{
+  "number": 166,
+  "title": "Das Mädchen mit der Kristallkugel",
+  "description": "Spuk in der Millionenstadt! Ortrud, die neue Mitschülerin in der TKKG-Klasse, kann einem schon unheimlich vorkommen: mit Hilfe einer Kristallkugel prophezeit sie ihren Freunden Ereignisse, die tatsächlich eintreffen. Wie ist das möglich? Doch Tim, Karl, Klößchen und Gaby sind gerade mit einem anderen Fall beschäftigt: Wer steckt hinter der Diebesbande, die am helllichten Tage zahlreiche Wohnungen ausraubt? Kann Ortrud mit ihren hellseherischen Fähigkeiten vielleicht einen Tipp geben?",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3335,
+  "cast": [
+    {
+      "role": "Frau Klamm",
+      "person": "Elga Schütz"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Ortrud",
+      "person": "Stefanie Kirchberger"
+    },
+    {
+      "role": "Frau Sommer",
+      "person": "Judy Winter"
+    },
+    {
+      "role": "Maren",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Frau Aumüller",
+      "person": "Wanda Osten"
+    },
+    {
+      "role": "Felix",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Fritz",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Schulleiter",
+      "person": "Eric Schaeffler"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion und Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. – nach Artvorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "KB&B - The Kids Group"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein Blick in die Kugel"
+    },
+    {
+      "position": 2,
+      "title": "Überraschung!"
+    },
+    {
+      "position": 3,
+      "title": "Spukt es?"
+    },
+    {
+      "position": 4,
+      "title": "Aufdringlicher Zeitgenosse"
+    },
+    {
+      "position": 5,
+      "title": "Im siebten Himmel"
+    },
+    {
+      "position": 6,
+      "title": "Experiment"
+    },
+    {
+      "position": 7,
+      "title": "Diebstahl"
+    },
+    {
+      "position": 8,
+      "title": "Audienz bei einer Hellseherin"
+    },
+    {
+      "position": 9,
+      "title": "Düstere Prognosen"
+    },
+    {
+      "position": 10,
+      "title": "Lauscher an der Tür"
+    },
+    {
+      "position": 11,
+      "title": "Rückblicke"
+    },
+    {
+      "position": 12,
+      "title": "Offenbarung"
+    },
+    {
+      "position": 13,
+      "title": "Der Nebel lichtet sich"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "16. Oktober 2009",
+      "EAN": "886975288649 (MC) / 886975288625 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f166",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-166/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

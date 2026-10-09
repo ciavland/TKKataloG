@@ -1,0 +1,147 @@
+{
+  "number": 115,
+  "title": "Der Diamant im Bauch der Kobra",
+  "description": "Seit den Dreißiger Jahren ist \"Blue Truth\", einer der wertvollsten Diamanten der Welt, verschollen. Er gehörte einer Bankiersfamilie, die Deutschland damals fluchtartig verlassen musste. Nur der Bankier selbst, der auf der Flucht tödlich verunglückte, kannte das Diamantenversteck. Jetzt sucht sein Enkel in der TKKG-Stadt danach - und das ist wie ein Stich ins Wespennest.",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 2970,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Mike Brigland",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Ulrich Mortibodi",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Volker Wiegand",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Leo Knakow",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Elfriede Einhorn",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Kevin von Jangelwitz",
+      "person": "Harald Pages"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1999 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Blue Truth - der Superdiamant"
+    },
+    {
+      "position": 2,
+      "title": "Bei Mortibodo stinkt's"
+    },
+    {
+      "position": 3,
+      "title": "Erpresserischer Anruf"
+    },
+    {
+      "position": 4,
+      "title": "Ein Papagei pfeift Märsche"
+    },
+    {
+      "position": 5,
+      "title": "Hausverbot bei Jangelwitz"
+    },
+    {
+      "position": 6,
+      "title": "Gabys Seele friert"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "14. Juni 1999",
+      "EAN": "743216362943 (MC) / 743216362929 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f115",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-115/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

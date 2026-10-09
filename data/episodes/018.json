@@ -1,0 +1,179 @@
+{
+  "number": 18,
+  "title": "Hexenjagd in Lerchenbach",
+  "description": "Helga Götze ist Biologie-Lehrerin und bei den Kindern sehr beliebt. Doch die Einwohner von Lerchenbach halten sie für eine Hexe, weil sie Schlangen und Spinnen als Haustiere hält. Eine wilde Hexenjagd setzt ein, die von einem Unbekannten gesteuert wird, der Helga Götze haßt. Warum, das müssen die TKKG-Freunde herausfinden! Tarzan, Karl, Klößchen und Gaby forschen beharrlich weiter, bis sie das Geheimnis enträtseln und Helga Götze helfen können.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2470,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Erwin Jocher",
+      "person": "Paul Edwin Roth"
+    },
+    {
+      "role": "Harry Jocher",
+      "person": "Günther Lüdke"
+    },
+    {
+      "role": "Max Jocher",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Helga Götze",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Arnold Lamm",
+      "person": "Karl-Heinz Heß"
+    },
+    {
+      "role": "Bärbel Petermann",
+      "person": "Eva Michaelis"
+    },
+    {
+      "role": "Werner Schilling",
+      "person": "Ferdinand Dux"
+    },
+    {
+      "role": "Helga",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Kriminalhauptmeister Montag",
+      "person": "Harald Pages"
+    },
+    {
+      "role": "Maggie Brown (Kinofilm)",
+      "person": "Eva Gelb"
+    },
+    {
+      "role": "Bob Brown (Kinofilm)",
+      "person": "Gerd Martienzen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Schüsse auf Frau Götze"
+    },
+    {
+      "position": 2,
+      "title": "Geschmolzene Schokolade"
+    },
+    {
+      "position": 3,
+      "title": "Gemeine Sachbeschädigung"
+    },
+    {
+      "position": 4,
+      "title": "Vorzeitige Entlassung"
+    },
+    {
+      "position": 5,
+      "title": "Spinnen im Zimmer"
+    },
+    {
+      "position": 6,
+      "title": "Hexenviecher"
+    },
+    {
+      "position": 7,
+      "title": "Vergiftete Briefumschläge"
+    },
+    {
+      "position": 8,
+      "title": "Vater und Sohn"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 9. Februar 2004 (CD)",
+      "EAN": "743219897640 (MC) / 743219897626 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f18",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-018/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

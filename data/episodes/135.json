@@ -1,0 +1,159 @@
+{
+  "number": 135,
+  "title": "Der Meisterdieb und seine Feinde",
+  "description": "Schwarze Schafe gibt es überall - auch unter Politikern, Wirtschaftsbossen, Medien- und Sportstars. Auffällig viele von ihnen werden Opfer des Phantoms, eines geheimnisvollen Einbrechers, der längst als der Meisterdieb gilt. Keine Alarmanlage kann ihn aufhalten. Unerkannt dringt er in die Häuser der Reichen ein. Kein Safe hält ihm Stand. Er raubt Wertsachen. Aber er findet auch Unterlagen der besonderen Art - und die sind heißer als die Hölle. Angst breitet sich aus in der TKKG-Stadt.",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 2997,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Heribert Kluse",
+      "person": "Franz Josef Steffens"
+    },
+    {
+      "role": "Jean-René Wenk",
+      "person": "Henry König"
+    },
+    {
+      "role": "Helga Drews",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Lucia Corsa",
+      "person": "Maria Hebeda"
+    },
+    {
+      "role": "Kommissar Bauer-Rottleben",
+      "person": "Lothar Grützner"
+    },
+    {
+      "role": "Arthur Brauner",
+      "person": "Antoine Monot, Jr."
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten •"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2002 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Rendezvous per Kontaktanzeige"
+    },
+    {
+      "position": 2,
+      "title": "Brandanschläge"
+    },
+    {
+      "position": 3,
+      "title": "Die Vorstufe zum Weltuntergang"
+    },
+    {
+      "position": 4,
+      "title": "Versteckt in der Gästetoilette"
+    },
+    {
+      "position": 5,
+      "title": "Zwischen den Grabsteinen"
+    },
+    {
+      "position": 6,
+      "title": "Ein herzensguter Mensch"
+    },
+    {
+      "position": 7,
+      "title": "Eine blütenreine Weste"
+    },
+    {
+      "position": 8,
+      "title": "Der letzte Abschaum"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "13. Januar 2003",
+      "EAN": "743219382047 (MC) / 743219382023 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f135",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-135/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

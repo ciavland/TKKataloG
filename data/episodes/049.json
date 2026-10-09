@@ -1,0 +1,143 @@
+{
+  "number": 49,
+  "title": "Bombe an Bord (Haie an Bord)",
+  "description": "Karls wertvolle Kamera wird gestohlen. Eine wilde Jagd nach dem Dieb beginnt. Dabei kommen die TKKG-Freunde mehr und mehr einer Sache auf die Spur, die mit einem kleinen Diebstahl nichts mehr zu tun hat. Der Fall weitet sich aus: Es besteht sogar Mordverdacht!",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2263,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Inge Monet",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Otto Prädl",
+      "person": "Gerd Baltus"
+    },
+    {
+      "role": "Günther Fritz Unwärth",
+      "person": "Jörg Pleva"
+    },
+    {
+      "role": "Hubschrauberpilot",
+      "person": "Frank-Dieter Tausch"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Segel-Lehrgang"
+    },
+    {
+      "position": 2,
+      "title": "Freiheit der Meere"
+    },
+    {
+      "position": 3,
+      "title": "Totaler Misserfolg"
+    },
+    {
+      "position": 4,
+      "title": "Typische Hafenratte"
+    },
+    {
+      "position": 5,
+      "title": "Geheimnisvolle Umstände"
+    },
+    {
+      "position": 6,
+      "title": "Knallrote Lady"
+    },
+    {
+      "position": 7,
+      "title": "Teppich unter Deck"
+    },
+    {
+      "position": 8,
+      "title": "\"Hallo - Poseidon!\""
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 25. November 2005 (CD)",
+      "EAN": "743219900746 (MC) / 743219900722 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f49",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-049/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "number": 103,
+  "title": "Mörderischer Stammbaum",
+  "description": "In einem kleinen, wenig beachteten Wiener Kriminalmuseum macht die Touristin Petra D. eine grausige Entdeckung, nämlich die Untaten eines 1902 hingerichteten Frauenmörders mit einem höchst seltenen Namen. Petras erklärter Feind in einer heiklen Tierschutzfehde trägt genau den gleichen Namen. Gibt es Zusammenhänge? Hat Petra jetzt ein Druckmittel gegen ihn in der Hand? TKKG werden in einen Strudel dramatischer Ereignisse hinzugezogen.",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 2904,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Lothar Redl",
+      "person": "Wolfgang Hartmann"
+    },
+    {
+      "role": "Helmut Bierröder",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Gudrun Bierröder",
+      "person": "Wanda Osten"
+    },
+    {
+      "role": "Bernhard Kovechluser",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Rosa Kovechluser",
+      "person": "Brigitte Böttrich"
+    },
+    {
+      "role": "Petra Delius",
+      "person": "Claudia Dermarmels"
+    },
+    {
+      "role": "Helga Hoppenheide",
+      "person": "Tanja Schumann"
+    },
+    {
+      "role": "André Havliczeck",
+      "person": "Michael Bideller"
+    },
+    {
+      "role": "Gertrude Dingelhof",
+      "person": "Apollonia Minninger"
+    },
+    {
+      "role": "Ettel",
+      "person": "Prof. Dr. Andreas Beurmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte und Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1997 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Taubenmord"
+    },
+    {
+      "position": 2,
+      "title": "Der Beißer verliert einen Zahn"
+    },
+    {
+      "position": 3,
+      "title": "Petras Erpressung"
+    },
+    {
+      "position": 4,
+      "title": "Von Promi-Tratsch und Brandstiftung"
+    },
+    {
+      "position": 5,
+      "title": "Schlimmer Vererbung"
+    },
+    {
+      "position": 6,
+      "title": "Trittbrettfahrer"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "11. August 1997",
+      "EAN": "743214773642 (MC) / 743214773628 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f103",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-103/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

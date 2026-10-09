@@ -1,0 +1,155 @@
+{
+  "number": 117,
+  "title": "Im Schloß der schlafenden Vampire",
+  "description": "Gaby - das einzige Mädchen bei TKKG assistiert der Zoologie-Studentin Julia bei deren Forschungsarbeiten über Fledermäuse im sogenannten Spuk-Schloss, wie das einzigartige Schloss Prinzenruh im Volksmund genannt wird. Beide sind dort einquartiert und nachts allein. Da geht es unheimlich zu. Doch damit nicht genug. Ein Kidnapper versteckt seine Opfer - zwei kleine Mädchen - im Schloss. Und ein Brandstifter ist unterwegs.",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 3222,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Kommissar Lützen",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Edmund Voigt",
+      "person": "Uli Plessmann"
+    },
+    {
+      "role": "Konrad Voigt",
+      "person": "Marco Kröger"
+    },
+    {
+      "role": "Lena Heymwacht",
+      "person": "Lili Draeger"
+    },
+    {
+      "role": "Tina Heymwacht",
+      "person": "Florentine Draeger"
+    },
+    {
+      "role": "Julia Lorenz",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Carlos Teckenburg",
+      "person": "Gerhard Marcel"
+    },
+    {
+      "role": "Gregor von Lauchtingen",
+      "person": "Wolf Frass"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1999 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Auftrag für Brandstifter"
+    },
+    {
+      "position": 2,
+      "title": "Kidnapping - ganz aus Versehen"
+    },
+    {
+      "position": 3,
+      "title": "Ein verdächtiger Typ"
+    },
+    {
+      "position": 4,
+      "title": "Ein Mönch spukt tatsächlich"
+    },
+    {
+      "position": 5,
+      "title": "Die Mädchen fliehen ins Moor"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. November 1999",
+      "EAN": "743216550142 (MC) / 743216550128 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f117",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-117/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

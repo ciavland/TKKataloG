@@ -1,0 +1,147 @@
+{
+  "number": 235,
+  "title": "Ein Gruselfest für ein Vermögen",
+  "description": "Der Gruselball in der Villa Sauerlich läuft voll nach Plan: Die aufwendige Dekoration lädt zum Fürchten ein, das Catering serviert schauderhafte Köstlichkeiten und die kostümierten Gäste amüsieren sich bestens. Das Gerücht, dass im Faschingstrubel Wertgegenstände verschwinden, tut der Feier keinen Abbruch. Erst zwei Tage später kommt das dicke Ende für Herrn Sauerlich: Jemand hat sich während der Mitternachtseinlage an seinem Laptop zu schaffen gemacht – Bitcoins im Wert von einer halben Million sind spurlos verschwunden! Tim, Karl, Klößchen und Gaby starten ihre Ermittlungen und geraten in ein Verwirrspiel von Masken und Kostümen. Können TKKG den scheinbar unmöglichen Fall lösen?",
+  "release_year": 2025,
+  "release_date": "2025-01-17",
+  "duration_seconds": 3861,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Celina Simon",
+      "person": "Nicola Schäffler"
+    },
+    {
+      "role": "Claus Henke",
+      "person": "Michael Grimm"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Eva Columbina"
+    },
+    {
+      "role": "Franz-Josef Tontsch",
+      "person": "Stephan Schwartz"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Konstantin Graudus"
+    },
+    {
+      "role": "Kai Tappert",
+      "person": "Frank Roder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Eisner",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Larissa Landwehr",
+      "person": "Tanja Geke"
+    },
+    {
+      "role": "Lydia Fahl",
+      "person": "Andrea Lüdke"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Rainer Möllmann",
+      "person": "Jürgen Holdorf"
+    },
+    {
+      "role": "Sandra Grossmann",
+      "person": "Linda Fölster"
+    },
+    {
+      "role": "Simone Rossbach",
+      "person": "Angela Stresemann"
+    },
+    {
+      "role": "Tatjana Pospiech",
+      "person": "Anika Baumann"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger, Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2025 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/ein-gruselfest-fur-ein-vermogen",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f235",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

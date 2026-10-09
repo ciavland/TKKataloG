@@ -1,0 +1,151 @@
+{
+  "number": 47,
+  "title": "Todesfracht im Jaguar",
+  "description": "Herrn Sauerlichs Jaguar wird gestohlen. Einmal. Zweimal. Und immer wieder wird das Auto vor die Tür gestellt, ohne dass das Geringste daraus entwendet wurde. Was steckt dahinter? Die TKKG-Freunde kommen der Lösung des Rätsels näher, als der Jaguar noch einmal verschwindet. Und jetzt wird der Fall heiß - und gefährlich!",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2159,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Ursula von Bose"
+    },
+    {
+      "role": "Ludwig Frese",
+      "person": "Harald Dietl"
+    },
+    {
+      "role": "Hans Schwittei",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Franco Leppich",
+      "person": "Frank Bücheler"
+    },
+    {
+      "role": "Polizist",
+      "person": "Frank-Dieter Tausch"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mafia in der Badehose"
+    },
+    {
+      "position": 2,
+      "title": "Ehrenwerte Leute"
+    },
+    {
+      "position": 3,
+      "title": "Ein sauberes Trio"
+    },
+    {
+      "position": 4,
+      "title": "Polizeisperre"
+    },
+    {
+      "position": 5,
+      "title": "Kuscheldecke im Auto"
+    },
+    {
+      "position": 6,
+      "title": "Rauschgifthandel"
+    },
+    {
+      "position": 7,
+      "title": "Hinterher!"
+    },
+    {
+      "position": 8,
+      "title": "Auf der Hebebühne"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 12. September 2005 (CD)",
+      "EAN": "743219900548 (MC) / 743219900524 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f47",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-047/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

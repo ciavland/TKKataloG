@@ -1,0 +1,155 @@
+{
+  "number": 73,
+  "title": "Herr der Schlangeninsel",
+  "description": "Der ehrenwerte Kung-Fu-Lehrer Chung Li hat einen Schock erlitten, denn das unersetzliche Familienheiligtum, ein Tiger aus Jade, ist gestohlen worden. Als Tim davon hört, mobilisiert er die TKKG-Bande. Die Jagd beginnt und sie führt auf eine ferne Insel. Dort lauern tödliche Gefahren auf die vier Freunde, denn es ist die Insel der Schlangen...",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2589,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Chung Cheok Li",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Karin Lippscheck",
+      "person": "Miriam Krekel"
+    },
+    {
+      "role": "Kurt Weinot",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Demetrios Klaudonia",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Dahong Wu",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Friedemann Henkelmair",
+      "person": "Michael von Rospatt"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1990 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Eine bittere Fehde"
+    },
+    {
+      "position": 2,
+      "title": "Schatzplan in der Truhe"
+    },
+    {
+      "position": 3,
+      "title": "Ein Kranich, der die Krebse fischt"
+    },
+    {
+      "position": 4,
+      "title": "Willkommen auf der Insel"
+    },
+    {
+      "position": 5,
+      "title": "Teuflische Sorgen"
+    },
+    {
+      "position": 6,
+      "title": "Ein schlechter Mensch"
+    },
+    {
+      "position": 7,
+      "title": "Ein Verrückter dreht durch"
+    },
+    {
+      "position": 8,
+      "title": "Was ist in den Schatzkisten?"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1991 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903044 (MC) / 743219903020 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f73",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-073/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

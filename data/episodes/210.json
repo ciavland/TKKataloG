@@ -1,0 +1,139 @@
+{
+  "number": 210,
+  "title": "Raubzug im Casino",
+  "description": "Ein unbeschwerter Badenachmittag im Freibad nimmt für Tim, Karl, Gaby und Klößchen eine unvorhergesehene Wendung. Nach einem außergewöhnlichen Zwischenfall am Sprungturm wird Karl in der Umkleidekabine ein Schließfachschlüssel zugesteckt und TKKG geraten in einen Fall, der von einem skrupellosen Oberstufenschüler direkt zu einem Casinoräuber und zu einem unheimlichen Schießstand im Wald führt. Gut, dass Tim so ein guter Beobachter ist, sonst wären TKKG verloren!",
+  "release_year": 2019,
+  "release_date": "2019-05-31",
+  "duration_seconds": 3846,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Anke Dittwart",
+      "person": "Sabine Kaack"
+    },
+    {
+      "role": "Fidel Fuchsbein",
+      "person": "Markus Just"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Kommissarin Mandelbaum",
+      "person": "Christiane Leuchtmann"
+    },
+    {
+      "role": "Kumpel",
+      "person": "Marek Harloff"
+    },
+    {
+      "role": "Mark",
+      "person": "Lino Kelian"
+    },
+    {
+      "role": "Norbert Moorbeck",
+      "person": "Roman Rossa"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Rainer Mailwald",
+      "person": "Robert Knorr"
+    },
+    {
+      "role": "Sandra",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Tom",
+      "person": "Lovis Harloff"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2019 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/raubzug-im-casino",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f210",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

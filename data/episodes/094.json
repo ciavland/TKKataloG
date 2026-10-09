@@ -1,0 +1,159 @@
+{
+  "number": 94,
+  "title": "In dunkler Nacht am Marmorgrab",
+  "description": "Eine eiskalte Stimme am Telefon verbreitet Angst und Schrecken unter alleinstehenden Senioren - also unter Omas und Opas - in der TKKG-Stadt. Auch von Oma Lena, die von Gaby betreut wird, fordert der Anrufer Geld. Erpressung! Wer nicht zahlt, hat mir schlimmen Folgen zu rechnen. Die meisten alten Leute lassen sich einschüchtern und gehorchen, doch TKKG greifen ein.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 2381,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Magdalena Wolkenschrey",
+      "person": "Ingeborg Ottmann"
+    },
+    {
+      "role": "Klothilde von Rheinsberg",
+      "person": "Karin Lieneweg"
+    },
+    {
+      "role": "Olaf Berendt",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Heinz Rinsel",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "1. Satansschüler",
+      "person": "Hauke Faßbinder"
+    },
+    {
+      "role": "2. Satansschüler",
+      "person": "Jakob Lichtblau"
+    },
+    {
+      "role": "3. Satansschüler",
+      "person": "Simon Grünbaum"
+    },
+    {
+      "role": "Mutter",
+      "person": "Monika Süßkind"
+    },
+    {
+      "role": "Kind",
+      "person": "Julia Süßkind"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "TKKG-Titelmusik"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1996 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Trick mit der Angst"
+    },
+    {
+      "position": 2,
+      "title": "Die Schutzengel in Aktion"
+    },
+    {
+      "position": 3,
+      "title": "Drohung übers Telefon"
+    },
+    {
+      "position": 4,
+      "title": "Lösegeld für einen Hund"
+    },
+    {
+      "position": 5,
+      "title": "Erpressung mit Musik"
+    },
+    {
+      "position": 6,
+      "title": "In dunkler Nacht am Mamorgrab"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "30. Oktober 1995",
+      "EAN": "743213266947 (MC) / 743213266923 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f94",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-094/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

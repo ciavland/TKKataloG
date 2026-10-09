@@ -1,0 +1,151 @@
+{
+  "number": 218,
+  "title": "Schutzgeld für Dämonen",
+  "description": "Autoscooter, Breakdancer, Riesenrad - Tim, Karl, Gaby und Klößchen fällt die Entscheidung, womit sie zuerst fahren sollen, nicht leicht. Und dann ist da natürlich noch das berühmte Gruselkabinett \"Geisterwelt\". Der Spaß auf dem Rummelplatz währt allerdings nur kurz, denn schon geschehen wie von Geisterhand sehr ungewöhnliche Dinge: Im Gruselkabinett wird Klößchen von einer einarmigen Ritterfigur angegriffen und der Breakdancer gerät außer Kontrolle. TKKG schalten sich ein. Erst sieht alles nach der fiesen Masche einer Schutzgeldbande aus, aber dann stoßen die vier Detektive auf den \"Codex Gaudiorum\" - ein geheimnisvolles mittelalterliches Verzeichnis, mit dessen Hilfe sich die rätselhaften Ereignisse erklären ließen. Aber kann es sein, dass es auf dem Rummelplatz tatsächlich spukt?",
+  "release_year": 2021,
+  "release_date": "2021-04-16",
+  "duration_seconds": 3982,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Alex",
+      "person": "Melvin Heidrich"
+    },
+    {
+      "role": "Anton Zobelmaier",
+      "person": "Gordon Piedesack"
+    },
+    {
+      "role": "Florian Sam",
+      "person": "Marek Harloff"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Herr Albrecht",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Jakob Schneider",
+      "person": "Bruno Apitz"
+    },
+    {
+      "role": "Jane Nostitz",
+      "person": "Rosemarie Wohlbauer"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klaus Rumpke",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Lea",
+      "person": "Lilith Gebauer"
+    },
+    {
+      "role": "Marc",
+      "person": "Louis Körting"
+    },
+    {
+      "role": "Miriam Haase",
+      "person": "Anne Moll"
+    },
+    {
+      "role": "Oliver",
+      "person": "Carl-Christian Barth"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Torben Schlüter",
+      "person": "Daniel Welbat"
+    },
+    {
+      "role": "Uwe",
+      "person": "Christian Stark"
+    },
+    {
+      "role": "Werner Klingenschmitt",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2021 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/schutzgeld-fur-damonen-1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f218",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "number": 217,
+  "title": "Tödliche Klarinette",
+  "description": "Gabys Einfall, mit der gesamten Klasse 9b einen Flohmarkt für einen guten Zweck umzusetzen, wird ein voller Erfolg! Klassenlehrer Dr. Waldemar Schindler rundet die Einnahmen auf und alle sind mächtig stolz: Die 9b wird dem gemeinnützigen Verein „Bildung für jeden!“ schon am nächsten Tag feierlich 1.000 Euro überreichen können! Doch am nächsten Tag ist das Geld aus der abgeschlossenen Schublade des Lehrerpults verschwunden. TKKG nehmen die Ermittlungen auf: Im Klassenzimmer, im Schulhof, im Park hinter der Schule, in der Kantine, in verschiedenen Internatszimmern. Es gibt mehrere Verdächtige, viele Indizien und eine Reihe möglicher Szenarien. Aber wie passt das alles zusammen? Und wie hängt das bloß mit dieser unheimlichen Wahrsagerin zusammen?",
+  "release_year": 2021,
+  "release_date": "2021-02-05",
+  "duration_seconds": 4432,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Dr. Bienert",
+      "person": "Peter Buchholz"
+    },
+    {
+      "role": "Dr. Mechthild Bleul",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Dr. Waldeman Schindler",
+      "person": "Jannis Zaurins"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hausmeister Mandl",
+      "person": "Martin May"
+    },
+    {
+      "role": "Johann Rethaller",
+      "person": "Thorsten Lausch"
+    },
+    {
+      "role": "Kaito",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kathi",
+      "person": "Marian Hönig"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Kommissarin Hübner",
+      "person": "Nova Meierhenrich"
+    },
+    {
+      "role": "Layla Ronellenfitsch",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Markus",
+      "person": "Jannick Endemann"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Rebekka Ransböck",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Simon Mauerthal",
+      "person": "Markus Steeger"
+    },
+    {
+      "role": "Tobias Nesselmüller",
+      "person": "Julian Greis"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/todliche-klarinette-1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f217",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

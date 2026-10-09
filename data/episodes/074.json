@@ -1,0 +1,167 @@
+{
+  "number": 74,
+  "title": "Im Schattenreich des Dr. Mubase",
+  "description": "Eugen hätte tot sein können: Er hat sich gedopt, um ein Rennen zu gewinnen. Empört machen sich die TKKG-Freunde auf die Suche nach den Schuldigen, die Eugen mit der Droge versorgt haben. Die Spur führt in ein gefährliches Schattenreich...",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2073,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Opa",
+      "person": "Wolfgang Völz"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Eugen Flunzl",
+      "person": "Sven Hasper"
+    },
+    {
+      "role": "Dr. Mubase",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Eberhard Brauchnichts",
+      "person": "Tobias Pauls"
+    },
+    {
+      "role": "Lothar Sickelgrub",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Gregor Etzel",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Dr. Gallstein",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Serviererin",
+      "person": "Claudia Kleiber"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1990 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mund-zu-Mund-Betmung"
+    },
+    {
+      "position": 2,
+      "title": "Wer sind die Hintermänner?"
+    },
+    {
+      "position": 3,
+      "title": "In der Giftküche"
+    },
+    {
+      "position": 4,
+      "title": "Amphetamin für einen Dealer-Ring"
+    },
+    {
+      "position": 5,
+      "title": "Völlig klar im Kopf"
+    },
+    {
+      "position": 6,
+      "title": "Ein gigantisches Opfer"
+    },
+    {
+      "position": 7,
+      "title": "Nächtliche Bootstour"
+    },
+    {
+      "position": 8,
+      "title": "Um einige Nasenlängen voraus"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1991 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903143 (MC) / 743219903129 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f74",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-074/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

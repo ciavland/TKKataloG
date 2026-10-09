@@ -1,0 +1,155 @@
+{
+  "number": 211,
+  "title": "Geiselnahme im Villenviertel",
+  "description": "Klößchen will eigentlich nur sein Taschengeld von seinem Schülerkonto abheben, um seine Freunde Tim, Karl und Gaby zu einem Eis einzuladen. Genau in diesem Augenblick wird die kleine Filiale der Taunitz-Privatbank Schauplatz eines Raubüberfalls. Aber die Verbrecher wollen nicht nur das schnelle Geld – sie nehmen Geiseln und erpressen Lösegeld. Bald ist die Bank umstellt von unzähligen Polizisten. Es sind bange Minuten in der Filiale für TKKG, und das ist erst der Anfang eines gefährlichen Falls!",
+  "release_year": 2019,
+  "release_date": "2019-09-06",
+  "duration_seconds": 4341,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Arthur Borgmann",
+      "person": "Heiko Wohlgemuth"
+    },
+    {
+      "role": "Feuerwehrmann",
+      "person": "Roman Rossa"
+    },
+    {
+      "role": "Frank Freitag",
+      "person": "Peter Franke"
+    },
+    {
+      "role": "Frau Glockner",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Frau Sauerlich",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Frau Vierstein",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Herr Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Kommissar Krause",
+      "person": "Constantin Stahlberg"
+    },
+    {
+      "role": "Kommissarin Mandelbaum",
+      "person": "Christiane Leuchtmann"
+    },
+    {
+      "role": "Konstantin Weiß",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Mareike Schmuck",
+      "person": "Katrin Decker"
+    },
+    {
+      "role": "Nils Falkner",
+      "person": "Peter G. Dirmeier"
+    },
+    {
+      "role": "Paula Rundhaus",
+      "person": "Gabriele Libbach"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Pilot",
+      "person": "Don Jayakody"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Yannis Beer",
+      "person": "Romanus Fuhrmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/geiselnahme-im-villenviertel",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f211",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

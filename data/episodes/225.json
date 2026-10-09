@@ -1,0 +1,135 @@
+{
+  "number": 225,
+  "title": "Tanz mit der Giftschlange",
+  "description": "Nadine – ein exzentrisches Gothic-Girl aus der 9b – warnt Tim, Karl, Gaby und Klößchen vor einem bevorstehenden Giftattentat. Als TKKG sie jedoch zu Details befragen, blockt sie plötzlich ab. Noch in derselben Nacht sehen sich Tim und Klößchen im Adlernest Auge in Auge einer hochgiftigen Brillenschlange gegenüber. Ist es Zufall, dass das passende Gegengift im Zoo verschwunden ist? Und wie steckt der Mädchenschwarm Julius Hösselbarth mit drin? Es wird TKKG drei Tage Ermittlungsarbeit und so manch brenzlige Situation kosten, bevor sie den verworrenen Fall lösen können.",
+  "release_year": 2022,
+  "release_date": "2022-11-11",
+  "duration_seconds": 3830,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Dr. Benno Wallis",
+      "person": "Lars Schmidtkem"
+    },
+    {
+      "role": "Dr. Mechthild Bleul",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Frank Wolfram",
+      "person": "Tom Pidde"
+    },
+    {
+      "role": "Fritz Dippel",
+      "person": "Tim Kreuer"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Herr Rowinski",
+      "person": "Harald Effenberg"
+    },
+    {
+      "role": "Julius Hösselbarth",
+      "person": "Jan Langer"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Nadine Wolfram",
+      "person": "Malin Steffen"
+    },
+    {
+      "role": "Nimra Tahir",
+      "person": "Antje Hartmann"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Pia Grünert",
+      "person": "Neda Rahmanian"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2022 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/tanz-mit-der-giftschlange",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f225",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

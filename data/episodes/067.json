@@ -1,0 +1,159 @@
+{
+  "number": 67,
+  "title": "Hinterhalt im Eulenforst",
+  "description": "Im Eulenforst gehen Vogeltöter auf die Jagd. Auch Rotwild wird geschossen! Der Verdacht fällt auf einen Italiener, der vor kurzem ein Feinschmeckerlokal eröffnete. Doch er wird im Wald selbst von einer Kugel getroffen! Zufall oder Mordanschlag? Die TKKG-Bande nimmt die Fährte auf und gerät selbst in die Schußlinie...",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2559,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Lucia Moggiaterrefregoso",
+      "person": "Katrin Jaekel"
+    },
+    {
+      "role": "Carina Moggiaterrefregoso",
+      "person": "Ilse Neubauer"
+    },
+    {
+      "role": "Dario Moggiaterrefregoso",
+      "person": "Helmut Ahner"
+    },
+    {
+      "role": "Richard Valsche",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Roderich Kümmelkern",
+      "person": "Alfred Reiterer"
+    },
+    {
+      "role": "Frank-Holger Seiboldt",
+      "person": "Wolfgang Bathke"
+    },
+    {
+      "role": "Valentin Paschke",
+      "person": "Ralf Richter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein Buch mit sieben Siegeln"
+    },
+    {
+      "position": 2,
+      "title": "Attentat"
+    },
+    {
+      "position": 3,
+      "title": "Eine Tragödie"
+    },
+    {
+      "position": 4,
+      "title": "Lebensgefährliche Zufälle"
+    },
+    {
+      "position": 5,
+      "title": "Kostenloses Einkaufen"
+    },
+    {
+      "position": 6,
+      "title": "Wer schießt auf Vögel"
+    },
+    {
+      "position": 7,
+      "title": "Streifschuss"
+    },
+    {
+      "position": 8,
+      "title": "Gute Vorarbeit"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902542 (MC) / 743219902528 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f67",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-067/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

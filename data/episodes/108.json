@@ -1,0 +1,155 @@
+{
+  "number": 108,
+  "title": "Das Konzert bei den Ratten",
+  "description": "Andi, der 14-jährige - ebenso begabte wie auch besessene - Geigenspieler, hat eine über 200 Jahre alte, sehr wertvolle Geige gestohlen und frönt mit ihr seinem Tick: nämlich in den \"unmöglichsten\" Räumen zu spielen, um dort die Klangwirkung zu erproben. Jetzt steigt er mit zwei skrupellosen Kanal-Surfern in die gefährlichen Abwasserschächte unter der Millionenstadt. Dort werden die drei von plötzlichem Hochwasser erfasst. Eine fast tödliche Falle. Und die Hilfe von TKKG ist angesagt.",
+  "release_year": 1998,
+  "release_date": null,
+  "duration_seconds": 2472,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Andreas „Andi“ Richtmeier",
+      "person": "Julius Plass"
+    },
+    {
+      "role": "Max Säufermann",
+      "person": "Tobias Schmidt"
+    },
+    {
+      "role": "Sven Platschko",
+      "person": "Philipp Plass"
+    },
+    {
+      "role": "Miriam Richtmeier",
+      "person": "Feline von Tanger"
+    },
+    {
+      "role": "Wirtin",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Dirigent",
+      "person": "Matthias Fuchs"
+    },
+    {
+      "role": "Menuvicci",
+      "person": "Uwe Michael Wiebking"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1998 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Abstieg in die Unterwelt"
+    },
+    {
+      "position": 2,
+      "title": "Ratten in Gefahr"
+    },
+    {
+      "position": 3,
+      "title": "300.000 Mark im Gully"
+    },
+    {
+      "position": 4,
+      "title": "Steigender Wasserpegel"
+    },
+    {
+      "position": 5,
+      "title": "Die letzte Kanaltour"
+    },
+    {
+      "position": 6,
+      "title": "Orchesterprobe"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "14. April 1998",
+      "EAN": "743215447245 (MC) / 743215447221 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f108",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-108/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

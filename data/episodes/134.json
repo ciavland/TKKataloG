@@ -1,0 +1,183 @@
+{
+  "number": 134,
+  "title": "Wer stoppt die Weihnachts-Gangster?",
+  "description": "Wenn die Superreichen Weihnachtsgeschenke besorgen, stehen Schmuck und Geschmeide ganz oben auf der Einkaufsliste: Kostbarkeiten für viel Geld - und genau darauf hat es ein Gangster-Trio abgesehen. Die Methode, nach der die drei vorgehen, scheint sehr erfolgsversprechend. Erpressung und Raub sind ihre Mittel. Zwei unbescholtene Frauen werden zum Mitmachen gezwungen, verzweifelt spielen sie mit beim bösen Spiel der Weihnachts-Gangster. Bis TKKG eingreifen...",
+  "release_year": 2002,
+  "release_date": null,
+  "duration_seconds": 3418,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Notsch",
+      "person": "Henry König"
+    },
+    {
+      "role": "Angelika von Sulzheim",
+      "person": "Brigitte Böttrich"
+    },
+    {
+      "role": "Violetta Lampel",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Herr Krammbach",
+      "person": "Rolf Nagel"
+    },
+    {
+      "role": "Freddy",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Claudia Maiwald",
+      "person": "Katrin Jaeckel"
+    },
+    {
+      "role": "Anna Heldinger",
+      "person": "Chiara Ferraú"
+    },
+    {
+      "role": "Sabine Maiwald",
+      "person": "Stefanie Kirchberger"
+    },
+    {
+      "role": "Irmhilde Schulze-Begerecht",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Oswald von Sulzheim",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Herr Rentel",
+      "person": "Antoine Monot, Jr."
+    },
+    {
+      "role": "Igur",
+      "person": "Rainer Schmitt"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten •"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2002 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Schreck am Abend"
+    },
+    {
+      "position": 2,
+      "title": "Zweite Erpressung"
+    },
+    {
+      "position": 3,
+      "title": "Der Schutzengel ruft an"
+    },
+    {
+      "position": 4,
+      "title": "Sabine hat gelauscht"
+    },
+    {
+      "position": 5,
+      "title": "Napolesische Kampfhunde"
+    },
+    {
+      "position": 6,
+      "title": "Gangster im Garten"
+    },
+    {
+      "position": 7,
+      "title": "Mit 28 Brillianten"
+    },
+    {
+      "position": 8,
+      "title": "Keilerei am Kamin"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "7. Oktober 2002",
+      "EAN": "743219381941 (MC) / 743219381927 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f134",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-134/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

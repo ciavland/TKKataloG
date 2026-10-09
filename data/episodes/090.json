@@ -1,0 +1,171 @@
+{
+  "number": 90,
+  "title": "Schmuggler reisen unerkannt",
+  "description": "Zwanzig Kilo Heroin aus Italien kommen in der TKKG-Großstadt nicht an. Das Rauschgift wurde in einem Auto versteckt, aber der Besitzer ahnte nichts davon. Der Drogenschmuggler sitzt in Italien für ein Jahr im Gefängnis - wegen eines anderen Verbrechens. Ein heißer Fall für TKKG. Tim, Karl, Klößchen und Gaby nehmen es mit den Rauschgifthändlern auf...",
+  "release_year": 1994,
+  "release_date": null,
+  "duration_seconds": 2937,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Heinrich Klunk",
+      "person": "Frank Ramond"
+    },
+    {
+      "role": "Ludwig Brendl",
+      "person": "Falko Freitag"
+    },
+    {
+      "role": "Leo Saßmann",
+      "person": "Stefan Aurel Schlabritz"
+    },
+    {
+      "role": "Kathi Dinkelmeier",
+      "person": "Anna Curilla"
+    },
+    {
+      "role": "Hartwig Platzke",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Sascha Saßmann",
+      "person": "Frank Meyer-Brockmann"
+    },
+    {
+      "role": "Judy Hollzogen",
+      "person": "Janina Richter"
+    },
+    {
+      "role": "Horst Dräger",
+      "person": "Norman Messer"
+    },
+    {
+      "role": "Arnold Hansen",
+      "person": "Tobias Pauls"
+    },
+    {
+      "role": "Dr. Lehnert",
+      "person": "Hans Sievers"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch und Redaktion",
+      "value": "Andre Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1994 by Pelikan AG, D-30177 Hannover"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Auf nach Dickelheim"
+    },
+    {
+      "position": 2,
+      "title": "Angeblich verschrottet"
+    },
+    {
+      "position": 3,
+      "title": "Keine Zeit für Bouillon"
+    },
+    {
+      "position": 4,
+      "title": "Belauscht"
+    },
+    {
+      "position": 5,
+      "title": "Saßmann wird pampig"
+    },
+    {
+      "position": 6,
+      "title": "Gaby und die Haselmaus"
+    },
+    {
+      "position": 7,
+      "title": "Das Heroin ist noch da"
+    },
+    {
+      "position": 8,
+      "title": "Überfall!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "29. Mai 1995",
+      "EAN": "743212219647 (MC) / 743212219623 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f90",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-090/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

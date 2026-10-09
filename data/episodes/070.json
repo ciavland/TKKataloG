@@ -1,0 +1,167 @@
+{
+  "number": 70,
+  "title": "Wer hat Tims Mutter entführt?",
+  "description": "Tim ist außer sich. Seine Mutter ist verschwunden! Hals über Kopf verläßt er das Internat, um sich auf die Suche nach ihr zu machen. Doch dann fordern die Kidnapper 500 000 Mark Lösegeld von ihm!",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2629,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Marion Thebes",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Anna Beheim",
+      "person": "Marion Hartmann"
+    },
+    {
+      "role": "Direktor Dr. Freund",
+      "person": "Gernot Endemann"
+    },
+    {
+      "role": "Adolf Mortius",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Edith Pressler",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Martin Dramp",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Baron Felshart von Frunz",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Kommissar Andresen",
+      "person": "Wolfgang Draeger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "An die Hausordnung gebunden"
+    },
+    {
+      "position": 2,
+      "title": "Spurlos verschwunden"
+    },
+    {
+      "position": 3,
+      "title": "Sachliche Überlegungen"
+    },
+    {
+      "position": 4,
+      "title": "Aufgelegt"
+    },
+    {
+      "position": 5,
+      "title": "\"Silent Warrior\""
+    },
+    {
+      "position": 6,
+      "title": "Das Geld ist weg!"
+    },
+    {
+      "position": 7,
+      "title": "Von der Schule geflogen?"
+    },
+    {
+      "position": 8,
+      "title": "Eine chemische Waffe"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1990 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902849 (MC) / 743219902825 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f70",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-070/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

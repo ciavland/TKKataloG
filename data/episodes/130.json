@@ -1,0 +1,175 @@
+{
+  "number": 130,
+  "title": "Die gefährliche Zeugin verschwindet",
+  "description": "Als Kommissarin Irma Heinze von zwei berüchtigten Bankräubern entführt wird, bleibt sie cool. Sie will die Maskierten überlisten und beinahe gelingt es ihr. Aber dann läuft alles schief. Irma und die Verbecher sind verschwunden. Das Schlimmste ist zu befürchten. TKKG schalten sich ein und merken bald: Hinter den Kulissen ist der Teufel los.",
+  "release_year": 2002,
+  "release_date": null,
+  "duration_seconds": 2922,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Irma Heinze",
+      "person": "Anja Topf"
+    },
+    {
+      "role": "Anna Bolgakov-Feuchtweg",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Bert Zierhaus",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Hajo Kerber",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Victor Kalensky",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Laura-Ottilie Schrattröder",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Charline",
+      "person": "Lotte Bublitz"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Kassierer",
+      "person": "Gunnar Feistus"
+    },
+    {
+      "role": "Kassiererin",
+      "person": "Hansi Jochmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2002 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Im toten Winkel"
+    },
+    {
+      "position": 2,
+      "title": "Nicht vernehmungsfähig"
+    },
+    {
+      "position": 3,
+      "title": "Emanzipiert"
+    },
+    {
+      "position": 4,
+      "title": "Opfer der Pistoleros"
+    },
+    {
+      "position": 5,
+      "title": "Richtige Taktik"
+    },
+    {
+      "position": 6,
+      "title": "Top Secret"
+    },
+    {
+      "position": 7,
+      "title": "Ein Blick in die Sterne"
+    },
+    {
+      "position": 8,
+      "title": "Galgenhumor"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "11. Februar 2002",
+      "EAN": "743218920349 (MC) / 743218920325 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f130",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-130/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

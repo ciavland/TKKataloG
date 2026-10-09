@@ -1,0 +1,151 @@
+{
+  "number": 102,
+  "title": "Angst auf der Autobahn",
+  "description": "An einem Autobahnabschnitt nahe der Millionenstadt treibt ein Scharfschütze sein Unwesen. Er benutzt die Fahrzeuge als Zielscheiben. Das ist der Auftakt einer großangelegten Erpressung. Von der Landesregierung fordert der Unbekannte mehrere Millionen DM. Nur dann werde er seinen Terror einstellen, anderenfalls verstärken. Ein lebensgefährlicher Fall für TKKG.",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 2927,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Hildegard Krekel"
+    },
+    {
+      "role": "Dennis Blots",
+      "person": "Robert Kotulla"
+    },
+    {
+      "role": "Karsten Willert",
+      "person": "Michael Bideller"
+    },
+    {
+      "role": "Karl-Walter Wichtigmann",
+      "person": "Ernst Bötticher"
+    },
+    {
+      "role": "Jörg Wichtigmann",
+      "person": "Patrick Berg"
+    },
+    {
+      "role": "Horst Spelter",
+      "person": "Andreas Martens"
+    },
+    {
+      "role": "Martha Spelter",
+      "person": "Beate Hasenau"
+    },
+    {
+      "role": "Radiosprecher",
+      "person": "Richard Unsorge"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch und Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1997 BMG Ariola Miller GmbH e"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "In letzter Sekunde"
+    },
+    {
+      "position": 2,
+      "title": "Logische Konsequenz"
+    },
+    {
+      "position": 3,
+      "title": "Alles nur Bluff?"
+    },
+    {
+      "position": 4,
+      "title": "Ätzendes Parfum"
+    },
+    {
+      "position": 5,
+      "title": "Angst auf der Autobahn"
+    },
+    {
+      "position": 6,
+      "title": "Gefangen im Brunnenschacht"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. März 1997",
+      "EAN": "743214544846 (MC) / 743214544822 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f102",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-102/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

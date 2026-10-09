@@ -1,0 +1,155 @@
+{
+  "number": 221,
+  "title": "Beim Raubzug helfen Ahnungslose",
+  "description": "Tim, Karl, Gaby und Klößchen haben sich eigentlich auf einen lustigen Nachmittag eingestellt. Zusammen mit Frau Carsten, testen sie die neueste Attraktion der Millionenstadt aus und lassen sich freiwillig in einem sogenannten Escape Room einsperren. Die Veranstalter versprechen 90 Minuten Nervenkitzel. Schneller hat es bisher keiner aus dem Raum rausgeschafft. Doch als Tims Mutter plötzlich eine Panikattacke erleidet und verzweifelt nach Luft ringt, wird aus Spaß bitterer Ernst, denn der Notausgang lässt sich nicht öffnen und sie sitzen fest. Erst in letzter Minute werden sie befreit. Doch wie konnte es zu dieser gefährlichen Situation kommen? Wurden sie womöglich vorsätzlich festgehalten? TKKG nehmen die Ermittlungen auf und kommen einer perfiden Verbrecherbande auf die Schliche.",
+  "release_year": 2022,
+  "release_date": "2022-02-04",
+  "duration_seconds": 3933,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Alte Frau",
+      "person": "Apollonia Jepsen"
+    },
+    {
+      "role": "Alter Mann",
+      "person": "Peter Kaempfe"
+    },
+    {
+      "role": "Deborah Hünkse",
+      "person": "Mignon Remé"
+    },
+    {
+      "role": "Denis Uckmann",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Dr. Drunike",
+      "person": "Werner Wilkening"
+    },
+    {
+      "role": "Enkel",
+      "person": "Joshua Rudolf"
+    },
+    {
+      "role": "Enkelin",
+      "person": "Jette Hartwig"
+    },
+    {
+      "role": "Eugen von Ittrich",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hauke Hupe",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Lara Hupe",
+      "person": "Theresa Underberg"
+    },
+    {
+      "role": "Mann",
+      "person": "Martin Brücker"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Uwe Zepp",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "Videostimme",
+      "person": "Malte Janssen"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Markus Hennig nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2021 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/beim-raubzug-helfen-ahnungslose",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f221",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

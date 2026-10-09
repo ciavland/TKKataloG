@@ -1,0 +1,199 @@
+{
+  "number": 197,
+  "title": "Bei Anpfiff Übergabe",
+  "description": "Fußballeuropameisterschaft - die Menschen in der Millionenstadt sind im Fußballfieber: Schwarz-rot-goldene Fähnchen, Leinwände und Fußballfans wohin das Auge reicht. Auch Klößchen, der mit Sport sonst nicht viel am Hut hat, fiebert mit der deutschen Nationalmannschaft mit. Kurz vor dem Achtelfinale schlittern Tim, Karl, Gaby und Klößchen in einen Fall, der die Polizei schon lange beschäftigt. Gesucht wird der Drahtzieher eines illegalen Fußballwettringes. Seine genaue Identität kennt niemand, man nennt ihn den \"Kopf\" und man weiß, dass er äußerst skrupellos ist. TKKG finden heraus, dass der Kopf zwei Komplizen hat. \"Die Hand\" erledigt die tägliche Arbeit des kriminellen Wettringes. Und dann ist da noch \"die Faust\". Auf diese Bekanntschaft hätte Tim gern verzichtet...",
+  "release_year": 2016,
+  "release_date": null,
+  "duration_seconds": 3858,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Nico König",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Heinfried Herbst",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Nestor Mang",
+      "person": "Urs Affolter"
+    },
+    {
+      "role": "Kommissarin Mandelbaum",
+      "person": "Christiane Leuchtmann"
+    },
+    {
+      "role": "Bastian König",
+      "person": "Jürgen Holdorf"
+    },
+    {
+      "role": "Micha Bruckner",
+      "person": "Robin Brosch"
+    },
+    {
+      "role": "Pola",
+      "person": "Sabrina Heuer-Diakow"
+    },
+    {
+      "role": "Bob",
+      "person": "Tim Grobe"
+    },
+    {
+      "role": "SEK-Beamter",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Erzieher vom Dienst (EvD)",
+      "person": "Manfred Reddemann"
+    },
+    {
+      "role": "Kommentator",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Achtelfinale mit Spezialeinsatzkommando"
+    },
+    {
+      "position": 2,
+      "title": "Der neue Nachbar"
+    },
+    {
+      "position": 3,
+      "title": "Faust und Magengrube"
+    },
+    {
+      "position": 4,
+      "title": "Carambol"
+    },
+    {
+      "position": 5,
+      "title": "Ich bin dann mal weg"
+    },
+    {
+      "position": 6,
+      "title": "Es tut sich was"
+    },
+    {
+      "position": 7,
+      "title": "Der Trick mit Oskar"
+    },
+    {
+      "position": 8,
+      "title": "Bei Anpfiff Übergabe"
+    },
+    {
+      "position": 9,
+      "title": "Mario Puzo"
+    },
+    {
+      "position": 10,
+      "title": "Viertelfinale mit Spezialeinsatzkommando"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "03. Juni 2016 (1. Auflage) / 30. September 2016",
+      "EAN": "888751838123 (1. Auflage) / 889853720026"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f197",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-197/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

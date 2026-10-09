@@ -1,0 +1,151 @@
+{
+  "number": 96,
+  "title": "Die Entführung des Popstars",
+  "description": "In einem Jackett, an dem bei der Änderungsschneiderin die Ärmel gekürzt werden sollen, findet sich ein Zettel. Er ist ins Seidenfutter der Jacke gerutscht. Ein Hilferuf. Die weltberühmte Pop-Lady Cathy Fidelitas teilt in hastig gekrizelten Worten mit, dass sie entführt wurde und in einem Kerker eingesperrt ist. Die Kidnapper fordern drei Millionen Lösegeld. TKKG greifen ein und erleben eine Riesenüberraschung.",
+  "release_year": 1996,
+  "release_date": null,
+  "duration_seconds": 2769,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "PM Schulze",
+      "person": "Jörg Gillner"
+    },
+    {
+      "role": "Heike Beutler",
+      "person": "Ursula Gompf"
+    },
+    {
+      "role": "Cathy Fidelitas / Plöckelmeier",
+      "person": "Kristina von Weltzien"
+    },
+    {
+      "role": "Robert Pitbull",
+      "person": "Dieter Ohlendiek"
+    },
+    {
+      "role": "Jutta Tählohr",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Helmut Röhtel",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Dr. Spechtrupfer",
+      "person": "Wilhelm Wieben"
+    },
+    {
+      "role": "Evelyn Melancholly",
+      "person": "Kristina von Weltzien"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1996 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Brutale Entführung"
+    },
+    {
+      "position": 2,
+      "title": "Ein gieriger Fan"
+    },
+    {
+      "position": 3,
+      "title": "Ein falsches Autogramm"
+    },
+    {
+      "position": 4,
+      "title": "Ein Yankee kommt ins Spiel"
+    },
+    {
+      "position": 5,
+      "title": "Cathy ruft um Hilfe"
+    },
+    {
+      "position": 6,
+      "title": "Doppeltes Spiel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1. Juli 1996",
+      "EAN": "743213744049 (MC) / 743213744025 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f96",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-096/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "number": 158,
+  "title": "Trainer unter Verdacht",
+  "description": "Fußballtraining und Strandtage an der Nordsee, so lautet der Plan von TKKG für die Ferien. Während die Sportskanonen Tim und Gaby im Fußballcamp der Nachwuchskicker schwitzen, wollen Karl und Klößchen richtig ausspannen. Doch irgendetwas liegt in der Luft! Was treibt der Fußball-Profitrainer auf der Yacht in der Bucht? Welche seltsamen Pillen verabreicht er heimlich an Nachwuchstalente? TKKG ermitteln und stoßen auf ein Geflecht von Diebstählen, Erpressung und - ein schwimmendes Labor!",
+  "release_year": 2008,
+  "release_date": null,
+  "duration_seconds": 3280,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Erik Salk",
+      "person": "Tilmann Madaus"
+    },
+    {
+      "role": "Andreas",
+      "person": "Ronny Dörfler"
+    },
+    {
+      "role": "Martin",
+      "person": "Johannes Grimm"
+    },
+    {
+      "role": "Dr. Kaut",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Bodyguard",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Irmgard",
+      "person": "Anja Topf"
+    },
+    {
+      "role": "Luschke",
+      "person": "Herbert Trattnigg"
+    },
+    {
+      "role": "Frau Buschinski",
+      "person": "Isabella Grothe"
+    },
+    {
+      "role": "Trainer Zeck",
+      "person": "Rüdiger Hellmann"
+    },
+    {
+      "role": "Chauffeur",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Kussmaul nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2008 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Abpfiff"
+    },
+    {
+      "position": 2,
+      "title": "Intensives Balltraining"
+    },
+    {
+      "position": 3,
+      "title": "Neuigkeiten"
+    },
+    {
+      "position": 4,
+      "title": "Poesie"
+    },
+    {
+      "position": 5,
+      "title": "Willkommen auf Langeoog"
+    },
+    {
+      "position": 6,
+      "title": "Eine Schreckschraube bleibt hart"
+    },
+    {
+      "position": 7,
+      "title": "Selbstdarsteller"
+    },
+    {
+      "position": 8,
+      "title": "Morsezeichen"
+    },
+    {
+      "position": 9,
+      "title": "Brenzlige Lage"
+    },
+    {
+      "position": 10,
+      "title": "Im Piratennest"
+    },
+    {
+      "position": 11,
+      "title": "Beluga 24 Karat"
+    },
+    {
+      "position": 12,
+      "title": "Verschleppt"
+    },
+    {
+      "position": 13,
+      "title": "Illegale Pillen"
+    },
+    {
+      "position": 14,
+      "title": "Eine Million Euro"
+    },
+    {
+      "position": 15,
+      "title": "Hände hoch!"
+    },
+    {
+      "position": 16,
+      "title": "Abschlussmatch"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "9. Mai 2008",
+      "EAN": "886972682341 (MC) / 886972682327 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f158",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-158/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

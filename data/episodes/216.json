@@ -1,0 +1,97 @@
+{
+  "number": 216,
+  "title": "Das Geheimnis im Jagdschloss",
+  "description": "Die Familie Kapper von Kapperstein will ihr Jagdschloss verkaufen und Klößchens Vater ist einer von drei Interessenten. Tim, Karl, Gaby und Klößchen freuen sich, Herrn Sauerlich beim Besichtigungswochenende begleiten zu dürfen. Erster Programmpunkt: Eine Schaujagd im dazugehörigen Wald. Als ein Pferd von einem Schuss getroffen wird und stürzt, erleidet der Hausherr eine schwere Quetschung am Bein. War das der Querschläger einer Flinte oder vielleicht doch ein Attentat? Was hat es mit einem ähnlichen Jagdunfall von General August Kapper von Kapperstein vor genau hundert Jahren auf sich? Welche geheimnisvolle Rolle spielte der General im ersten Weltkrieg? Und wohin ist plötzlich einer der drei Kaufinteressenten verschwunden? TKKG nehmen die Ermittlungen auf und stoßen auf ein sonderbares Rätsel, das hundert Jahre lang niemand knacken konnte...",
+  "release_year": 2020,
+  "release_date": "2020-11-20",
+  "duration_seconds": 3835,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Dr. Frank Wundermüller",
+      "person": "Wolfgang Berger"
+    },
+    {
+      "role": "Frau Münzvoll",
+      "person": "Anja Topf"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Gustav Fischer",
+      "person": "Werner Wilkening"
+    },
+    {
+      "role": "Heinrich Kapper von Kapperstein",
+      "person": "Tetje Mierendorf"
+    },
+    {
+      "role": "Herr Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Herr Scheinreich",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Jens Dittreiter",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Otto Cerny",
+      "person": "Holger Off"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Victoria Kapper von Kapperstein",
+      "person": "Sophie Lechtenbrink"
+    },
+    {
+      "role": "Walburga Kapper von Kapperstein",
+      "person": "Hedi Kriegeskotte"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/das-geheimnis-im-jagdschloss-1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f216",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

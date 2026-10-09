@@ -1,0 +1,171 @@
+{
+  "number": 81,
+  "title": "Horror-Trip im Luxusauto",
+  "description": "Der Vater eines Mitschülers hat TKKG in sein tolles Ferienhaus in die Toskana eingeladen. Aber die Reise im Luxusauto des Gastgebers wird zum Horror-Trip. Verbrecher verfolgen den weißen Rolls Royce. Und dann machen die vier TKKG-Freunde eine unglaubliche Entdeckung...",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 2887,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Baldur Therne",
+      "person": "H. Peter Musäus"
+    },
+    {
+      "role": "Leo Lipstock",
+      "person": "Eckart Dux"
+    },
+    {
+      "role": "Ellen Wertheym",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Max Wertheym",
+      "person": "Hans Clarin"
+    },
+    {
+      "role": "Florian Wertheym",
+      "person": "Alexander von Süßkind"
+    },
+    {
+      "role": "Martin Althuk",
+      "person": "Willi Röbke"
+    },
+    {
+      "role": "Silvio Manzona",
+      "person": "Wolfgang Schimmelpfennig"
+    },
+    {
+      "role": "Ewald Krieger-Mattmaus",
+      "person": "Fred Maire"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1992 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Zerstochene Reifen"
+    },
+    {
+      "position": 2,
+      "title": "Harte 1000 Kilometer"
+    },
+    {
+      "position": 3,
+      "title": "Lösegeld"
+    },
+    {
+      "position": 4,
+      "title": "Verunglückter Mercedes"
+    },
+    {
+      "position": 5,
+      "title": "Alarm!"
+    },
+    {
+      "position": 6,
+      "title": "Horror-Trip im Luxusauto"
+    },
+    {
+      "position": 7,
+      "title": "Der Terror nimmt kein Auto"
+    },
+    {
+      "position": 8,
+      "title": "Eine ungeladene Pistole"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1992 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903846 (MC) / 743219903822 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f81",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-081/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

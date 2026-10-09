@@ -1,0 +1,179 @@
+{
+  "number": 136,
+  "title": "Argentinische Entführung",
+  "description": "Was in Buenos Aires längst zum Alltag gehört, wird leider auch zum Problem in der TKKG-Stadt: die argentinische Entführung. 13 mal sind unbekannte Gangster mit dieser Methode schon erfolgreich gewesen. Jetzt werden Kati und Hardy ihre Opfer, die kleinen Kinder eines Industriellen. Was hat der Blinde, der Gaby so frech anglotzt, damit zu tun? Vor allem aber Blitz, Hooker und Zicke, die als Tango-Trio in der Fußgängerzone spielen, sind verdächtig. Wieder eine heiße Herausforderung für TKKG...",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 3595,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Hooker",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Renate Zicke",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Andreas Peix",
+      "person": "Tobias Schmidt"
+    },
+    {
+      "role": "Luis Kaltfront",
+      "person": "Gosta Liptow"
+    },
+    {
+      "role": "Kati von Glotz",
+      "person": "Lilian Lou"
+    },
+    {
+      "role": "Hardy von Glotz",
+      "person": "Aaron Lee Ullmer"
+    },
+    {
+      "role": "Edmund von Glotz",
+      "person": "Hans Sievers"
+    },
+    {
+      "role": "Edeltraut von Glotz",
+      "person": "Konstanze Ullmer"
+    },
+    {
+      "role": "Walter Plitzke",
+      "person": "Claus Wilcke"
+    },
+    {
+      "role": "Blitz",
+      "person": "Ilja Richter"
+    },
+    {
+      "role": "Kellner Angelo",
+      "person": "Oliver Rohrbeck"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten •"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2003 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Blind in WOLKE SIEBEN"
+    },
+    {
+      "position": 2,
+      "title": "Zwei Kids im Kofferraum"
+    },
+    {
+      "position": 3,
+      "title": "Angstschweiß und Hundedreck"
+    },
+    {
+      "position": 4,
+      "title": "Lösegeld rauben"
+    },
+    {
+      "position": 5,
+      "title": "Kein Liebesbrief, sondern..."
+    },
+    {
+      "position": 6,
+      "title": "Nächster Versuch?"
+    },
+    {
+      "position": 7,
+      "title": "Niemand mit Handschuhen"
+    },
+    {
+      "position": 8,
+      "title": "In der blauen Baracke"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. März 2003",
+      "EAN": "743219885944 (MC) / 743219885920 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f136",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-136/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

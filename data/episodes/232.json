@@ -1,0 +1,143 @@
+{
+  "number": 232,
+  "title": "Drohnenaugen in der Nacht",
+  "description": "Tim, Karl, Gaby und Klößchen sind zu einer sommerlichen Poolparty eingeladen und genießen erfrischende Getränke am nächtlichen Pool. Da fällt Klößchen auf, dass der Vollmond nicht das Einzige am Himmel ist, was die Feiernden beobachten – eine Drohne steht hoch über ihnen und sendet ihr pulsierendes, rotes Blinklicht aus. Was soll das? Am nächsten Tag erfahren TKKG, dass Herr Sauerlich seit seiner Rückkehr aus dem Urlaub von einer unheimlichen Drohne erpresst wird. TKKG nehmen es mit einem unsichtbaren Gegner auf, der auch vor gefährlichen Drohnenverfolgungsjagden hoch über dem Villenviertel nicht zurückschreckt und TKKG aufgrund seiner perfiden Überwachungsmethoden immer einen Schritt voraus ist. Wie können TKKG den Spieß umdrehen?",
+  "release_year": 2024,
+  "release_date": "2024-05-31",
+  "duration_seconds": 3940,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Claudia",
+      "person": "Lilli Körting"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Eva Colombina"
+    },
+    {
+      "role": "Ernst Blechschmidt",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Frau Ebert",
+      "person": "Manon Straché"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Harry Anders",
+      "person": "John Wesley Zielmann"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Konstantin Graudus"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klaus Dietel",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Larissa",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Lukas von Höckendorff",
+      "person": "Julian Greis"
+    },
+    {
+      "role": "Merle",
+      "person": "Malin Steffen"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Rebecca",
+      "person": "Merete Brettschneider"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2024 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/drohnenaugen-in-der-nacht",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f232",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

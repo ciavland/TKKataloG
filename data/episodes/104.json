@@ -1,0 +1,167 @@
+{
+  "number": 104,
+  "title": "Im Wettbüro des Teufels",
+  "description": "Dem Kleinganoven und Zocker Egon V. fallen 10.000 plump gefälschte 20-DM-Scheine in die Hand. Ein willkommenes Taschengeld, das er nun für seine Wetten einsetzt. Dabei entsteht Kontakt zu einem Wettbüro besonderer Art: er wird von skrupellosen Typen betrieben, die auf den Tod älterer Menschen Wetten abschließen. TKKG entdecken einen Sumpf der Niedertracht und Menschenverachtung.",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 2853,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Hildegard Krekel"
+    },
+    {
+      "role": "Egon Voigt",
+      "person": "Robert Kotulla"
+    },
+    {
+      "role": "Leo Fressner",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Bastian „Zacki“ Pritzke",
+      "person": "Thomas R. Douglas"
+    },
+    {
+      "role": "Kurt „Kracher“ Schönseil",
+      "person": "Markus Frank"
+    },
+    {
+      "role": "Ludwig „Pickel“ Ehl",
+      "person": "Sven Reese"
+    },
+    {
+      "role": "Irene May",
+      "person": "Corinna Wodrich"
+    },
+    {
+      "role": "Max",
+      "person": "Andreas Bittl"
+    },
+    {
+      "role": "Luciano Pergamotti",
+      "person": "Leonardo Cusenza"
+    },
+    {
+      "role": "Mann",
+      "person": "Raphael Lungi"
+    },
+    {
+      "role": "Frau",
+      "person": "Gabriele Hartmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte und Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1997 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Zocker am Straßenrand"
+    },
+    {
+      "position": 2,
+      "title": "Gefälschte Zehner"
+    },
+    {
+      "position": 3,
+      "title": "Gabys Beinahe-Verhängnis"
+    },
+    {
+      "position": 4,
+      "title": "Tims-Matsch-Birne-Plan"
+    },
+    {
+      "position": 5,
+      "title": "Stiefeldolch mit L.E."
+    },
+    {
+      "position": 6,
+      "title": "Ein fast tödlicher Anschlag"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. September 1997",
+      "EAN": "743214773741 (MC) / 743214773727 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f104",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-104/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

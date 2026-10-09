@@ -1,0 +1,187 @@
+{
+  "number": 139,
+  "title": "Oskar jagt die Drogendealer",
+  "description": "Das Hörspiel zum Schulprojekt (ursprünglich geplanter Titel: Sprengt den Drogenring): Benno, ein Mitschüler von TKKG, stirbt fast an einer Überdosis einer neuen Designerdroge. Bei ihren Nachforschungen stellen die vier Junior-Detektive fest, dass die Dealer auch vor den Schulhöfen keinen Halt machen. Und dann passiert am Tag der Anti-Drogen-Schulparty im Internat etwas Ungeheuerliches: Am Kessel mit der \"Waldfee-Bowle\" finden, Tim, Karl, Klößchen und Gaby ein Pulver, das garantiert nicht in die Bowle gehört...",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 3817,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Benno Stemmberger",
+      "person": "Tobias Schmidt"
+    },
+    {
+      "role": "Otto Bölke",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Detlev Rattig",
+      "person": "Leonhard Mahlich"
+    },
+    {
+      "role": "Martin Kunert",
+      "person": "Philipp Baltus"
+    },
+    {
+      "role": "Tanja Kunert",
+      "person": "Julia Demtröder"
+    },
+    {
+      "role": "Eugen Nierfink",
+      "person": "Hans Sievers"
+    },
+    {
+      "role": "Carlo Zappata",
+      "person": "Gustay-Adolph Artz"
+    },
+    {
+      "role": "Schüler",
+      "person": "Florian Weißflog"
+    },
+    {
+      "role": "Schülerin",
+      "person": "Nora Jenane"
+    },
+    {
+      "role": "U-Bahn-Ansage",
+      "person": "Michael von Rospatt"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2003 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Heatstroke - der Schrecken aller Schrecken"
+    },
+    {
+      "position": 2,
+      "title": "Größenwahnsinnige Drogenbarone"
+    },
+    {
+      "position": 3,
+      "title": "Besuch bei einer Märchentante"
+    },
+    {
+      "position": 4,
+      "title": "Aufklärung statt Verbrecherjagd"
+    },
+    {
+      "position": 5,
+      "title": "Ein gefährliches Schlaginstrument"
+    },
+    {
+      "position": 6,
+      "title": "Doppeltes Spiel"
+    },
+    {
+      "position": 7,
+      "title": "400 Liter Bowle"
+    },
+    {
+      "position": 8,
+      "title": "Körperverletzung"
+    },
+    {
+      "position": 9,
+      "title": "Der Schatz im Schließfach"
+    },
+    {
+      "position": 10,
+      "title": "Selbstjustiz ist keine Lösung"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1. September 2003",
+      "EAN": "743219758842 (MC) / 743219758828 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f139",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-139/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

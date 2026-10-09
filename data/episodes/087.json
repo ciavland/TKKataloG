@@ -1,0 +1,175 @@
+{
+  "number": 87,
+  "title": "Der böse Geist vom Waisenhaus",
+  "description": "Christian, der neunjährige Sohn eines Zahnarztes wird verletzt im Wald aufgefunden. Der Junge behauptet, ein Penner wäre der Täter. Der Verdacht fällt auf den Stadtstreicher Rotbart, der schon sein eigenes Kind gequält hat und deshalb im Gefängnis saß. Die Treibjagd auf den Stadtstreicher beginnt, allen voran TKKG. Doch dann geschehen unglaubliche Dinge...",
+  "release_year": 1994,
+  "release_date": null,
+  "duration_seconds": 2591,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Norbert Schengmann",
+      "person": "Arthur Brauss"
+    },
+    {
+      "role": "Edith Schengmann",
+      "person": "Heidrun von Goessel"
+    },
+    {
+      "role": "Anna Schengmann",
+      "person": "Victoria Formica"
+    },
+    {
+      "role": "Kommissar Heuser",
+      "person": "Michael Poelchau"
+    },
+    {
+      "role": "Dr. Beule, Lehrer",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Dr. Schneider",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Dr. Matthias Reithl",
+      "person": "Lutz Büschken"
+    },
+    {
+      "role": "Carola Reithl",
+      "person": "Rebecca Völz"
+    },
+    {
+      "role": "Christian Reithl",
+      "person": "Michael Quiatkowsky"
+    },
+    {
+      "role": "Erwin Vleske, Rotbart",
+      "person": "Franz Rudnick"
+    },
+    {
+      "role": "Sozialpädagoge Hugo Dansik",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Dieter Wolpert",
+      "person": "Norman Messer"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "H.G. Francis •"
+    },
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger - Titelmusik GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "©1994 by Pelikan AG, D-30177 Hannover"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Sieht Anna Gespenster?"
+    },
+    {
+      "position": 2,
+      "title": "Taschentuch von E.S."
+    },
+    {
+      "position": 3,
+      "title": "Kollaps im Geldtransporter"
+    },
+    {
+      "position": 4,
+      "title": "Brutales Verbrechen"
+    },
+    {
+      "position": 5,
+      "title": "Seltsame Eltern"
+    },
+    {
+      "position": 6,
+      "title": "Schengmanns Ausreden"
+    },
+    {
+      "position": 7,
+      "title": "Rotbart erpreßt"
+    },
+    {
+      "position": 8,
+      "title": "Um 17 Uhr im Freizeitpark"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "28. Februar 1994",
+      "EAN": "743211851640 (MC) / 743211851626 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f87",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-087/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

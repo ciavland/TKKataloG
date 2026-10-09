@@ -1,0 +1,155 @@
+{
+  "number": 143,
+  "title": "Das unheimliche Haus",
+  "description": "Ein toller Ferienjob für TKKG: Die vier werden Haushüter in einer großen ländlichen Villa - einem schlossähnlichen Gebäude mit schauriger Vergangenheit. Außerdem ist das unheimliche Haus der Endpunkt einer gefährlichen Spur - einer Spur zu einem versteckten Schatz. Auf der Spur sind ein gewalttätiger Verbrecher sowie ein Privatdetektiv. Und damit Tim, Karl, Klößchen und Gaby sich auch wirklich nicht langweilen, lauert im nahen Schwarzwasser-See ein Ungeheuer...",
+  "release_year": 2004,
+  "release_date": null,
+  "duration_seconds": 3782,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Benito",
+      "person": "Tammo Kaulbarsch"
+    },
+    {
+      "role": "Bruno Schleichmann",
+      "person": "Jürgen Holdorf"
+    },
+    {
+      "role": "Cindy Pitz-Schleichmann",
+      "person": "Sabine Falkenberg"
+    },
+    {
+      "role": "Raimund Klemrich",
+      "person": "Frank Felicetti"
+    },
+    {
+      "role": "Edgar Kontze",
+      "person": "Henry König"
+    },
+    {
+      "role": "Laura Schenor",
+      "person": "Marion Martienzen"
+    },
+    {
+      "role": "Peter Schenor",
+      "person": "Lutz Herkenrath"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der BMG Records GmbH"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2004 BMG Records GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Die Beute von damals"
+    },
+    {
+      "position": 2,
+      "title": "Japanischer Monsterfisch"
+    },
+    {
+      "position": 3,
+      "title": "Missglückte Verfolgung"
+    },
+    {
+      "position": 4,
+      "title": "Herrmann in Gefahr"
+    },
+    {
+      "position": 5,
+      "title": "Einbrecher im Haus"
+    },
+    {
+      "position": 6,
+      "title": "Cindy packt aus"
+    },
+    {
+      "position": 7,
+      "title": "Geheimtür"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "4. Oktober 2004",
+      "EAN": "828765731645 (MC) / 828765731621 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f143",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-143/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

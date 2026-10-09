@@ -1,0 +1,151 @@
+{
+  "number": 95,
+  "title": "U-Bahn des Schreckens",
+  "description": "In den U-Bahnen der TKKG-Stadt kommt es immer öfter zu nächtlichen Überfällen - zu Bedrohung, Raub und Mißhandlung. Besonders Frauen und Mädchen sind gefährdet, die Täter treten maskiert auf. Die Polizei ist überfordert; eine private Schutztruppe bietet an, dem Schrecken ein Ende zu machen. Doch TKKG schalten sich ein und decken ein böses Komplott auf.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 2258,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Eberhard Krummholz",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Franz Selbmann",
+      "person": "Matthias Fuchs"
+    },
+    {
+      "role": "Jochen Kulse",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Bernd Pritz",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Heike Lennert",
+      "person": "Pamela Großer"
+    },
+    {
+      "role": "Sandra Wachtel",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Erwin Kirsch",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Lautsprecher-Stimme",
+      "person": "Nicolas König"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1996 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Schutz für Fahrgäste"
+    },
+    {
+      "position": 2,
+      "title": "Terror in der U-Bahn"
+    },
+    {
+      "position": 3,
+      "title": "Tränen in der Disco"
+    },
+    {
+      "position": 4,
+      "title": "Verdächtige Schminke"
+    },
+    {
+      "position": 5,
+      "title": "Krummholz weiß Bescheid"
+    },
+    {
+      "position": 6,
+      "title": "Das Treffen auf dem Schießstand"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "30. Oktober 1995",
+      "EAN": "743213267043 (MC) / 743213267029 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f95",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-095/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

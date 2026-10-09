@@ -1,0 +1,175 @@
+{
+  "number": 82,
+  "title": "Spuk aus dem Jenseits",
+  "description": "Umheimlich: Jörg, ein Klassenkamerad von TKKG, und seine Mutter werden terrorisiert. Jörgs Stiefvater, steinreicher Computer-Fabrikant und teuflischer Erfinder, war nach Zerwürfnissen mit seiner Frau vor einem Jahr gestorben. Er hatte geschworen, sich aus dem Jenseits zu rächen. Ein gruseliger Fall für TKKG...",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 3073,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Elsa Demonius",
+      "person": "Barbara Marks"
+    },
+    {
+      "role": "Kahlig",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Dr. Beinhart Geiser",
+      "person": "Peter Schiff"
+    },
+    {
+      "role": "Dr. Albrecht Demonius",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Hugo Büttner",
+      "person": "Reent Reins"
+    },
+    {
+      "role": "Isabell Pilsen",
+      "person": "Beate Hasenau"
+    },
+    {
+      "role": "Ali Dscham",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Dr. Blechbard",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Jörg",
+      "person": "Ben Tappé"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1992 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Schreckliche Rache"
+    },
+    {
+      "position": 2,
+      "title": "Wer liegt in dem Sarg?"
+    },
+    {
+      "position": 3,
+      "title": "Anruf aus dem Jenseits"
+    },
+    {
+      "position": 4,
+      "title": "Die Herzallerliebste"
+    },
+    {
+      "position": 5,
+      "title": "Der höchste Kopfpreis"
+    },
+    {
+      "position": 6,
+      "title": "In der Demonius-Gruft"
+    },
+    {
+      "position": 7,
+      "title": "Getäuscht"
+    },
+    {
+      "position": 8,
+      "title": "Roboter in Aktion"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1992 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903945 (MC) / 743219903921 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f82",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-082/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

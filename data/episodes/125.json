@@ -1,0 +1,171 @@
+{
+  "number": 125,
+  "title": "Der Mörder aus einer anderen Zeit",
+  "description": "Ein Schulgebäude von 1898 ist einsturzgefährdet und wird abgerissen. Im Fundament entdecken TKKG eine Zeitkapsel, die damals bei der Grundsteinlegung eingemauert wurde und eigentlich Zeugnisse jener Zeit enthalten müsste, wie Tageszeitungen von 1898 und Berichte über die Stadt. Nichts dergleichen! Stattdessen bringt die Kapsel das Geständnis eines Mörders über seine ungeheurlichen, ungesühnten Verbrechen. Diese Entdeckung hat katastrophale Auswirkungen in der Gegenwart, denn der Enkel des Mörders ist eine hochstehende Persönlichkeit des öffentlichen Lebens.",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 3300,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Regina Odenhafer",
+      "person": "Theresa Underberg"
+    },
+    {
+      "role": "Leopold Odenhafer",
+      "person": "Rüdiger Schulzki"
+    },
+    {
+      "role": "Jürgen Schulken",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Pit Simon",
+      "person": "Jannik Endemann"
+    },
+    {
+      "role": "Herbert Nocke",
+      "person": "Marco Kraft"
+    },
+    {
+      "role": "Klaus",
+      "person": "Lucius Kliemt"
+    },
+    {
+      "role": "Robert",
+      "person": "Woody Mues"
+    },
+    {
+      "role": "Tanja Fritsche-Wolkenkuss",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Norbert Tebbich",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Mugus zu Grapsbach",
+      "person": "Harald Pages"
+    },
+    {
+      "role": "Dr. Ferdinand Geeber",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Butler Enzio",
+      "person": "Eberhard Haar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH & Co. KG"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2001 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Überfall auf Regina"
+    },
+    {
+      "position": 2,
+      "title": "Bombe? Schatztruhe? Oder?"
+    },
+    {
+      "position": 3,
+      "title": "Die Zeitkapsel wird geöffnet"
+    },
+    {
+      "position": 4,
+      "title": "Ulrikes schreckliches Schicksal"
+    },
+    {
+      "position": 5,
+      "title": "Karl Ausbeute"
+    },
+    {
+      "position": 6,
+      "title": "Wie man Schmiergeld übergiebt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. März 2001",
+      "EAN": "743218255342 (MC) / 743218255328 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f125",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-125/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

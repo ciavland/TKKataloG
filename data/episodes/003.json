@@ -1,0 +1,171 @@
+{
+  "number": 3,
+  "title": "Das leere Grab im Moor",
+  "description": "Tarzan liegt in seinem Bett in der Internatsschule. Er kann nicht einschlafen und schaut hinaus in den Nachthimmel. Da sieht er einen Stern, der sich rasch bewegt. Eine Sternschnuppe, denkt Tarzan. Nein! Plötzlich steht ein Feuerball am Himmel, der Knall einer Explosion dringt bis in Tarzans Schlafraum. Am nächsten Morgen erfährt er, dass ein kleines Flugzeug in das Moor vor der Stadt gestürzt ist. Die Maschine gehörte einem Ölscheich, an Bord war eine Kiste mit Gold und Edelsteinen - die nun spurlos verschwunden ist. Im Moor finden sich nur noch die Trümmer des Flugzeugs. Eine fieberhafte Suche nach der wertvollen Kiste beginnt. Auch TKKG durchstöbern das Moor, und sie stoßen auf merkwürdige Gestalten: auf den Kioskbesitzer Funke, der Alkohol an Jugendliche verkauft, und auf den Landstreicher Stulla. Was haben sie mit dem verschwundenen Schatz zu tun? Tarzan, Klößchen, Karl und Gaby beobachten die beiden heimlich...",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2451,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Gröbl",
+      "person": "Peter Buchholz"
+    },
+    {
+      "role": "Max Stulla",
+      "person": "Siegfried Wald"
+    },
+    {
+      "role": "Lisa Moll",
+      "person": "Pamela Punti"
+    },
+    {
+      "role": "Fritz Funke",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Harry Smith",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Scheich Abu Yassir Khalun",
+      "person": "Bruno Efterle"
+    },
+    {
+      "role": "Polizeipräsident",
+      "person": "Andreas Wolters"
+    },
+    {
+      "role": "Olga Kretschmer",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Dolmetscher",
+      "person": "Wolfgang Jürgen"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1979 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Schatz des Scheichs"
+    },
+    {
+      "position": 2,
+      "title": "Ausflug ins Moor"
+    },
+    {
+      "position": 3,
+      "title": "Der Schuss auf den Wilddieb"
+    },
+    {
+      "position": 4,
+      "title": "Der verräterische Schlüsselanhänger"
+    },
+    {
+      "position": 5,
+      "title": "Allerlei im leeren Grab"
+    },
+    {
+      "position": 6,
+      "title": "Die Ganoven verbünden sich"
+    },
+    {
+      "position": 7,
+      "title": "In letzter Sekunde"
+    },
+    {
+      "position": 8,
+      "title": "Tüchtigkeit wird belohnt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (LP / MC) / 12. Mai 2003 (CD)",
+      "EAN": "743219896148 (MC) / 743219896124 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f3",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-003/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

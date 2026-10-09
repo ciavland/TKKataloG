@@ -1,0 +1,175 @@
+{
+  "number": 30,
+  "title": "Die Mafia kommt zur Geisterstunde",
+  "description": "Das Fitneß-Studio Strong wird von Verbrechern bedroht. Der ehemalige Sportlehrer Strong soll eine Schutzgebür bezahlen. Als er sich weigert, beginnt der Krieg der Mafia, der unversehens zu einem Fall für die TKKG-Bande wird...",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 2329,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Werner Strong",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Dieter „Mano“ Manowsky",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Gunter Pölke",
+      "person": "Manfred Schermutzki"
+    },
+    {
+      "role": "Katja Meier",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Heinz Voss",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Polizist",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Verkäufer",
+      "person": "Rüdiger Schulzki"
+    },
+    {
+      "role": "Kellnerin",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Erpresserin",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Kundin im Café",
+      "person": "Renate Pichler"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Bombe im Kraft-Center"
+    },
+    {
+      "position": 2,
+      "title": "Lieblingsbonbons"
+    },
+    {
+      "position": 3,
+      "title": "Der vierte Tag der Beschattung"
+    },
+    {
+      "position": 4,
+      "title": "Geschwollenes Auge"
+    },
+    {
+      "position": 5,
+      "title": "Ein höflicher Mensch"
+    },
+    {
+      "position": 6,
+      "title": "Einbruch"
+    },
+    {
+      "position": 7,
+      "title": "Karatetricks"
+    },
+    {
+      "position": 8,
+      "title": "Vergiftete Vitaminkapseln"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 11. Oktober 2004 (CD)",
+      "EAN": "743219898845 (MC) / 743219898821 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f30",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-030/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

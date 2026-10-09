@@ -1,0 +1,131 @@
+{
+  "number": 224,
+  "title": "Bilderdiebe haben kein Gesicht",
+  "description": "Im berühmten Hamann Museum überrumpeln zwei als Polizisten verkleidete Gauner den studentischen Nachtwächter Ole Paulitz und erbeuten Gemälde im Wert von einigen Millionen Euro. Tim, Karl, Gaby und Klößchen stockt der Atem, als ihnen auffällt, dass das Phantombild eines der Bilderdiebe starke Ähnlichkeit mit Kommissar Schalavsky, einem Kollegen von Gabys Vater, aufweist! Waren die falschen Polizisten also doch echt? TKKG ermitteln und fördern interessante Zusammenhänge zwischen Museumsgründerin Petronella Kamilla Hamann, ihrer rechten Hand Arne Kaminsky und seinem Neffen Ole Paulitz zutage. Als sie schließlich eines der gestohlenen Gemälde ausfindig machen, scheint der Fall gelöst – tatsächlich aber geht es jetzt erst richtig los ...",
+  "release_year": 2022,
+  "release_date": "2022-09-02",
+  "duration_seconds": 4410,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Arne Kaminsky",
+      "person": "Erik Schäffler"
+    },
+    {
+      "role": "Arnold Adamek",
+      "person": "Reinhold Kammerer"
+    },
+    {
+      "role": "Elisa Hausner",
+      "person": "Uschi Hugo"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Eva Colombina"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Ole Paulitz",
+      "person": "Julian Greis"
+    },
+    {
+      "role": "Patricia Westphal",
+      "person": "Petra Kleinert"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Petronella Kamilla Hamann",
+      "person": "Apollonia Jepsen"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2022 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/bilderdiebe-haben-kein-gesicht",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f224",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

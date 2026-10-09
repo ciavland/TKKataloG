@@ -1,0 +1,179 @@
+{
+  "number": 156,
+  "title": "Erpresser fahren Achterbahn",
+  "description": "Entsetzen auf dem Rummelplatz! In dem rasanten Karussell \"Breakdancer\" explodiert eine Bombe - und TKKG kommen wie durch ein Wunder unverletzt davon. Steckt tatsächlich Stefan Rüter, der Sohn einer Schaustellerfamilie, dahinter? Als die geforderte Erpressersumme von 100.000 Euro in der Looping-Bahn hinterlegt wird, ereignet sich auf den Schienen ein dramatischer Zwischenfall. Kann der gefährliche Attentäter in letzter Sekunde gestoppt werden? Es sieht ganz und gar nicht danach aus...",
+  "release_year": 2007,
+  "release_date": null,
+  "duration_seconds": 3007,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Stefan Rüter",
+      "person": "Gosta Liptow"
+    },
+    {
+      "role": "Herr Rüter",
+      "person": "Wolf Frass"
+    },
+    {
+      "role": "Rita Möller",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Gunnar Steppke",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Frau Klamm",
+      "person": "Elga Schütz"
+    },
+    {
+      "role": "Felix",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "Volker",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Ansage Breakdancer",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Angestellter",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Polizist",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger – nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher ·"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2007 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein Gastschüler stellt sich vor"
+    },
+    {
+      "position": 2,
+      "title": "Wie eine Blockflöte?"
+    },
+    {
+      "position": 3,
+      "title": "Breakdance mit Knalleffekt"
+    },
+    {
+      "position": 4,
+      "title": "In Untersuchungshaft"
+    },
+    {
+      "position": 5,
+      "title": "Kommissar Glockner zeigt Einsicht"
+    },
+    {
+      "position": 6,
+      "title": "Rita Möller versprüht Gift"
+    },
+    {
+      "position": 7,
+      "title": "Geldregen"
+    },
+    {
+      "position": 8,
+      "title": "Wen oder wem?"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "16. November 2007",
+      "EAN": "886971689549 (MC) / 886971689525 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f156",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-156/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

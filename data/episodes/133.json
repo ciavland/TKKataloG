@@ -1,0 +1,167 @@
+{
+  "number": 133,
+  "title": "Auf vier Pfoten zur Millionenbeute",
+  "description": "Olaf, der Drogenkurier, holt eine Rauschgiftladung im Wert von zehn Millionen Euro aus Spanien. Statt die Drogen bei seinem Boss Barzik abzuliefern, versteckt er sie in einer Klosterruine - und plant ein Geschäft auf eigene Rechnung. Barzik erfährt davon und will sich Olaf vornehmen. Doch der sitzt bereits wegen eines Bankraubes hinter Gittern - entlarvt und festgenommen durch TKKG. Um das Drogen-Versteck zu finden, bringt Barzik Wuff, den Fernsehstar und ehemals besten Drogenhund der Welt, ins Spiel...",
+  "release_year": 2002,
+  "release_date": null,
+  "duration_seconds": 3575,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Hildegard Krekel"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Olaf Ladicke",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Manni Bense",
+      "person": "Michael Bideller"
+    },
+    {
+      "role": "Jörg Diminivski",
+      "person": "Johann W. Nahmens"
+    },
+    {
+      "role": "Drasto Barzik",
+      "person": "Wolfgang Hartmann"
+    },
+    {
+      "role": "Krupp",
+      "person": "Michael Quiatkowsky"
+    },
+    {
+      "role": "Elfriede Gilchhausen",
+      "person": "Apollonia Minninger"
+    },
+    {
+      "role": "Rudi van Schniffingen",
+      "person": "Henk de Vries"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2002 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ganove als Augenzeuge?"
+    },
+    {
+      "position": 2,
+      "title": "Olaf fliegt nach Malaga"
+    },
+    {
+      "position": 3,
+      "title": "Fuffi mit Glücksschwein"
+    },
+    {
+      "position": 4,
+      "title": "Überraschung in der Cento-Bank"
+    },
+    {
+      "position": 5,
+      "title": "Oskar wird Schauspieler"
+    },
+    {
+      "position": 6,
+      "title": "Drogen in der Klosterruine"
+    },
+    {
+      "position": 7,
+      "title": "Opa verbrennt ein Vermögen"
+    },
+    {
+      "position": 8,
+      "title": "Bester Drogenhund der Welt"
+    },
+    {
+      "position": 9,
+      "title": "Wuff und Oskar im Duett"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. August 2002",
+      "EAN": "743219315847 (MC) / 743219315823 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f133",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-133/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

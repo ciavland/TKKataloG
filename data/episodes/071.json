@@ -1,0 +1,167 @@
+{
+  "number": 71,
+  "title": "Stimme aus der Unterwelt",
+  "description": "Die TKKG-Freunde fahren nach Österreich, weil Klößchen dort einen Onkel beerben soll. Und es sieht ganz so aus, als wäre das bald der Fall, denn Dr. Holmann ist Morddrohungen ausgesetzt. Ein gefährlicher Krimineller glaubt, sich an dem Arzt rächen zu müssen. Langsam zieht er die Schlinge zu.",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2526,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Dr. Sigismund Holmann",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Susi Welmhoff",
+      "person": "Hansi Jochmann"
+    },
+    {
+      "role": "Pauline Mehrfelder",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Dr. Andreas Holmann",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Heinrich Grobalsky",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Tanja Reuther",
+      "person": "Claudia Kleiber"
+    },
+    {
+      "role": "Wirt",
+      "person": "Christian Günther"
+    },
+    {
+      "role": "Taxifahrer Alois Pillau",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Inspektor Wondraschek",
+      "person": "Rainer Schmitt"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gespielte Blindheit"
+    },
+    {
+      "position": 2,
+      "title": "Total verkracht"
+    },
+    {
+      "position": 3,
+      "title": "Enttäuschter Patient"
+    },
+    {
+      "position": 4,
+      "title": "Ein ehrlicher Charakter"
+    },
+    {
+      "position": 5,
+      "title": "Wer ist der Täter?"
+    },
+    {
+      "position": 6,
+      "title": "Purer Hass"
+    },
+    {
+      "position": 7,
+      "title": "Eingesperrt"
+    },
+    {
+      "position": 8,
+      "title": "Die einzige Erklärung"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1990 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902948 (MC) / 743219902924 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f71",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-071/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

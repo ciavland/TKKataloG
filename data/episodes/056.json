@@ -1,0 +1,151 @@
+{
+  "number": 56,
+  "title": "Todesgruß vom Gelben Drachen",
+  "description": "Tim wird Zeuge, wie sein chinesischer Karatelehrer Lam Wing Chung gezwungen wird, ein Paket Heroin zu verstecken. Was ist zu tun? Wenn die TKKG-Bande Kommissar Glockner einschaltet, ist Lam ein toter Chinese; darüber lassen die \"Triaden\" keinen Zweifel. Tim hat die rettende Idee - und bringt damit ungewollt Gaby in größte Gefahr. Ist dies der Todesgruß vom Gelben Drachen?",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2290,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Lam Wung Chung",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Tze Hung",
+      "person": "Herbert Dallmann"
+    },
+    {
+      "role": "Lu Manchu",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Eduard Preff",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Schwester Isabell",
+      "person": "Marion Elskis"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1987 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gefährliche Kopfwunde"
+    },
+    {
+      "position": 2,
+      "title": "Narbe am Mundwinkel"
+    },
+    {
+      "position": 3,
+      "title": "Der Dealer ist ein Dealer"
+    },
+    {
+      "position": 4,
+      "title": "Der beste Kung-Fu-Lehrer"
+    },
+    {
+      "position": 5,
+      "title": "Rauschgift-Haie"
+    },
+    {
+      "position": 6,
+      "title": "Der Tipperizki-Schatz"
+    },
+    {
+      "position": 7,
+      "title": "Heroin!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 21. April 2006 (CD)",
+      "EAN": "743219901446 (MC) / 743219901422 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f56",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-056/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

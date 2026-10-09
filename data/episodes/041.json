@@ -1,0 +1,163 @@
+{
+  "number": 41,
+  "title": "Heißes Gold im Silbersee",
+  "description": "Karl hat eine aufregende Neuigkeit erfahren. In einer uralten Bibel ist eine Schatzkarte versteckt. Und wenn alles stimmt, was er recherchiert hat, liegt der Schatz ganz in der Nähe verborgen. Plötzlich ist die Bibel verschwunden, und eine aufregende Jagd nach dem Schatz beginnt - und es sieht ganz so aus, als hätten die Ganoven einen erheblichen Vorsprung vor den TKKG-Freunden...",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 1979,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Friedhelm Graf Schnuck",
+      "person": "Pinkas Braun"
+    },
+    {
+      "role": "Hertha Gräbig",
+      "person": "Ingrid Resch"
+    },
+    {
+      "role": "Ute Preissler",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Heinrich Maria Altstetten",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Theo Gräbig",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Leopold Streichinger",
+      "person": "Jochen Sehrndt"
+    },
+    {
+      "role": "Taucher",
+      "person": "Utz Richter"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1986 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Selbstbeweihräucherung"
+    },
+    {
+      "position": 2,
+      "title": "Schrecklicher Verdacht"
+    },
+    {
+      "position": 3,
+      "title": "Notration"
+    },
+    {
+      "position": 4,
+      "title": "Verdächtiger Wachsklumpen"
+    },
+    {
+      "position": 5,
+      "title": "Schwarzarbeit"
+    },
+    {
+      "position": 6,
+      "title": "Gestohlene Bibel"
+    },
+    {
+      "position": 7,
+      "title": "Leere Spukbude"
+    },
+    {
+      "position": 8,
+      "title": "Nächtliche Schatzsucher"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1986 (MC) / 11. Juli 2005 (CD)",
+      "EAN": "743219899941 (MC) / 743219899927 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f41",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-041/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

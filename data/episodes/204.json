@@ -1,0 +1,191 @@
+{
+  "number": 204,
+  "title": "Verschwörung auf hoher See",
+  "description": "Mitten im Januar genießen Tim, Karl, Gaby und Klößchen angenehme 26 Grad und strahlenden Sonnenschein! Auf dem Sonnendeck eines Kreuzfahrtschiffs in der Karibik stehen die Zeichen auf Erholung. Wäre da nicht diese gemeine Diebstahlserie eines blinden Passagiers, von der Sicherheitsoffizier Claas Holthusen vertraulich erzählt. Eigentlich ein leichter Fall für TKKG. Doch als das Schiff die sagenumwobenen Gewässer des Bermudadreiecks erreicht und ein furchtbarer Sturm aufzieht, werden alte Seemannsgeschichten wahr...",
+  "release_year": 2018,
+  "release_date": null,
+  "duration_seconds": 3680,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Renate Pichler"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Jochen Ettenbeck",
+      "person": "Frank Meyer-Brockmann"
+    },
+    {
+      "role": "Emmi Stahlblau",
+      "person": "Caroline Kiesewetter"
+    },
+    {
+      "role": "Helmut Bor",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Frauke Bor",
+      "person": "Gerlinde Dillge"
+    },
+    {
+      "role": "Dennis Stoffel",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Nicole Sachs",
+      "person": "Manuela Eifrig"
+    },
+    {
+      "role": "Claas Holthusen",
+      "person": "Werner Wilkening"
+    },
+    {
+      "role": "Sven Pohl",
+      "person": "Mike Olsowski"
+    },
+    {
+      "role": "Linda Hansen",
+      "person": "Anne Moll"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten, Maike Müller"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH."
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Erholung in Gefahr"
+    },
+    {
+      "position": 2,
+      "title": "Nur keine Aufregung!"
+    },
+    {
+      "position": 3,
+      "title": "Dennis Stoffel schlägt zu"
+    },
+    {
+      "position": 4,
+      "title": "Captain's Dinner in Schräglage"
+    },
+    {
+      "position": 5,
+      "title": "Post von einem Unbekannten"
+    },
+    {
+      "position": 6,
+      "title": "Der blinde Passagier"
+    },
+    {
+      "position": 7,
+      "title": "Gerüchte machen die Runde"
+    },
+    {
+      "position": 8,
+      "title": "Schwimmwesten anlegen!"
+    },
+    {
+      "position": 9,
+      "title": "Wenn sich zwei streiten…"
+    },
+    {
+      "position": 10,
+      "title": "Kapitän Carsten"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "23. Februar 2018",
+      "EAN": "190758040424"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f204",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-204/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

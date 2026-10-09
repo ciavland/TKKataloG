@@ -1,0 +1,207 @@
+{
+  "number": 170,
+  "title": "Schock im Schnee",
+  "description": "Der anfangs traumhafte Winterurlaub entwickelt sich für TKKG rasch zu einem Albtraum! Wer ist der Unbekannte, der unschuldige Skifahrer in heimtückische Fallen rasen lässt? Tim, Karl, Klößchen und Gaby geraten in die Fänge des Fallenstellers und entkommen nur knapp. Als dann auch noch ein Insasse aus der nahegelegenen Psycho-Klinik ausbricht, wird es gefährlich. Wer wird das nächste Opfer?",
+  "release_year": 2010,
+  "release_date": null,
+  "duration_seconds": 2797,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Armin",
+      "person": "Gerrit Schmidt-Foss"
+    },
+    {
+      "role": "Ulrike",
+      "person": "Luise Helm"
+    },
+    {
+      "role": "Frederik",
+      "person": "Nils Noller"
+    },
+    {
+      "role": "Hella Hurtig",
+      "person": "Anna Grisebach"
+    },
+    {
+      "role": "Erwin",
+      "person": "Wolf Pahlke"
+    },
+    {
+      "role": "Elfriede",
+      "person": "Ingeborg Christiansen"
+    },
+    {
+      "role": "Schwester Gerda",
+      "person": "Kaya Möller"
+    },
+    {
+      "role": "Schwester Bärbel",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Frau Barnebeck",
+      "person": "Hansi Jochmann"
+    },
+    {
+      "role": "Jochen Linus",
+      "person": "Andreas Otto"
+    },
+    {
+      "role": "Skifahrer",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Volker Mars",
+      "person": "Marco Sand"
+    },
+    {
+      "role": "Polizist",
+      "person": "Rüdiger Schulzki"
+    },
+    {
+      "role": "Polizist",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Krankenhaus-Durchsage",
+      "person": "Heikedine Körting"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion und Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B –"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher ·"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Alarm!"
+    },
+    {
+      "position": 2,
+      "title": "Après Ski"
+    },
+    {
+      "position": 3,
+      "title": "Irre Aussicht"
+    },
+    {
+      "position": 4,
+      "title": "Ausbruch"
+    },
+    {
+      "position": 5,
+      "title": "Tückische Falle"
+    },
+    {
+      "position": 6,
+      "title": "Entwischt"
+    },
+    {
+      "position": 7,
+      "title": "Hohes Ziel"
+    },
+    {
+      "position": 8,
+      "title": "Streit unter Brüdern"
+    },
+    {
+      "position": 9,
+      "title": "Wer zuletzt lacht…"
+    },
+    {
+      "position": 10,
+      "title": "…lacht am besten!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "24. September 2010",
+      "EAN": "886976842741 (MC) / 886976842727 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f170",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-170/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

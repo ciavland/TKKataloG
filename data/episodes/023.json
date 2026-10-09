@@ -1,0 +1,167 @@
+{
+  "number": 23,
+  "title": "Kampf der Spione",
+  "description": "Eine Frau nimmt Tarzan als Anhalter mit, und schon ist er wieder mitten drin im tollsten Abenteuer! Es geht um Spionage, und Tarzan ist auf dem besten Weg, sich im Netz undurchsichtiger Agenten zu verstricken. Die vier TKKG-Freunde haben eine harte Nuß zu knacken.",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2111,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Hildegard Putz",
+      "person": "Reinhilt Schneider"
+    },
+    {
+      "role": "Robert Grünke",
+      "person": "Volkert Kraefft"
+    },
+    {
+      "role": "Monika Grünke",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Gregor Karsoff",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Leo Bulanski",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Leierkastenmann",
+      "person": "Ferdinand Dux"
+    },
+    {
+      "role": "Bernd Wacker",
+      "person": "Joachim Baumert"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein stechender Schmerz"
+    },
+    {
+      "position": 2,
+      "title": "Aufgebrochenes Auto"
+    },
+    {
+      "position": 3,
+      "title": "Der Schreck in den Gliedern"
+    },
+    {
+      "position": 4,
+      "title": "100 Tafeln Schokolade"
+    },
+    {
+      "position": 5,
+      "title": "Eine Spionin?"
+    },
+    {
+      "position": 6,
+      "title": "Ausgewechseltes Nummernschild"
+    },
+    {
+      "position": 7,
+      "title": "Hirngespinste"
+    },
+    {
+      "position": 8,
+      "title": "Maskiert"
+    },
+    {
+      "position": 9,
+      "title": "Tempo!"
+    },
+    {
+      "position": 10,
+      "title": "Ein Koffer voller Geld"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 14. Juni 2004 (CD)",
+      "EAN": "743219898142 (MC) / 743219898128 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f23",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-023/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

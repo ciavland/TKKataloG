@@ -1,0 +1,175 @@
+{
+  "number": 149,
+  "title": "Tims gefährlichster Gegner",
+  "description": "Während der Ganove Henning Lissenfuhl eine Gefängnisstrafe absitzt, bringt seine Ex-Freundin Daniela seine Designeranzüge in einen Second-Hand-Laden. Sie ahnt nicht, dass in einer Jacke ein Schatzplan versteckt ist, der zum Versteck von 9 Millionen Euro führt. Ein Lehrer der TKKG-Internatsschule kauft die Jacke. Als Lissenfuhl, der für zwei Geldfälscher arbeitet, aus dem Gefängnis entlassen wird, bricht die Hölle los...",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 3150,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Jurij Santanai",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Algirdas Santanai",
+      "person": "Peter Weis"
+    },
+    {
+      "role": "Henning Lissenfuhl",
+      "person": "Michael Griem"
+    },
+    {
+      "role": "Daniela Wizonski",
+      "person": "Sabine Falkenberg"
+    },
+    {
+      "role": "Sabine Reitz",
+      "person": "Stefanie Kirchberger"
+    },
+    {
+      "role": "Dr. Krummholz",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Carlo Biju",
+      "person": "Franz Josef Steffens"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Maria",
+      "person": "Wanda Osten"
+    },
+    {
+      "role": "Valdas",
+      "person": "Kai Hendrik Möller"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2005 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Schuss durchs Hosenbein"
+    },
+    {
+      "position": 2,
+      "title": "Kurier für Falschgeld"
+    },
+    {
+      "position": 3,
+      "title": "Bruderherz hinkt"
+    },
+    {
+      "position": 4,
+      "title": "Schatzplan im Polster"
+    },
+    {
+      "position": 5,
+      "title": "Klößchen hasst Krummi"
+    },
+    {
+      "position": 6,
+      "title": "Autogramm von Leila Locke"
+    },
+    {
+      "position": 7,
+      "title": "Daniela hat gelauscht"
+    },
+    {
+      "position": 8,
+      "title": "Versaut und entsorgt"
+    },
+    {
+      "position": 9,
+      "title": "Abfuhr liegt auf Eis"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "25. November 2005",
+      "EAN": "828767019840 (MC) / 828767019826 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f149",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-149/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "number": 36,
+  "title": "Das Geschenk des Bösen",
+  "description": "Dr. Axel Eggebrecht bittet um Hilfe, denn sein Bruder ist auf die schiefe Bahn geraten. Die TKKG-Bande schaltet sich ein - und sie stößt auf einen Sumpf von Verbrechen! Alfred Eggebrecht hat sich mit einer Bande von Falschspielern eingelassen - aber dann will er nicht mehr verlieren. Er spielt falsch und gerät in tödliche Gefahr...",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2092,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Alfred Eggebrecht",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Dr. Axel Eggebrecht",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Hebermann",
+      "person": "Helmut Gentsch"
+    },
+    {
+      "role": "Noske",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Carlo Ploczek",
+      "person": "Peter Lakenmacher"
+    },
+    {
+      "role": "Assessor Langbein",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Kommissar",
+      "person": "Christian Rode"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1985 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Verbotene Spielhöllen"
+    },
+    {
+      "position": 2,
+      "title": "Eine Pfeife auf Kontrollganz"
+    },
+    {
+      "position": 3,
+      "title": "Eiserne Regel"
+    },
+    {
+      "position": 4,
+      "title": "Schlafpause"
+    },
+    {
+      "position": 5,
+      "title": "Carlo, der Verbrecherboss"
+    },
+    {
+      "position": 6,
+      "title": "Erspressung"
+    },
+    {
+      "position": 7,
+      "title": "Mit der Nase im Gras"
+    },
+    {
+      "position": 8,
+      "title": "Millionengewinn"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 14. Februar 2005 (CD)",
+      "EAN": "743219899446 (MC) / 743219899422 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f36",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-036/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

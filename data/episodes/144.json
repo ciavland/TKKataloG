@@ -1,0 +1,163 @@
+{
+  "number": 144,
+  "title": "Schreckensnacht im Schlangenmaul",
+  "description": "Beispiellose Raubzüge in den Landkreisen um die TKKG-Stadt - unbekannte Gangster benutzen einen schweren LKW mit Stahlseil, um die Geldautomaten im Vorraum von Banken und Sparkassen aus dem Fundament zu reißen! Tatzeit: immer am frühen Morgen. Sodann wird der tonnenschwere Geldautomat aufgeladen - per Hebebühne - und irgendwo im Waldversteck aufgeschweißt. Pech für Gaby und ihre Freundin Naike, dass sie beim Pilzsuchen auf die Verbrecher stoßen. Ein Alptraum beginnt...",
+  "release_year": 2004,
+  "release_date": null,
+  "duration_seconds": 3736,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Marie Vonsippen",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Naike Vonsippen",
+      "person": "Thea Frank"
+    },
+    {
+      "role": "Erich",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Corinna",
+      "person": "Catrin Owerfeldt"
+    },
+    {
+      "role": "Vlado",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Bauer",
+      "person": "Heinz Lieven"
+    },
+    {
+      "role": "Nachrichtensprecher",
+      "person": "Thomas Fritsch"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der BMG Records GmbH"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2004 BMG Records GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Super Versteck für Ganoven"
+    },
+    {
+      "position": 2,
+      "title": "Gaby will einen Beute-Anteil"
+    },
+    {
+      "position": 3,
+      "title": "Das Märchen vom Mädchen-Fussball"
+    },
+    {
+      "position": 4,
+      "title": "Gefährlicher Wespenstich"
+    },
+    {
+      "position": 5,
+      "title": "Gefangen im Schlangenmaul"
+    },
+    {
+      "position": 6,
+      "title": "Doppelt gute Idee"
+    },
+    {
+      "position": 7,
+      "title": "Aufgeschweißte Automaten"
+    },
+    {
+      "position": 8,
+      "title": "Denkst du an Tim?"
+    },
+    {
+      "position": 9,
+      "title": "Angriff mit der Fleischgabel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "29. November 2004",
+      "EAN": "828765731744 (MC) / 828765731720 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f144",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-144/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

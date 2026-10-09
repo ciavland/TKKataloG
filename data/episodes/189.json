@@ -1,0 +1,187 @@
+{
+  "number": 189,
+  "title": "Iwan, der Schreckliche",
+  "description": "Eigentlich wollen Tim, Karl, Gaby und Klößchen Robert nur einen Gefallen tun. Robert, der wie TKKG die Internatsschule besucht, hat nämlich Probleme mit einem zwielichtigen Kneipenbesitzer namens Heiner Seidel. Was den vier jungen Detektiven erst harmlos erscheint, entpuppt sich schnell als ziemlich heißer Fall: Spielmanipulation, illegale Wetten und Betrug. Die Spur führt zu einem äußerst kaltblütigen Verbrecher, dem die Polizei schon lange auf den Fersen ist. Niemand kennt seine wahre Identität. Er wird \"Der Russe\" genannt - und \"Iwan der Schreckliche\". Und schrecklich ist er wirklich - das müssen TKKG am eigenen Leib erfahren...",
+  "release_year": 2014,
+  "release_date": null,
+  "duration_seconds": 3345,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Heiner Seidel",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Günther Blank",
+      "person": "Christoph Wiatre"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Hans-Peter Schulz",
+      "person": "Udo Schenk"
+    },
+    {
+      "role": "Boris",
+      "person": "Tim Grobe"
+    },
+    {
+      "role": "Carlos Carvallo",
+      "person": "Daniel Montoya"
+    },
+    {
+      "role": "Robert Tschara",
+      "person": "Woody Mues"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Nagel und Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Das ganze Taschengeld"
+    },
+    {
+      "position": 2,
+      "title": "Wer Pech hat, hat am Anfang Glück"
+    },
+    {
+      "position": 3,
+      "title": "Die Schaltzentrale im Tiefparterre"
+    },
+    {
+      "position": 4,
+      "title": "Dicker Fisch"
+    },
+    {
+      "position": 5,
+      "title": "Wer ist der Russe?"
+    },
+    {
+      "position": 6,
+      "title": "Ein sicherer Tipp"
+    },
+    {
+      "position": 7,
+      "title": "Gar nichts machen"
+    },
+    {
+      "position": 8,
+      "title": "Spratt's Hundekuchenfabrik"
+    },
+    {
+      "position": 9,
+      "title": "Ein doppelt krummes Ding"
+    },
+    {
+      "position": 10,
+      "title": "Was schieflaufen kann..."
+    },
+    {
+      "position": 11,
+      "title": "...läuft schief"
+    },
+    {
+      "position": 12,
+      "title": "Da war ja noch was!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "21. November 2014",
+      "EAN": "888430745629"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f189",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-189/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

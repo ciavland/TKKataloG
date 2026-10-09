@@ -1,0 +1,182 @@
+{
+  "number": 199,
+  "title": "Verfolgungsjagd vor Mitternacht",
+  "description": "Nur noch 15 Stunden bis zum neuen Jahr. TKKG bereiten ihre Silvesterfeier bei Familie Sauerlich vor und rechnen nicht damit, so kurz vor dem Jahreswechsel noch in einen Kriminalfall verwickelt zu werden. Aber es kommt anders. Bei Stefan Thomsen, dem Besitzer eines Feuerwerksladens, wurde eingebrochen. TKKG gelingt es, die Verfolgung der Schwarzpulverbande aufzunehmen. Doch bald wird die Angelegenheit hochexplosiv und Tim, Karl, Klößchen und Gaby müssen auf der Hut sein, um nicht selbst Opfer der kaltblütigen Ganoven zu werden!",
+  "release_year": 2016,
+  "release_date": "2016-12-02",
+  "duration_seconds": 3105,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kevin Schmierek",
+      "person": "Timo Kinzel"
+    },
+    {
+      "role": "Nick Röhnsbüttel",
+      "person": "Marco Schaeffler"
+    },
+    {
+      "role": "Stefan Thomsen",
+      "person": "Peter Weis"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Professor Albert Vierstein",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Molnár",
+      "person": "Thomas Ritter-Fent"
+    },
+    {
+      "role": "Johanna Friedel",
+      "person": "Barbara Schipper"
+    },
+    {
+      "role": "Herr Döring",
+      "person": "Guido A. Schick"
+    },
+    {
+      "role": "Frau Schmierek",
+      "person": "Josef Dahmen"
+    },
+    {
+      "role": "Lars Röhnsbüttel",
+      "person": "Detlef Tams"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten, Maike Müller"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B – Gestaltung: Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH (c) 2016"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Einbruch mit Sprengkraft"
+    },
+    {
+      "position": 2,
+      "title": "Übereinstimmung!"
+    },
+    {
+      "position": 3,
+      "title": "Der Übernachtungstrick"
+    },
+    {
+      "position": 4,
+      "title": "Tim, der Meisterdetektiv"
+    },
+    {
+      "position": 5,
+      "title": "Explosive Verfolgungsjagd"
+    },
+    {
+      "position": 6,
+      "title": "Rettung in letzter Sekunde"
+    },
+    {
+      "position": 7,
+      "title": "Ein ziemlich großes Baby"
+    },
+    {
+      "position": 8,
+      "title": "Bange Minuten"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "2. Dezember 2016",
+      "EAN": "888751804623"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/verfolgungsjagd-vor-mitternacht",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f199",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-199/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

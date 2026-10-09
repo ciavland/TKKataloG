@@ -1,0 +1,171 @@
+{
+  "number": 150,
+  "title": "Heiße Nächte im Dezember",
+  "description": "Vermummte Brandstifter treiben in eisigen Winternächten ihr Unwesen - fackeln parkende Auto ab in der Millionenstadt, verwandeln sie in explodierende Feuerhaufen. Alles sieht nach Willkür aus, kein System lässt sich erkennen. Doch dann wird Tim von einem der Täter angerufen - und dem unterläuft ein falscher Zungenschlag. TKKG kombinieren richtig, erkennen was hinter den Anschlägen steckt - und ermitteln. Ein Drama bahnt sich an...",
+  "release_year": 2006,
+  "release_date": null,
+  "duration_seconds": 3474,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Martin Muschke",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "Lothar Lehmann",
+      "person": "Mirko Reeh"
+    },
+    {
+      "role": "Max Buchhacker",
+      "person": "Philipp Baltus"
+    },
+    {
+      "role": "Nicole Lehmann",
+      "person": "Thea Frank"
+    },
+    {
+      "role": "Andreas Köbel",
+      "person": "Gerhart Hinze"
+    },
+    {
+      "role": "Nachbarin",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Hans-Uwe Bechtel",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Petra Lehmann",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Dietmar Plums",
+      "person": "Fabian Harloff"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2006 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Brennende Autos"
+    },
+    {
+      "position": 2,
+      "title": "Kuhfladen an der Scheibe"
+    },
+    {
+      "position": 3,
+      "title": "Ein Brandstifter ruft an"
+    },
+    {
+      "position": 4,
+      "title": "Versteckte Rache"
+    },
+    {
+      "position": 5,
+      "title": "Nicole hat Hausverbot"
+    },
+    {
+      "position": 6,
+      "title": "Halb Esel, halb Nasenbär"
+    },
+    {
+      "position": 7,
+      "title": "Martin, der Trittbrettfahrer"
+    },
+    {
+      "position": 8,
+      "title": "Die Kinder der Frau Lehmann"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. Februar 2006",
+      "EAN": "828767569246 (MC) / 828767569222 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f150",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-150/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

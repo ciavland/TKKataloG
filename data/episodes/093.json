@@ -1,0 +1,211 @@
+{
+  "number": 93,
+  "title": "Die Opfer mit der kühlen Schnauze",
+  "description": "In der Zeitung mehren sich die Inserate unter der Rubrik \"Vermißte Tiere\". Hunde- und Katzenbesitzer bieten hohe Belohnung und Finderlohn an für ihre entlaufenen oder gestohlenen Vierbeiner. Eine Seuche. Und eines Tages ist auch Gabys treuer Cocker-Spaniel Oskar verschwunden. TKKG suchen wie wild und stoßen auf ein System skrupelloser Diebe, die sich an den Tierfreunden bereichern.",
+  "release_year": 1995,
+  "release_date": null,
+  "duration_seconds": 2626,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Wilhelm von Kanthaken",
+      "person": "Joachim Rake"
+    },
+    {
+      "role": "Detlef Chanschinsky",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Alma Pianola",
+      "person": "Katharina Brauren"
+    },
+    {
+      "role": "Ute Eschenbach",
+      "person": "Marianne Kehlau"
+    },
+    {
+      "role": "Karin Schmocke",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Bankkunde",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Bankangestellter",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Bankangestellter",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Norbert",
+      "person": "Tobias Pauls"
+    },
+    {
+      "role": "Frau von Kanthaken",
+      "person": "Anne Marks-Rocke"
+    },
+    {
+      "role": "Oma",
+      "person": "Anne Marks-Rocke"
+    },
+    {
+      "role": "Papagei Hugo",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Mädchen mit Hund",
+      "person": "Eva Weißmann"
+    },
+    {
+      "role": "Passant",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Passant",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Passant",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Franzose",
+      "person": "Reiner Nowak"
+    },
+    {
+      "role": "Reisender",
+      "person": "Reiner Nowak"
+    },
+    {
+      "role": "Betrunkener",
+      "person": "Reiner Nowak"
+    },
+    {
+      "role": "Hundehasser",
+      "person": "Reiner Nowak"
+    },
+    {
+      "role": "Frau Heftl",
+      "person": "Heikedine Körting"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "TKKG-Titelmusik"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1995 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Entführt"
+    },
+    {
+      "position": 2,
+      "title": "Terror am Telefon"
+    },
+    {
+      "position": 3,
+      "title": "Infos aus der Zeitung"
+    },
+    {
+      "position": 4,
+      "title": "In die Falle gelockt"
+    },
+    {
+      "position": 5,
+      "title": "Erpressung auf die feine Tour"
+    },
+    {
+      "position": 6,
+      "title": "4 x auf der Fährte"
+    },
+    {
+      "position": 7,
+      "title": "Voll erwischt"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "25. September 1995",
+      "EAN": "743213087146 (MC) / 743213087122 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f93",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-093/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

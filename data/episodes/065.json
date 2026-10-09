@@ -1,0 +1,171 @@
+{
+  "number": 65,
+  "title": "Sklaven für Wutawia",
+  "description": "Um eine Wette zu gewinnen, spielen Tim und Klößchen für ein Wochenende Penner. Doch als sie sich unter die Stadtstreicher mischen, werden sie auf eine geheimnisvolle Burg entführt. Dort sind hilflose Menschen eingesperrt, die als Sklaven einer Wahnsinns-Sekte in den südamerikanischen Dschungel verschleppt werden sollen. Droht den beiden Freunden das gleiche Schicksal?",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 2289,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Caroline von Färber",
+      "person": "Katrin Jaekel"
+    },
+    {
+      "role": "Friedrich-Etzel von Färber",
+      "person": "Harald Eggers"
+    },
+    {
+      "role": "Würgegriff-Paula",
+      "person": "Anne Schermutzki"
+    },
+    {
+      "role": "Achim Taschke",
+      "person": "Thomas Naumann"
+    },
+    {
+      "role": "Friedhelm Kröse",
+      "person": "Michael Quiatkowsky"
+    },
+    {
+      "role": "Petra Dalmig",
+      "person": "Gerlinde Dillge"
+    },
+    {
+      "role": "Wendelin Wiegand",
+      "person": "Helgo Liebig"
+    },
+    {
+      "role": "Olaf Präht",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Katharina von Hippe",
+      "person": "Gabriele Libbach"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Stadtstreicher"
+    },
+    {
+      "position": 2,
+      "title": "Infos von Würgegriff-Paula"
+    },
+    {
+      "position": 3,
+      "title": "Ein wertvolles Halsband"
+    },
+    {
+      "position": 4,
+      "title": "Menschenhandel"
+    },
+    {
+      "position": 5,
+      "title": "Eiseskälte"
+    },
+    {
+      "position": 6,
+      "title": "Philosophischer Test"
+    },
+    {
+      "position": 7,
+      "title": "Schlaftee"
+    },
+    {
+      "position": 8,
+      "title": "Blühendes Unternehmen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902344 (MC) / 743219902320 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f65",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-065/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

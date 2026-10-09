@@ -1,0 +1,175 @@
+{
+  "number": 84,
+  "title": "Dynamit im Kofferraum",
+  "description": "Eine Gangsterbande stiehlt noble Oldtimer, für die reiche Autosammler ein Vermögen bezahlen. Auch einen Aston Martin Zagato reißen sie sich unter den Nagel - ohne zu ahnen, dass in dem Wagen eine Bombe tickt, die bei Tempo 200 explodiert. Die TKKG-Freunde erfahren davon.",
+  "release_year": 1993,
+  "release_date": null,
+  "duration_seconds": 2756,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hugo Priske",
+      "person": "Boris Tessmann"
+    },
+    {
+      "role": "Petra Frohnsippe",
+      "person": "Dorette Hugo"
+    },
+    {
+      "role": "Albrecht von Finkweiler",
+      "person": "Ernst von Klippstein"
+    },
+    {
+      "role": "Meier",
+      "person": "Thomas Stern"
+    },
+    {
+      "role": "Dr. Fabian Emrod",
+      "person": "Werner Cartano"
+    },
+    {
+      "role": "Siegbert Schnödel",
+      "person": "Jochen Friedmann"
+    },
+    {
+      "role": "Pit Wratzka",
+      "person": "Benno Schultz"
+    },
+    {
+      "role": "Uwe Neppler",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Otto Neppler",
+      "person": "Sven Dahlem"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1993 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein alter Trick"
+    },
+    {
+      "position": 2,
+      "title": "Scharf auf die Fangprämien"
+    },
+    {
+      "position": 3,
+      "title": "Besondere Umstände"
+    },
+    {
+      "position": 4,
+      "title": "Aufgetischte Lügenmärchen"
+    },
+    {
+      "position": 5,
+      "title": "Bulldogge oder Terrier?"
+    },
+    {
+      "position": 6,
+      "title": "Überraschende Entdeckung"
+    },
+    {
+      "position": 7,
+      "title": "Geld! Geld! Geld!"
+    },
+    {
+      "position": 8,
+      "title": "Das Spiel ist aus"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. Juli 1993 (MC) / 22. September 2006 (CD)",
+      "EAN": "743211319645 (MC) / 743211319621 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f84",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-084/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

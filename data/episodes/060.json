@@ -1,0 +1,175 @@
+{
+  "number": 60,
+  "title": "Der Teufel vom Waiga-See",
+  "description": "Geheimnisvolle Dinge ereignen sich am Waiga-See - bis eines Nachts ein Gehöft in Flammen aufgeht. Die TKKG-Freunde, auf die Spur gebracht von der Ausreißerin Thea, jagen den Feuerteufel. Werden die Gefahren, mit denen sie zu kämpfen haben, immer tödlicher?",
+  "release_year": 1988,
+  "release_date": null,
+  "duration_seconds": 2985,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Thea von Durstilitsch",
+      "person": "Ann Montenbruck"
+    },
+    {
+      "role": "Gebacht von Durstilitsch",
+      "person": "Edgar Hoppe"
+    },
+    {
+      "role": "Eugenie von Durstilitsch",
+      "person": "Ursula Vogel"
+    },
+    {
+      "role": "Oldo von Durstilitsch",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Portier",
+      "person": "Gernot Endemann"
+    },
+    {
+      "role": "Dagobert Schelldorn",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Poldgar Prüffe",
+      "person": "Klaus-Peter Kaehler"
+    },
+    {
+      "role": "Isabella Scheitlitz",
+      "person": "Ursula Vogel"
+    },
+    {
+      "role": "Gendarmeriehauptmann Höbl",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Ingeborg Kallweit"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1988 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gefesselt und geknebelt"
+    },
+    {
+      "position": 2,
+      "title": "Angst"
+    },
+    {
+      "position": 3,
+      "title": "Maßlos eitel"
+    },
+    {
+      "position": 4,
+      "title": "Gute Verlierer"
+    },
+    {
+      "position": 5,
+      "title": "Fundunterschlagung"
+    },
+    {
+      "position": 6,
+      "title": "Falscher Alarm?"
+    },
+    {
+      "position": 7,
+      "title": "Feuer!"
+    },
+    {
+      "position": 8,
+      "title": "Wertvolle Gemälde"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1988 (MC) / 11. August 2006 (CD)",
+      "EAN": "743219901842 (MC) / 743219901828 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f60",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-060/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

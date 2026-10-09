@@ -1,0 +1,167 @@
+{
+  "number": 116,
+  "title": "Klassenfahrt zur Hexenburg",
+  "description": "TKKG sind eingeladen vom \"Club der Tollkühnen\" ins Burghotel Hochsteupen, das ganz fernab in den Wäldern an der Grenze nach Tschechien liegt - nicht weit von der sogenannten Hexenburg, zu der Gaby in drei Tagen mit der 9a der Mädchenschule fahren wird. Doch vorher geht der Horror ab. Denn Hochsteupen wird von Verbrechern belagert und ist abgeschnitten von der Außenwelt - auch über Fax und Fon läuft nichts mehr. TKKG und die Clubmitglieder sind eingeschlossen.",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 3238,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Einsatzleiter",
+      "person": "Lutz Lakasz"
+    },
+    {
+      "role": "Paul Ossinsky",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Waldemar Döring",
+      "person": "Frank Felicetti"
+    },
+    {
+      "role": "Hubert von Zachwang",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Boofke",
+      "person": "Andreas Martens"
+    },
+    {
+      "role": "Wiechert",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Zugschaffner",
+      "person": "Johann Schibli"
+    },
+    {
+      "role": "Hugo Rizner",
+      "person": "Harald Pages"
+    },
+    {
+      "role": "Madeleine",
+      "person": "Chantal Dupret"
+    },
+    {
+      "role": "Frau Käthenring",
+      "person": "Katrin Wasow"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1999 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Schüsse auf Kommissar Glockner"
+    },
+    {
+      "position": 2,
+      "title": "Schnitzerei aus alten Knochen"
+    },
+    {
+      "position": 3,
+      "title": "Überfall"
+    },
+    {
+      "position": 4,
+      "title": "Umzingelt und belagert"
+    },
+    {
+      "position": 5,
+      "title": "Nachts auf dem Burghof"
+    },
+    {
+      "position": 6,
+      "title": "Gaby - eingesperrt in der Sauna"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "9. August 1999",
+      "EAN": "743216550043 (MC) / 743216550029 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f116",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-116/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

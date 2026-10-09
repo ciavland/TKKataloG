@@ -1,0 +1,183 @@
+{
+  "number": 27,
+  "title": "Banditen im Palasthotel",
+  "description": "Klößchen hat eine Bombenüberraschung für seine Freunde vom TKKG. Und dann gibt Kommissar Glockner einen Hinweis, der die jungen Detektive bis tief in den Süden Spaniens führt. Dort begegnen sie einem Toten, der noch lebt, einer Witwe, die nicht trauert, einem Detektiv, der nicht ehrlich ist und Revolvermännern, die nicht zimperlich sind.",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 2329,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Luise Prachold",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Erik Prachold",
+      "person": "Manfred Schermutzki"
+    },
+    {
+      "role": "Waldemar Luschner",
+      "person": "Jörg von Liebenfels"
+    },
+    {
+      "role": "Heiko Möhlen",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Jules Piteau",
+      "person": "Peer Schmidt"
+    },
+    {
+      "role": "Pedro Ramirez",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Kommissar",
+      "person": "Peter Weis"
+    },
+    {
+      "role": "Rüdiger Schleich",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Stewardess",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Hotel-Telefonzentrale",
+      "person": "Adelheid Engst"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein stinkfeiner Laden"
+    },
+    {
+      "position": 2,
+      "title": "Die Sensation ist perfekt"
+    },
+    {
+      "position": 3,
+      "title": "Blonde Zicke"
+    },
+    {
+      "position": 4,
+      "title": "Körperverletzung"
+    },
+    {
+      "position": 5,
+      "title": "Verdächtige Kiste"
+    },
+    {
+      "position": 6,
+      "title": "Mit einem Fuß im Gefängnis"
+    },
+    {
+      "position": 7,
+      "title": "Goldene Beisserchen"
+    },
+    {
+      "position": 8,
+      "title": "Entführt!"
+    },
+    {
+      "position": 9,
+      "title": "Jetzt gibt es Zunder"
+    },
+    {
+      "position": 10,
+      "title": "Revolver im Swimmingpool"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 9. August 2004 (CD)",
+      "EAN": "743219898548 (MC) / 743219898524 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f27",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-027/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

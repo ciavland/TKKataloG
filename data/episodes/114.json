@@ -1,0 +1,163 @@
+{
+  "number": 114,
+  "title": "Die Sekte Satans",
+  "description": "Die Sekte Satans ist ein gefährlicher Verein fanatischer Spinner. Sie beten den Teufel an, feiern heidnische Rituale und stehlen Tiere, um sie als Opfer darzubringen. Der Oberpriester, der auch als angeblicher Wunderheiler sein Unwesen treibt, plant aber noch Schlimmeres - und TKKG kommen einem unglaublichen Fall auf die Spur.",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 3231,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Florian Plingel",
+      "person": "Woody Mues"
+    },
+    {
+      "role": "Robinson",
+      "person": "Hermann Otto"
+    },
+    {
+      "role": "Otto Glänzer",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Hugo Sellig",
+      "person": "Oliver Böttcher"
+    },
+    {
+      "role": "Claudia Sellig",
+      "person": "Jennifer Böttcher"
+    },
+    {
+      "role": "Krause",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Petulia",
+      "person": "Katja Brügger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1999 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Vor dem Ertrinken gerettet"
+    },
+    {
+      "position": 2,
+      "title": "Ein irrer Raser"
+    },
+    {
+      "position": 3,
+      "title": "Satans Befehl"
+    },
+    {
+      "position": 4,
+      "title": "Tim und Gaby werden verflucht"
+    },
+    {
+      "position": 5,
+      "title": "Delirius und Petulia"
+    },
+    {
+      "position": 6,
+      "title": "Endlich eine Spur?"
+    },
+    {
+      "position": 7,
+      "title": "\"Doofe\" Gefolgschaft"
+    },
+    {
+      "position": 8,
+      "title": "Nachts auf dem Satanshof"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. Februar 1999",
+      "EAN": "743216206346 (MC) / 743216206322 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f114",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-114/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

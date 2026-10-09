@@ -1,0 +1,175 @@
+{
+  "number": 14,
+  "title": "Der Schlangenmensch",
+  "description": "In der Klasse 9b der TKKG-Freunde erzählt die 14jährige Anke eine seltsame Geschichte: ihr Vater wird von Verbrechern erpreßt. Weil sie Angst hat, die Polizei zu verständigen, bittet sie die vier vom TKKG um Hilfe. Sie verfolgen die Spur eines Einbrecher-Königs und lernen dabei drei eigenartige Männer kennen: Einen Schloßherrn einen Antiquitäten-Sammler und einen Adligen. Was verbindet diese drei mit dem Einbrecher-König? Fragen, die Tarzan und seine Freunde erst nach vielen Abenteuern beantworten können.",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2774,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Günther Dürrmeier",
+      "person": "Ferdinand Dux"
+    },
+    {
+      "role": "Anke Dürrmeier",
+      "person": "Anika Pages"
+    },
+    {
+      "role": "Kommissar Reichert",
+      "person": "Lothar Zibell"
+    },
+    {
+      "role": "Herbert Gerlich",
+      "person": "Bertram von Boxberg"
+    },
+    {
+      "role": "Sigi Malowitz",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Walter Jeske",
+      "person": "Josef Dahmen"
+    },
+    {
+      "role": "Otto-Emanuel Karpf",
+      "person": "Manfred Steffen"
+    },
+    {
+      "role": "Graf Hubert von Falkenstein",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Detlef Becker",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Melanie",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Polizist",
+      "person": "Harald Pages"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1981 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein sicheres Alibi"
+    },
+    {
+      "position": 2,
+      "title": "Kunstschätze"
+    },
+    {
+      "position": 3,
+      "title": "Ausgebuffte Verbrecher"
+    },
+    {
+      "position": 4,
+      "title": "Agressionsforschung"
+    },
+    {
+      "position": 5,
+      "title": "Ein bekanntes Schimpf-Zitat"
+    },
+    {
+      "position": 6,
+      "title": "Gutes Gedächtnis"
+    },
+    {
+      "position": 7,
+      "title": "Treffpunkt: Agyptisches Museum"
+    },
+    {
+      "position": 8,
+      "title": "Schlangenmensch in Aktion"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (MC) / 10. November 2003 (CD)",
+      "EAN": "743219897244 (MC) / 743219897220 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f14",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-014/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

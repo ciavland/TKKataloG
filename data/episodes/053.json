@@ -1,0 +1,167 @@
+{
+  "number": 53,
+  "title": "Schüsse aus der Rosenhecke",
+  "description": "Ex-Kommissar Weyer, ein Freund von Kommissar Glockner, ist seit einem Überfall auf einen Rollstuhl angewiesen. Von seiner verstorbenen Frau hat er ein beträchtliches Vermögen geerbt. Jetzt will Weyer wieder heiraten. Da wird ein Mordanschlag auf ihn verübt. Alle vermuten den Racheakt eines Ganoven, den Weyer hinter Gitter gebracht hat. Doch die TKKG-Freunde entdecken die schreckliche Wahrheit...",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2441,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Hortensen",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Heinz Weyer",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Isabell Scholz",
+      "person": "Ursela Monn"
+    },
+    {
+      "role": "Ferdinand Weyer-Printen",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Sebastian Opplmann",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Siegfried Odehaupt",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Mädchen",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Christian Müller",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Jutta Malchowsky",
+      "person": "Monika Gabriel"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Streifschuss"
+    },
+    {
+      "position": 2,
+      "title": "Lebenserinnerungen"
+    },
+    {
+      "position": 3,
+      "title": "Wenig Anhaltspunkte"
+    },
+    {
+      "position": 4,
+      "title": "Fliegende Kugeln"
+    },
+    {
+      "position": 5,
+      "title": "Aus der Strafanstalt entlassen"
+    },
+    {
+      "position": 6,
+      "title": "Die Fahndung läuft"
+    },
+    {
+      "position": 7,
+      "title": "Wer ist der Schütze?"
+    },
+    {
+      "position": 8,
+      "title": "Blitz und Donnerstag"
+    },
+    {
+      "position": 9,
+      "title": "Verbogene Knochen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 25. November 2005 (CD)",
+      "EAN": "743219901149 (MC) / 743219011125 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f53",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-053/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

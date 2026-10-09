@@ -1,0 +1,155 @@
+{
+  "number": 239,
+  "title": "Vollgas ins Verderben",
+  "description": "Endlich hatte Tim seinen Freund Klößchen dazu überredet, mit ihm joggen zu gehen, als sie auf der abendlichen Zubringerstraße ein plötzlich heranschiessender Sportwagen beinahe erfasst, bevor er von der Straße abkommt und sich krachend um einen Baum wickelt. Der junge Fahrer Linus Janzen ist wie durch ein Wunder fast unverletzt, aber es bleiben viele Fragen: Wurde der Fahrer von einem zweiten Wagen abgedrängt? Handelte es sich um ein illegales Straßenrennen? Und wie ist die Oberstufenschülerin Kristin Emerson in den Unfall verwickelt? Nicht nur Hauptkommissar Glockner nimmt seine Ermittlungen im Milieu der Autotuner und Poser auf, auch TKKG sind schnell mittendrin in einem gefährlichen Fall. Denn als sie herausfinden, dass der verunglückte Sportwagen manipuliert wurde, wird allen klar, dass der gesuchte Täter bereit ist, über Leichen zu gehen …",
+  "release_year": 2026,
+  "release_date": "2026-01-30",
+  "duration_seconds": 3763,
+  "cast": [
+    {
+      "role": "Anni Groß",
+      "person": "Sarah Madeleine Tusk"
+    },
+    {
+      "role": "Axel Theil",
+      "person": "Martin Reinl"
+    },
+    {
+      "role": "Carola Funke",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Edgar Rennewald",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Elena Roßnick",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Fritz",
+      "person": "Leopold von der Goltz"
+    },
+    {
+      "role": "Günther Fengler",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Iris Janzen",
+      "person": "Judy Winter"
+    },
+    {
+      "role": "Jens Hackenberg",
+      "person": "Tim Helssen"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Kristin Emerson",
+      "person": "Neele Pettig"
+    },
+    {
+      "role": "Kurt Leimbach",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Lieselotte Langenau",
+      "person": "Elga Schütz"
+    },
+    {
+      "role": "Linus Janzen",
+      "person": "Woody Mues"
+    },
+    {
+      "role": "Marcel Fiebinger",
+      "person": "Louis Held"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Tom Schmier",
+      "person": "Daniel Kirchberger"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger, Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2026 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/vollgas-ins-verderben",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f239",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

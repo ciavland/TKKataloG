@@ -1,0 +1,191 @@
+{
+  "number": 26,
+  "title": "Das Geiseldrama",
+  "description": "Tarzan entlarvt einen Lehrer als Dieb, doch die Beweise reichen noch nicht aus für eine Meldung an den Direktor. Dann aber stellen die TKKG-Freunde fest, dass es eine Verbindung zwischen dem Lehrer und Terroristen gibt. Damit beginnt ein außerordentlich gefährlicher und spannender Kampf gegen unberechenbare Gangster.",
+  "release_year": 1984,
+  "release_date": null,
+  "duration_seconds": 2261,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Ingeborg Kallweit"
+    },
+    {
+      "role": "Francesca Oliviri",
+      "person": "Gabriele Libbach"
+    },
+    {
+      "role": "Dr. Jens Dikal",
+      "person": "Matthias Grimm"
+    },
+    {
+      "role": "Elly Roland",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Erwin Roland",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Oma",
+      "person": "Katharina Brauren"
+    },
+    {
+      "role": "Otto Görr",
+      "person": "Henry Kielmann"
+    },
+    {
+      "role": "Inspektor Bolte",
+      "person": "Joachim Baumert"
+    },
+    {
+      "role": "Polizist",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Heinz Schorbach",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Direktor Dr. Freund",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Thomas Weller",
+      "person": "Ferdinand Dux"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1984 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gestohlener Steckbrief"
+    },
+    {
+      "position": 2,
+      "title": "In der Terroristenszene"
+    },
+    {
+      "position": 3,
+      "title": "Go-Go-Tänzer und Stepper"
+    },
+    {
+      "position": 4,
+      "title": "Sterbenskrank"
+    },
+    {
+      "position": 5,
+      "title": "Im Koma"
+    },
+    {
+      "position": 6,
+      "title": "Ein schnarchendes Eichhörnchen"
+    },
+    {
+      "position": 7,
+      "title": "Schwierige Situation"
+    },
+    {
+      "position": 8,
+      "title": "\"Brigade Staatsfeind\""
+    },
+    {
+      "position": 9,
+      "title": "Bewegung in der Dunkelheit"
+    },
+    {
+      "position": 10,
+      "title": "Sprengstoff!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 9. August 2004 (CD)",
+      "EAN": "743219898449 (MC) / 743219898425 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f26",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-026/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

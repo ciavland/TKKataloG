@@ -1,0 +1,159 @@
+{
+  "number": 46,
+  "title": "Hotel in Flammen",
+  "description": "Gabys Tante lädt die TKKG-Freunde nach Bad Neuzell in ihr Hotel ein. Sie ist in einen schlimmen Verdacht geraten, denn die Polizei glaubt, dass sie für die Anschläge auf das Luxus-Hotel \"Weekend\" verantwortlich ist. Gabys Tante gerät in arge Not, als das \"Weekend\" gar in Flammen aufgeht. Aber jetzt sind ja die TKKG-Freunde zur Stelle...",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2429,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Otto Dräger",
+      "person": "Manfred Schermutzki"
+    },
+    {
+      "role": "Isabell „Isa“ Glockner",
+      "person": "Ursela Monn"
+    },
+    {
+      "role": "Valentin Köschen",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Jörg Köschen",
+      "person": "Stephan Chrzescinski"
+    },
+    {
+      "role": "Graf Albert von Paletti",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Fritz Maier",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Paul Terzhaber",
+      "person": "Harald Pages"
+    },
+    {
+      "role": "Portier",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Poldemar Q. Plöckl",
+      "person": "Dieter Ohlendiek"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein neues Super-Hotel"
+    },
+    {
+      "position": 2,
+      "title": "Hochinteressante Gespräche"
+    },
+    {
+      "position": 3,
+      "title": "Die Schulden des Ex-Mannes"
+    },
+    {
+      "position": 4,
+      "title": "Wo ist die Handtasche"
+    },
+    {
+      "position": 5,
+      "title": "Eine Unverschämtheit"
+    },
+    {
+      "position": 6,
+      "title": "Es brennt!"
+    },
+    {
+      "position": 7,
+      "title": "Schlimmer Verdacht"
+    },
+    {
+      "position": 8,
+      "title": "Verhaftet"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 12. September 2005 (CD)",
+      "EAN": "743219900449 (MC) / 743219900425 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f46",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-046/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

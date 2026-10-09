@@ -1,0 +1,135 @@
+{
+  "number": 227,
+  "title": "Zwei für Zwölf",
+  "description": "Endlich Frühling in der Millionenstadt! Tim, Karl, Gaby und Klößchen sitzen im Park und schlecken Eis, als vor ihren Augen eine alte Dame von einem Rowdy umgestoßen wird. Eine hilfsbereite Frau ist schnell zur Stelle. Auch TKKG schalten sich ein und verfolgen den Rüpel, der aber auf unerklärliche Weise verschwindet. Zu allem Überdruss muss die alte Dame feststellen, dass ihr gut gefüllter Geldbeutel gestohlen wurde. TKKG rekonstruieren die Ereignisse und finden eine Erklärung: Hier wurde eine Show abgezogen! Dass diese aber mit einem spektakulären Juwelenraub und den mystischen Seancen der Madame Dubois in einer heruntergekommenen Villa zusammenhängt, ahnen TKKG hier noch nicht. Denn die Show hat gerade erst begonnen!",
+  "release_year": 2023,
+  "release_date": "2023-04-14",
+  "duration_seconds": 4296,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Daniela Weigel",
+      "person": "Henrike Fehrs"
+    },
+    {
+      "role": "Franz Xaver Oberthür",
+      "person": "Till Hagen"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Heino Hebeisen",
+      "person": "Tim Grobe"
+    },
+    {
+      "role": "Helene Nansen",
+      "person": "Katy Karrenbauer"
+    },
+    {
+      "role": "Jan Haferland",
+      "person": "Sebastian König"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Magda Friebel",
+      "person": "Britta Steffenhagen"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Ronia R. Trensch",
+      "person": "Anna Carlsson"
+    },
+    {
+      "role": "Rosalie Thielemann",
+      "person": "Isabella Grothe"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2023 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/zwei-fur-zwolf",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f227",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

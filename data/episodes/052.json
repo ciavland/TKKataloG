@@ -1,0 +1,167 @@
+{
+  "number": 52,
+  "title": "Überfall im Hafen",
+  "description": "Es war eine ausgelassene und fröhliche Bootsfahrt im Hafen, die jäh unterbrochen wurde, als Gaby das Opfer eine Überfalls entdeckte. Der Täter war längst verschwunden und wähnte sich in Sicherheit. Doch vor dem kriminalistischen Eifer der TKKG-Freunde gibt es keine Sicherheit...",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2089,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Dagobert „Django“ Müller",
+      "person": "Ben Becker"
+    },
+    {
+      "role": "Oma Rosalinde Sauerlich",
+      "person": "Gisela Trowe"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Dr. Kliemann",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Kapitän",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Werner Lotzke",
+      "person": "Peter Griss"
+    },
+    {
+      "role": "Hans-Hartmut Heldt",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Kurt Kammler",
+      "person": "Lothar Grützner"
+    },
+    {
+      "role": "Lisbeth Kammler",
+      "person": "Antje Reinke"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Wasser hat keine Balken"
+    },
+    {
+      "position": 2,
+      "title": "Null Ahnung"
+    },
+    {
+      "position": 3,
+      "title": "Aus den Latschen gekippt"
+    },
+    {
+      "position": 4,
+      "title": "Musterkoffer und helle Handschuhe"
+    },
+    {
+      "position": 5,
+      "title": "Herzanfall"
+    },
+    {
+      "position": 6,
+      "title": "Bereitwillige Auskunft"
+    },
+    {
+      "position": 7,
+      "title": "Extrem unhöflich"
+    },
+    {
+      "position": 8,
+      "title": "Verbogene Knochen"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 25. November 2005 (CD)",
+      "EAN": "743219901040 (MC) / 743219901026 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f52",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-052/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

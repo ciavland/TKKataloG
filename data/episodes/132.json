@@ -1,0 +1,175 @@
+{
+  "number": 132,
+  "title": "Homejacker machen Überstunden",
+  "description": "Teure Autos werden nicht mehr gestohlen, also aufgeknackt und heimlich entwendet, sondern geraubt - mit Waffengewalt! Der Grund für diesen Wandel sind die perfekten Wegfahrsperren - unüberwindbar für die Kriminellen. Sie brauchen die Autoschlüssel und die beschaffen sie sich, indem sie die Wagenbesitzer überfallen und die Schlüssel rauben. In der TKKG-Stadt häufen sich diese Verbrechen. Tim und seine Freunde sind mittendrin im Geschehen und entlarven eine Homejacker-Mafia mit Verbindungen ins Ausland...",
+  "release_year": 2002,
+  "release_date": null,
+  "duration_seconds": 3207,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Charly Wimmer",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Doris Kunze",
+      "person": "Marita Fliege"
+    },
+    {
+      "role": "Heinrich Hänel",
+      "person": "Claus Fuchs"
+    },
+    {
+      "role": "Albin Schnorr",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Mario Retzig",
+      "person": "Kai Hendrik Möller"
+    },
+    {
+      "role": "Roderich Duckhuhn",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Stefanie von Lösche",
+      "person": "Maike Harten"
+    },
+    {
+      "role": "Miriam von Lösche",
+      "person": "Katharina Zimmermann"
+    },
+    {
+      "role": "Boris Kutschenova",
+      "person": "Antoine Monot, Jr."
+    },
+    {
+      "role": "Haltestellenansage",
+      "person": "Antoine Monot, Jr."
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2002 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Nur eine Stimme am Telefon"
+    },
+    {
+      "position": 2,
+      "title": "Niemals bei Rot"
+    },
+    {
+      "position": 3,
+      "title": "Rauben statt stehlen"
+    },
+    {
+      "position": 4,
+      "title": "Duckhuhn hat ein Alibi"
+    },
+    {
+      "position": 5,
+      "title": "Wegen der Fingerabdrücke"
+    },
+    {
+      "position": 6,
+      "title": "Herzblatt kocht kubanisch"
+    },
+    {
+      "position": 7,
+      "title": "Heißer Hinweis von Miriam"
+    },
+    {
+      "position": 8,
+      "title": "Beraubt von den eigenen Leuten"
+    },
+    {
+      "position": 9,
+      "title": "Wie Grünspan und Schimmelpilz"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. Juni 2002",
+      "EAN": "743219282743 (MC) / 743219282729 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f132",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-132/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

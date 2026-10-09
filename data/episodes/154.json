@@ -1,0 +1,125 @@
+{
+  "number": 154,
+  "title": "Das Geheimnis der Burgruine",
+  "description": "Tim macht eine unglaubliche Entdeckung: er findet ein über 100 Jahre altes Dokument in der Bibliothek der Internatsschule. Von Katakomben ist die Rede, von einer Schatzhöhle unter der nicht allzu weit entfernten Burgruine Rabenfels. Niemand weiß davon. Wirklich niemand? Eine schicksalhafte Fügung hat auch drei Kriminellen die Information in die Hände gespielt. Ein Wettlauf zur Schatzhöhle beginnt, und damit geraten TKKG in höchste Gefahr...",
+  "release_year": 2007,
+  "release_date": null,
+  "duration_seconds": 3818,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Gottfried von Geiserling",
+      "person": "Alexander Knapp"
+    },
+    {
+      "role": "Waldemar Semrich",
+      "person": "Marc Robinson"
+    },
+    {
+      "role": "Beinhart von Geiserling",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Hugo Büttner",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Anton Albig",
+      "person": "Björg Torke"
+    },
+    {
+      "role": "Polizist",
+      "person": "Otto Armando"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting ·"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher ·"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2007 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "4. Mai 2007",
+      "EAN": "886970724548 (MC) / 828970724524 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f154",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-154/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title"
+      ]
+    }
+  ]
+}

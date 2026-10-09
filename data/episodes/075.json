@@ -1,0 +1,175 @@
+{
+  "number": 75,
+  "title": "Lösegeld am Henkersberg",
+  "description": "Ein Schulbus mit Kindern wird entführt. Und Gaby ist ebenfalls ein Opfer der Kidnapper. Tim dreht beinahe durch, als er es erfährt. Er macht sich ohne Zeit zu verlieren auf die Jagd nach den Entführern. Doch es ist weitaus schwieriger sie zu finden, als er anfangs geglaubt hat!",
+  "release_year": 1991,
+  "release_date": null,
+  "duration_seconds": 2363,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Leo Verdroski",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Claus Gluschke",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Gernot Döbbel",
+      "person": "Hans Sievers"
+    },
+    {
+      "role": "Busfahrer Weidrich",
+      "person": "Hermann Ebeling"
+    },
+    {
+      "role": "Ritschi Gernreich",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Knut Winzig",
+      "person": "Norbert Langer"
+    },
+    {
+      "role": "Carlo Vedmillia",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Enrico Vedmillia",
+      "person": "Boris Tessmann"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Alice Theisen",
+      "person": "Alexandra Doerk"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1990 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Ein fieser Trick"
+    },
+    {
+      "position": 2,
+      "title": "Faszinierende Zeichnung"
+    },
+    {
+      "position": 3,
+      "title": "Maskierte Männer"
+    },
+    {
+      "position": 4,
+      "title": "Drei Millionen im Rucksack"
+    },
+    {
+      "position": 5,
+      "title": "Lösegeld am Henkersberg"
+    },
+    {
+      "position": 6,
+      "title": "Ein Ablenkungsmanöver"
+    },
+    {
+      "position": 7,
+      "title": "Wer gehört zu den Entführern?"
+    },
+    {
+      "position": 8,
+      "title": "Bitte keine Presse!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1991 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903242 (MC) / 743219903228 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f75",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-075/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

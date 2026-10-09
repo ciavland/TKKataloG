@@ -1,0 +1,135 @@
+{
+  "number": 214,
+  "title": "Diamantenrausch auf der A9",
+  "description": "Auf einem Rastplatz der Autobahn A9 wird ein Werttransportfahrzeug überfallen und Diamenten im Wert von sieben Millionen Euro erbeutet. Tim, Karl, Gaby und Klößchen werden zwar Zeugen der spektakulären Flucht, von den Räubern fehlt allerdings jede Spur - sehr zum Missfallen von Frau Mathilda Guggenheim, der eigentlichen Besitzerin der Juwelen. Sie lässt TKKG wissen, dass sich unter den gestohlenen Edelsteinen auch die \"Prinzessin von Botswana\" befindet - ein ganz besonderer, pinkfarbener Diamant, und verspricht TKKG 70.000 Euro, wenn sie ihre geliebten Diamanten wiederfinden.",
+  "release_year": 2020,
+  "release_date": "2020-03-06",
+  "duration_seconds": 4124,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Andreas Lehmbrock",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Daniel Groß",
+      "person": "Robin Brosch"
+    },
+    {
+      "role": "Frauke Wiesner",
+      "person": "Neda Rahmanian"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Georg",
+      "person": "Gordon Piedesack"
+    },
+    {
+      "role": "Hans Theodor Meier-Lütt",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Juliane von Hengstberg",
+      "person": "Mignon Remé"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Krause",
+      "person": "Constantin Stahlberg"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Ludwig Eumler",
+      "person": "Holger Wemhoff"
+    },
+    {
+      "role": "Mathilda Guggenheim",
+      "person": "Sandra Keck"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Pizzabote",
+      "person": "Woody Mues"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/diamantenrausch-auf-der-a9",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f214",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

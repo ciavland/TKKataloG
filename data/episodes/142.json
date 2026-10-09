@@ -1,0 +1,171 @@
+{
+  "number": 142,
+  "title": "Bankräuber mit Supertrick",
+  "description": "Ein Gangster-Trio nutzt seit Jahren die Armut in osteuropäischen Ländern aus und lockt arbeitswillige Frauen nach Deutschland, die dann als illegale Putzhilfen schuften müssen und ausgebeutet werden. Ein neues Gesetz gegen Schwarzarbeit schiebt dem zwar einen Riegel vor - doch bevor sich die kriminelle Firma auflöst, schlägt ein Erpresser zu: ein ehemaliger polnischer Geheimagent, Spezialist auch für Bankraub. Die Ereignisse überstürzen sich und TKKG geraten bei ihren Ermittlungen auf gefährlichen Boden...",
+  "release_year": 2004,
+  "release_date": null,
+  "duration_seconds": 3485,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Janik",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Karl Walter Lunke",
+      "person": "Bernd Stephan"
+    },
+    {
+      "role": "Keule",
+      "person": "Arndt Schmöle"
+    },
+    {
+      "role": "Plattmann",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Bankangestellter",
+      "person": "Claus Fuchs"
+    },
+    {
+      "role": "Jadwiga",
+      "person": "Brigitte Böttrich"
+    },
+    {
+      "role": "Oldie",
+      "person": "Klaus Dittmann"
+    },
+    {
+      "role": "Frau Junge",
+      "person": "Carin Abicht"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der BMG Deutschland GmbH"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2004 BMG Deutschland GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Aida oder La Traviata?"
+    },
+    {
+      "position": 2,
+      "title": "Heiße Unterlagen"
+    },
+    {
+      "position": 3,
+      "title": "Gabys schusselige Tante"
+    },
+    {
+      "position": 4,
+      "title": "Dicke Kartoffel als Geisel"
+    },
+    {
+      "position": 5,
+      "title": "Böse Überraschung"
+    },
+    {
+      "position": 6,
+      "title": "Tims Selbstkritik"
+    },
+    {
+      "position": 7,
+      "title": "Salome liebt süße Feigen"
+    },
+    {
+      "position": 8,
+      "title": "Letzter Tag für das Trio"
+    },
+    {
+      "position": 9,
+      "title": "Showdown auf dem Bahnhof"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "14. Juni 2004",
+      "EAN": "828765731546 (MC) / 828765731522 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f142",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-142/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

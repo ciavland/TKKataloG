@@ -1,0 +1,97 @@
+{
+  "number": 237,
+  "title": "K.I. Kriminelle Illusion",
+  "description": "Lasse Hendrichs Referat über Influencer war gut, fast schon zu gut. Denn die Schülerin Lisa Fuchs erkennt die Handschrift einer künstlichen Intelligenz und lässt Lasse auffliegen. In der folgenden Nacht verschwindet ein diamantbesetzter Armreif aus dem Zimmer von Wanda Weil, einer beliebten Influencerin aus dem Mädcheninternat. Genau in dieser Nacht wird Klößchen beim nächtlichen Toilettengang von einem Unbekannten fast die Nase gebrochen. Wie hängen diese Ereignisse zusammen? Welche Rolle spielt Grobian Rainer Maiwald aus der Oberstufe? Welche geheimen Informationen stecken im „Let’s play“-Video von Gamerin Frida Frey aus der Tatnacht? Und wer entwendet 24 Stunden später 300 Euro aus Lasses Zimmer und hinterlässt eine rätselhafte Nachricht? Tim, Karl, Gaby und Klößchen müssen ihre ganze natürliche Intelligenz aufbringen, um diesen Fall zu knacken.",
+  "release_year": 2025,
+  "release_date": "2025-06-06",
+  "duration_seconds": 3508,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Dr. Lore Loewenheim",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Frida Frey",
+      "person": "Julia Casper"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Lasse Hendrich",
+      "person": "Joshua Rudolf"
+    },
+    {
+      "role": "Lisa Fuchs",
+      "person": "Sarah Madeleine Tusk"
+    },
+    {
+      "role": "Markus",
+      "person": "Jannik Endemann"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Rainer Maiwald",
+      "person": "Robert Knorr"
+    },
+    {
+      "role": "Rebekka Odebrecht",
+      "person": "Henrike Tönnes"
+    },
+    {
+      "role": "Studienrat Alois Keismar",
+      "person": "Daniel Schröder"
+    },
+    {
+      "role": "Tobias Nesselmüller",
+      "person": "Julian Greis"
+    },
+    {
+      "role": "Wanda Weil",
+      "person": "Sofie Junker"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/k-i-kriminelle-illusion",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f237",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

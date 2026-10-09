@@ -1,0 +1,163 @@
+{
+  "number": 129,
+  "title": "Der Erpresser fährt bis Endstation",
+  "description": "Als die 14jährige Regina mit der U-Bahn zu einem Treffen mit TKKG fährt, ist nur noch ein einziger Fahrgast außer ihr im Abteil. Regina mustert ihn unauffällig und wird von Entsetzen gepackt. Denn sie erkennt jenen Verbrecher wieder, der sie vor zehn Jahren entführt und erst gegen Lösegeld freigelassen hat. Die damals Vierjährige sah den Kerl ohne Maske, doch die Beschreibung führte zu nichts. Er wurde nie gefaßt. Jetzt fährt er bis Endstation der Linie 29 und Regina beschließt, ihm zu folgen. Über ihr Handy verständigt sie TKKG.",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 2931,
+  "cast": [
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Regina Mauthofer",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Martin Riedfeld",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Bella Neffke",
+      "person": "Hansi Jochmann"
+    },
+    {
+      "role": "Arnold Hausmann",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Lucia",
+      "person": "Maria Baptista"
+    },
+    {
+      "role": "Wilhelm",
+      "person": "Richard Kochmann"
+    },
+    {
+      "role": "Frau",
+      "person": "Susan Jarling"
+    },
+    {
+      "role": "Gast",
+      "person": "Mehmet Tekin"
+    },
+    {
+      "role": "Junge",
+      "person": "Niels Schubert"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2001 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Entsetzen in der U-Bahn"
+    },
+    {
+      "position": 2,
+      "title": "Und dann in die Höhle!"
+    },
+    {
+      "position": 3,
+      "title": "Rotes Handy am Container"
+    },
+    {
+      "position": 4,
+      "title": "Luftblase im Berg"
+    },
+    {
+      "position": 5,
+      "title": "Die Marktforscher von Datei & Lästig"
+    },
+    {
+      "position": 6,
+      "title": "Rot wie Kirschmarmelade"
+    },
+    {
+      "position": 7,
+      "title": "Heute geschlossen"
+    },
+    {
+      "position": 8,
+      "title": "Teilhaber am Lösegeld"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. November 2001",
+      "EAN": "743218782947 (MC) / 743218782923 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f129",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-129/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

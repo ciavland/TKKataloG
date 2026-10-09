@@ -1,0 +1,199 @@
+{
+  "number": 164,
+  "title": "Operation Hexen-Graffiti",
+  "description": "Kommissar Glockner ist entsetzt: zahlreiche Einsatzwagen der Polizei wurden mit Graffiti besprüht! Und ein Ende dieser skrupellosen Sachbeschädigung ist nicht abzusehen. Wer steckt hinter der berüchtigten \"Hexen-Bande\"? Als \"Undercover-Agenten\" schleusen sich TKKG in die Graffiti-Szene ein und rücken den Übeltätern immer näher auf den Pelz. Doch plötzlich wendet sich das Blatt und Tim, Karl, Klößchen und Gaby stoßen auf weitaus gefährlichere Verbrecher...",
+  "release_year": 2009,
+  "release_date": null,
+  "duration_seconds": 3085,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Lilli Pepsen",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Marlies",
+      "person": "Alexandra Garcia"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Till",
+      "person": "Kiron Freigang"
+    },
+    {
+      "role": "Anuschka",
+      "person": "Barbara Schipper"
+    },
+    {
+      "role": "Bettina",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Anja Zehnpfund",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Kurt Schlickewei",
+      "person": "Mario Grete"
+    },
+    {
+      "role": "Polizist",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Serviererin",
+      "person": "Ursula Sieg"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2009 Eine Produktion der Sony Music Entertainment (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Neue Identitäten"
+    },
+    {
+      "position": 2,
+      "title": "Das war wohl nichts!"
+    },
+    {
+      "position": 3,
+      "title": "Lichtscheue Typen"
+    },
+    {
+      "position": 4,
+      "title": "Ein heißer Tipp"
+    },
+    {
+      "position": 5,
+      "title": "Schwarzes Tattoo"
+    },
+    {
+      "position": 6,
+      "title": "Kommissar Zufall"
+    },
+    {
+      "position": 7,
+      "title": "Blaulicht"
+    },
+    {
+      "position": 8,
+      "title": "Ein stressiger Job"
+    },
+    {
+      "position": 9,
+      "title": "Abgehört"
+    },
+    {
+      "position": 10,
+      "title": "Perfekte Tarnung"
+    },
+    {
+      "position": 11,
+      "title": "In der Milchbar"
+    },
+    {
+      "position": 12,
+      "title": "Bittere Enttäuschung"
+    },
+    {
+      "position": 13,
+      "title": "Nächtliche Erleuchtung"
+    },
+    {
+      "position": 14,
+      "title": "Licht aus!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "17. April 2009",
+      "EAN": "886974440048 (MC) / 886974440024 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f164",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-164/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

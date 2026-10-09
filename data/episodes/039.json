@@ -1,0 +1,159 @@
+{
+  "number": 39,
+  "title": "Die Gift-Party",
+  "description": "In der Internatsschule ist was los! Zum 100. Mal treffen sich die Altschüler. Die TKKG-Freunde bekommen den Auftrag, ein Grab zu besichtigen - und dabei machen sie eine gefährliche Entdeckung. Plötzlich werden sie von Berufsverbrechern gejagt und Kugeln fliegen ihnen um die Ohren.",
+  "release_year": 1986,
+  "release_date": null,
+  "duration_seconds": 2592,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Dr. Frieder Gutbrot",
+      "person": "Helmut Ahner"
+    },
+    {
+      "role": "Paul Stielke",
+      "person": "Reiner Brönneke"
+    },
+    {
+      "role": "Metsch",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Karl-Otto Petzolt",
+      "person": "Hans Paetsch"
+    },
+    {
+      "role": "Hanspeter Jarutzki",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Hippie Leopold Ufze",
+      "person": "Peter Lakenmacher"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1986 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Stille Gedenkminute"
+    },
+    {
+      "position": 2,
+      "title": "Koffer im Grab"
+    },
+    {
+      "position": 3,
+      "title": "Gedankenübertragung"
+    },
+    {
+      "position": 4,
+      "title": "Ein schwerer Junge"
+    },
+    {
+      "position": 5,
+      "title": "Schnapsflaschen-Vorrat"
+    },
+    {
+      "position": 6,
+      "title": "Bewaffneter Überfall"
+    },
+    {
+      "position": 7,
+      "title": "Lebensmittelvergistung"
+    },
+    {
+      "position": 8,
+      "title": "Rache!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 9. Mai 2005 (CD)",
+      "EAN": "743219899743 (MC) / 743219899729 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f39",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-039/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

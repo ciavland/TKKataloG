@@ -1,0 +1,130 @@
+{
+  "number": 233,
+  "title": "Räuberwald",
+  "description": "Ein Wochenende in einem alten Forsthaus mitten im Wald – das wird für die unzertrennlichen Freunde Tim, Karl, Gaby und Klößchen ein noch größeres Abenteuer als gedacht, denn im nächsten Dorf wurde eine Bankfiliale ausgeraubt. Vom bewaffneten Räuber fehlt jede Spur und der Landpolizist Jochen Dill ist mit den Ermittlungen heillos überfordert. Nicht aber TKKG! Sie können gleich mehrere Verdächtige ausmachen. Zu diesem Zeitpunkt wissen die Vier aber noch nicht, dass sie im alten Forsthaus buchstäblich auf der Beute sitzen. Und mit dem boshaften Poltergeist haben sie auch noch nicht Bekanntschaft gemacht …",
+  "release_year": 2024,
+  "release_date": "2024-08-16",
+  "duration_seconds": 3986,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Dagmar Schmidt",
+      "person": "Anna Grisebach"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Eva Colombina"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Heidemarie Stadlmaier",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Konstantin Graudus"
+    },
+    {
+      "role": "Ingo Jungens",
+      "person": "Nico-Alexander Wilhelm"
+    },
+    {
+      "role": "Jana Imhoff",
+      "person": "Wanda Perdelwitz"
+    },
+    {
+      "role": "Jochen Dill",
+      "person": "Rasmus Borowski"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Martin Böck",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Pia Schwind",
+      "person": "Lara Aylin Winkler"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2024 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/rauberwald",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f233",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

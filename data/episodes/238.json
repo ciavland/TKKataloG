@@ -1,0 +1,143 @@
+{
+  "number": 238,
+  "title": "Nur Tote schlafen länger",
+  "description": "„Bitte hilf mir!“, flüstert eine Frau Tim in der U-Bahn zu, bevor sie von einem Mann in weißem Kittel aus der Bahn geführt wird. Nur einen Augenblick später ruft ein Fahrgast, dass sein Portemonnaie gestohlen wurde. Als Tim selbiges in einem Mülleimer des U-Bahnhofs findet, muss er feststellen, dass weder Kreditkarten noch Bargeld entnommen wurden. Die Ereignisse machen Tim stutzig – was steckt dahinter? Karl, Gaby und Klößchen sind sich nicht sicher, ob das wirklich ein Fall für TKKG ist, als plötzlich eine rätselhafte Nachricht mit der dringenden Bitte, weiter zu ermitteln, im Adlernest auftaucht. Bald schon suchen die vier jungen Detektive den „Chef der Schlaflosen“, bevor Tim Kommissar Schalavsky gesteht, selbst hinter den verbrecherischen Ereignissen zu stecken …",
+  "release_year": 2025,
+  "release_date": "2025-08-29",
+  "duration_seconds": 3895,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Christian Drechsler",
+      "person": "Louis Held"
+    },
+    {
+      "role": "Dr. Meinolf Drechsler",
+      "person": "Andreas Birnbaum"
+    },
+    {
+      "role": "Egon Dreher",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Franziska Bender",
+      "person": "Marleen Lohse"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hilde Strunk",
+      "person": "Birte Kretschmer"
+    },
+    {
+      "role": "Jörn Keplin",
+      "person": "Wolf Frass"
+    },
+    {
+      "role": "Kaito",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Prof. Benjamin Rosenbaum",
+      "person": "Michael Prelle"
+    },
+    {
+      "role": "Simon Mauerthal",
+      "person": "Marco Steeger"
+    },
+    {
+      "role": "Tarek",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Tobias Nesselmüller",
+      "person": "Julian Greis"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger; Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2025 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/nur-tote-schlafen-langer",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f238",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

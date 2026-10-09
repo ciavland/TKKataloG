@@ -1,0 +1,195 @@
+{
+  "number": 83,
+  "title": "Hilfe! Gaby in Gefahr",
+  "description": "Auf der Fahrt im Intercity erkennt Tim den gesuchten Unhold Diel. Tim stellt ihn, aber der Verbrecher entkommt. Jetzt will er sich an dem TKKG-Häuptling rächen und droht, Gaby zu überfallen. Ihr Leben ist in Gefahr, aber niemand weiß, wann und wo die Bestie zuschlagen wird.",
+  "release_year": 1993,
+  "release_date": null,
+  "duration_seconds": 2802,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Hildegard Krekel"
+    },
+    {
+      "role": "Manfred Diel",
+      "person": "Gerlach Fiedler"
+    },
+    {
+      "role": "Robert Rübler",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Martha Rübler",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Christian Rübler",
+      "person": "Kim Hasper"
+    },
+    {
+      "role": "Dr. Lothar Niedermacher",
+      "person": "Boris Tessmann"
+    },
+    {
+      "role": "Dr. Hans Minkmann",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Ulrich Plauen",
+      "person": "Ernst Reitz"
+    },
+    {
+      "role": "Edgar Brischnik",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Hubert Molnitzka",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Dr. Werner Bachmüller",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Hotelempfang",
+      "person": "Utz Richter"
+    },
+    {
+      "role": "Reisende",
+      "person": "Karin Eckhold"
+    },
+    {
+      "role": "Bahnreisender",
+      "person": "Ernst von Klippstein"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1993 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Hallo... Hallöchen"
+    },
+    {
+      "position": 2,
+      "title": "Ein Unhold kocht vor Wut"
+    },
+    {
+      "position": 3,
+      "title": "Völlig irre im Kopf"
+    },
+    {
+      "position": 4,
+      "title": "Die Fahndung läuft"
+    },
+    {
+      "position": 5,
+      "title": "Alles ist weg"
+    },
+    {
+      "position": 6,
+      "title": "Wer ist der Fensterbohrer"
+    },
+    {
+      "position": 7,
+      "title": "Schwerer Herzanfall"
+    },
+    {
+      "position": 8,
+      "title": "Alles okay?"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. Juli 1993 (MC) / 22. September 2006 (CD)",
+      "EAN": "743211319744 (MC) / 743211319720 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f83",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-083/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

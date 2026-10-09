@@ -1,0 +1,147 @@
+{
+  "number": 209,
+  "title": "Drohbriefe von Unbekannt",
+  "description": "Für die 9b der Internatsschule steht in der ersten Stunde eine Mathearbeit bei Frau Dr. Bleul an. Zehn Minuten nach Unterrichtsbeginn ist die Lehrerin immer noch nicht in der Klasse und bald macht die Nachricht die Runde, dass sie auf der Landstraße zur Schule mit ihrem Auto verunglückt ist. Erst vor kurzem ist bei ihr ein gemeiner Drohbrief eingegangen – unterzeichnet mit dem kryptischen Kürzel „93†3R“. War es also wirklich ein Unfall? Tim, Karl, Gaby und Klößchen nehmen die Spur auf, als ein weiterer Drohbrief auftaucht. Der dritte ist an TKKG gerichtet und bald darauf stecken die vier Freunde ernsthaft in der Klemme...",
+  "release_year": 2019,
+  "release_date": "2019-03-15",
+  "duration_seconds": 4213,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Dr. Freund",
+      "person": "Joachim Kretzer"
+    },
+    {
+      "role": "Dr. Mechthild Bleul",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Gunnar",
+      "person": "Konstantin Graudus"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Nelli Hirsch",
+      "person": "Regina Lemnitz"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Peter Palstek",
+      "person": "Jonas Fischer"
+    },
+    {
+      "role": "Prof. Dr. Geiweber",
+      "person": "Carla Becker"
+    },
+    {
+      "role": "Roland Schenk",
+      "person": "Udo Schenk"
+    },
+    {
+      "role": "Sanitäter",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Sascha Mersch",
+      "person": "Peter Weis"
+    },
+    {
+      "role": "Schülerin",
+      "person": "Katinka KÃ¶rting"
+    },
+    {
+      "role": "Volker Köhlmeier",
+      "person": "Wolfgang HÃ¤ntsch"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Weitere Angabe",
+      "value": "Produktionsangaben"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "(c) 2019 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/drohbriefe-von-unbekannt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f209",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

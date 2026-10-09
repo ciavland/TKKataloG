@@ -1,0 +1,187 @@
+{
+  "number": 85,
+  "title": "Freiheit für gequälte Tiere",
+  "description": "Die vier vom TKKG suchen einen gewissenlosen Autofahrer, der ihre Schulkameradin Sabine schwer verletzt hat und geflüchtet ist. Bei ihren Nachforschungen treffen sie auf üble Händler, die mit grausamen Schlachtvieh-Transporten Geschäfte machen. Tim und seine Freunde nehmen den Kampf mit den Tierquälern auf.",
+  "release_year": 1993,
+  "release_date": null,
+  "duration_seconds": 2732,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Alfons Blikleben",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Bernhard Möngheym",
+      "person": "Wolfgang Völz"
+    },
+    {
+      "role": "Ulrich Panke",
+      "person": "Karl Knauer"
+    },
+    {
+      "role": "Polizist Valke",
+      "person": "Horst Naumann"
+    },
+    {
+      "role": "Christa Löhberger",
+      "person": "Katja Brügger"
+    },
+    {
+      "role": "Wilhelm Bullschett",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Heini Bullschett",
+      "person": "Jannik Endemann"
+    },
+    {
+      "role": "Georg Krawutzke",
+      "person": "Christian Stark"
+    },
+    {
+      "role": "Ludwig Felch",
+      "person": "Stefan Brönneke"
+    },
+    {
+      "role": "Pauli Hansen",
+      "person": "Woody Mues"
+    },
+    {
+      "role": "Paul Hansen",
+      "person": "Ernst von Klippstein"
+    },
+    {
+      "role": "Bauer",
+      "person": "Horst Naumann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1993 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Unfall"
+    },
+    {
+      "position": 2,
+      "title": "Der Wolf frisst das Schaf"
+    },
+    {
+      "position": 3,
+      "title": "Schlachtvieh-Transporte"
+    },
+    {
+      "position": 4,
+      "title": "Selbstjustiz"
+    },
+    {
+      "position": 5,
+      "title": "Unfallopfer in Gips"
+    },
+    {
+      "position": 6,
+      "title": "Freiheit für gequälte Tiere"
+    },
+    {
+      "position": 7,
+      "title": "Raus mit der Sprache"
+    },
+    {
+      "position": 8,
+      "title": "Niemand hat den Durchblick"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "11. Oktober 1993 (MC) / 22. September 2006 (CD)",
+      "EAN": "743211516242 (MC) / 743211516228 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f85",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-085/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

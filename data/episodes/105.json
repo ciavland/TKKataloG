@@ -1,0 +1,163 @@
+{
+  "number": 105,
+  "title": "Vermißte Kids und Killerpflanzen",
+  "description": "Edmund Bosnickel - ein psychisch gestörter Biologe - stößt auf ein Phänomen: in einer Sperrzone, in der Nähe eines stillgelegten Kernkraftwerkes, bei dem Fall-Out an der Tagesordnung war, entwickeln sich Pflanzen ins Riesenhafte. Bosnickel faßt einen teuflischen Plan und pflanzt dort fleischfressende Pflanzen wie Sonnentau, Sumpfkrug und Venusfliegenfalle an. Diese Killerpflanzen gedeihen, werden gigantisch und verschlingen alsbald auch Tiere. Das bringt Bosnickel auf eine noch teuflischere Idee: er entführt am Hauptbahnhof der TKKG-Stadt zwei junge Mädchen, zwei Ausreißerinnen.",
+  "release_year": 1997,
+  "release_date": null,
+  "duration_seconds": 2921,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Edmund Bosnickel",
+      "person": "Klaus Dittmann"
+    },
+    {
+      "role": "Sonja Heuring",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Nicole Oberstock",
+      "person": "Anja Maria Mahler"
+    },
+    {
+      "role": "Wilfried Mögezoff",
+      "person": "Wolfgang Hartmann"
+    },
+    {
+      "role": "Branko Sedice",
+      "person": "Gerhart Hinze"
+    },
+    {
+      "role": "Ältere Dame",
+      "person": "Heikedine Körting"
+    },
+    {
+      "role": "Bahnpolizist",
+      "person": "Gerhart Hinze"
+    },
+    {
+      "role": "Bahnpolizist Hugo",
+      "person": "Richard Kochmann"
+    },
+    {
+      "role": "Pensionär",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Radler-Rambo",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Unfallopfer",
+      "person": "Heikedine Körting"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte und Buch",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1997 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mitgelockt"
+    },
+    {
+      "position": 2,
+      "title": "Größe XXXX L"
+    },
+    {
+      "position": 3,
+      "title": "Absolute Dunkelheit"
+    },
+    {
+      "position": 4,
+      "title": "Im Sperrgebiet"
+    },
+    {
+      "position": 5,
+      "title": "Einsturzgefahr"
+    },
+    {
+      "position": 6,
+      "title": "Mordsappetit"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "10. November 1997",
+      "EAN": "743215105343 (MC) / 743215105329 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f105",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-105/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

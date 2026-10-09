@@ -1,0 +1,179 @@
+{
+  "number": 198,
+  "title": "Der Golem vom Dunkelsee",
+  "description": "Sonne, Ferien, Sommerlager! Tim, Karl, Gaby und Klößchen verbringen gemeinsam mit einer Handvoll Altersgenossen eine Woche am idyllischen Dunkelsee. Nächte am Lagerfeuer, Stechmücken, Badespaß, Sonnenbrand und viel Eis am Stiel! Der sonnige Friede wird getrübt, als Gaby 20 Euro aus ihrem Zelt gestohlen werden. Kurze Zeit später verschwinden auch die Tischtennisschläger und ein Handy. Wer ist der Dieb vom Sommercamp? TKKG haben einen Verdacht und wollen den Täter stellen. Der Fall scheint klar, wäre da nicht der Golem vom Dunkelsee - eine unheimliche Gestalt, die seit Jahren ihr Unwesen auf dem Lagerplatz treibt...",
+  "release_year": 2016,
+  "release_date": null,
+  "duration_seconds": 3513,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Roland Kaempfert",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Heike",
+      "person": "Theresa Berlage"
+    },
+    {
+      "role": "Julian",
+      "person": "Volker Hanisch"
+    },
+    {
+      "role": "Ebermann",
+      "person": "Michael Bideller"
+    },
+    {
+      "role": "Lina",
+      "person": "Lea Sprick"
+    },
+    {
+      "role": "Jannik",
+      "person": "Lasse Bliefert"
+    },
+    {
+      "role": "Ayla",
+      "person": "Sarah Madeleine Tusk"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH."
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Paradies mit Störenfried"
+    },
+    {
+      "position": 2,
+      "title": "Dieb im Sommerlager"
+    },
+    {
+      "position": 3,
+      "title": "Er steigt aus dem Wasser"
+    },
+    {
+      "position": 4,
+      "title": "Rache ist süß"
+    },
+    {
+      "position": 5,
+      "title": "Zwei leuchtend grüne Augen"
+    },
+    {
+      "position": 6,
+      "title": "Der Schatz im Säuresee"
+    },
+    {
+      "position": 7,
+      "title": "Dem Kapuzentyp hinterher"
+    },
+    {
+      "position": 8,
+      "title": "In Sicherheit"
+    },
+    {
+      "position": 9,
+      "title": "Klößchens Einfall"
+    },
+    {
+      "position": 10,
+      "title": "Der Golem"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "30. September 2016",
+      "EAN": "888751804524"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f198",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-198/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

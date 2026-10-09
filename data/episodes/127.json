@@ -1,0 +1,155 @@
+{
+  "number": 127,
+  "title": "Im Schlauchboot durch die Unterwelt",
+  "description": "Das Baby eines Boxers, der um die Weltmeisterschaft kämpfen soll, wird entführt. Im Abwasserkanal unter der Stadt treibt der mumifizierte Leichnam eines dunkelhäutigen Mannes, der schon vor 180 Jahren gestorben ist. Gibt es einen Zusammenhang? Was haben die beiden alten Knastbrüder damit zu tun, die jetzt nach langjähriger Verbüßung ihrer Strafe entlassen sind? TKKG haben eine Menge zu tun.",
+  "release_year": 2001,
+  "release_date": null,
+  "duration_seconds": 3403,
+  "cast": [
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Alfred",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Emma",
+      "person": "Monika Werner"
+    },
+    {
+      "role": "Matilde Kräsch",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Otto Kräsch",
+      "person": "Peer Schmidt"
+    },
+    {
+      "role": "Hartmut Meier",
+      "person": "Eckart Dux"
+    },
+    {
+      "role": "Egon Peschke",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Astrid Modderblum",
+      "person": "Kerstin Draeger"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH & Co. KG"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2001 BMG Ariola Miller GmbH & Co. KG"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Museum mit echter Mumie"
+    },
+    {
+      "position": 2,
+      "title": "Ein Verbrechen wie damals"
+    },
+    {
+      "position": 3,
+      "title": "Rachte - nach 30 Jahren?"
+    },
+    {
+      "position": 4,
+      "title": "Ein verdächtiger Weltmeister"
+    },
+    {
+      "position": 5,
+      "title": "Der Knoblauch wirkt"
+    },
+    {
+      "position": 6,
+      "title": "Tim, der Taschendieb"
+    },
+    {
+      "position": 7,
+      "title": "Im Schlauchboot unter Ratten"
+    },
+    {
+      "position": 8,
+      "title": "Von zwei Seiten ins Ziel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "25. Juni 2001",
+      "EAN": "743218552045 (MC) / 743218552021 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f127",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-127/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "number": 229,
+  "title": "Auf den Schwingen des Totenvogels",
+  "description": "Während der Dichter Dante Dannewitz in der Bibliothek der Kleist-Villa seine düsteren Verse vorträgt, werden aus dem Safe im Schlafzimmer die wertvollen Familienjuwelen gestohlen. Am nächsten Tag nehmen Tim, Karl, Gaby und Klößchen die Spur in der Nachbarschaft der Familie Sauerlich auf. Sie rekonstruieren den Tathergang, legen verdeckte Motive frei und haben bald drei verdächtige Personen ausfindig gemacht. Aber ob unter ihnen wirklich der Täter ist? Wie sich herausstellt, muss Tim erst noch seine größte Angst überwinden, bevor die vier Detektive den kniffligen Fall lösen können.",
+  "release_year": 2023,
+  "release_date": "2023-09-08",
+  "duration_seconds": 3465,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Annette Licht",
+      "person": "Johanna Balluch"
+    },
+    {
+      "role": "Barbara Böckmann",
+      "person": "Manuela Eifrig"
+    },
+    {
+      "role": "Corinna Liebknecht",
+      "person": "Gerlinde Dillge"
+    },
+    {
+      "role": "Eleonore von Kleist",
+      "person": "Antje Birnbaum"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Eva Colombina"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hans-Joachim von Kleist",
+      "person": "Michael Prelle"
+    },
+    {
+      "role": "Helmut Blaschke",
+      "person": "Leonhard Mahlich"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klaus Jasper",
+      "person": "Erik Schäffler"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Kurt Sauerlich",
+      "person": "Konstantin Graudus"
+    },
+    {
+      "role": "Oliver Blaschke",
+      "person": "Sebastian König"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2023 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/auf-den-schwingen-des-totenvogels",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f229",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

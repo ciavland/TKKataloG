@@ -1,0 +1,131 @@
+{
+  "number": 220,
+  "title": "Attentat am Gämsengrat",
+  "description": "Die Klasse 9b befindet sich auf Abenteuerwoche in den Tiroler Alpen. Zwar steckt Tim, Karl, Klößchen und Gaby noch das Wildbach-Rafting vom Vortag in den Knochen, aber dennoch wollen sie heute die Gamsspitze erklimmen. Auf dem Weg nach oben setzen sich die vier von ihrer Klasse ab und beobachten in der Ferne einen Kampf zwischen zwei Gestalten. Hat die eine die andere gerade vom Berggrat gestoßen? Sind TKKG also Zeugen eines Attentats geworden? Bevor sie dem auf den Grund gehen können bricht plötzlich ein Unwetter über sie herein und TKKG sitzen im strömenden Regen auf dem Berg fest. Ein Blitz zuckt am Himmel, ein Schuss gellt durchs Gebirge und ganz in der Nähe kämpft sich ein Mann mit blutender Schläfe auf TKKG zu…",
+  "release_year": 2021,
+  "release_date": "2021-09-03",
+  "duration_seconds": 3736,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Alice",
+      "person": "Theresa Underberg"
+    },
+    {
+      "role": "Diane Gruber",
+      "person": "Sandra Keck"
+    },
+    {
+      "role": "Dr. Bienert",
+      "person": "Peter Buchholz"
+    },
+    {
+      "role": "Felix Gamper",
+      "person": "Erkki Hopf"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kathi",
+      "person": "Alexandra Garcia"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Malte Hansen",
+      "person": "Stephan Benson"
+    },
+    {
+      "role": "Markus",
+      "person": "Jannik Endemann"
+    },
+    {
+      "role": "Pangraz Bär",
+      "person": "Erik Schäffler"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Svenja Bartsch, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2021 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/attentat-am-gamsengrat-1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f220",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

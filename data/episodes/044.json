@@ -1,0 +1,167 @@
+{
+  "number": 44,
+  "title": "Um Mitternacht am schwarzen Fluß",
+  "description": "Geheimnisvolle Dinge passieren: Ein Riesen-Brummi rauscht durch den Naturschutzpark, ein Porsche-Fahrer versteckt Waffen in seinem Auto, ein Mädchen verschwindet und eine ältliche Dame schweigt verstockt! Warum? Tim, Karl, Klößchen und Gaby sind dem Geheimnis auf der Spur und ein Reporter warnt sie. Die Männer, mit denen sie es zu tun haben, sind überaus gefährlich, vor allem mit einer Waffe in der Hand...",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2330,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Tanja Leihmeier",
+      "person": "Claudia Schermutzky"
+    },
+    {
+      "role": "Robert „Robby“ Leihmeier",
+      "person": "Eckart Dux"
+    },
+    {
+      "role": "Ute Leihmeier",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Jan Drebelt",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Rüdiger Muhson",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Else „Jessica“ Muhson",
+      "person": "Carin Abicht"
+    },
+    {
+      "role": "Hubert Kambärt",
+      "person": "Karl Walter Diess"
+    },
+    {
+      "role": "Müller-Dehpea",
+      "person": "Jürgen Thormann"
+    },
+    {
+      "role": "Theo Gnazow",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Dietlinde Eckert",
+      "person": "Gisela Trowe"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Porsche Fans"
+    },
+    {
+      "position": 2,
+      "title": "Ein Fall für die Versicherung"
+    },
+    {
+      "position": 3,
+      "title": "Verbotene Geschäfte"
+    },
+    {
+      "position": 4,
+      "title": "Fieberhafte Suche"
+    },
+    {
+      "position": 5,
+      "title": "Wo ist Tanja?"
+    },
+    {
+      "position": 6,
+      "title": "Geldübergabe"
+    },
+    {
+      "position": 7,
+      "title": "Waffen im Kofferraum"
+    },
+    {
+      "position": 8,
+      "title": "Verhaftet"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 8. August 2005 (CD)",
+      "EAN": "743219900241 (MC) / 743219900227 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f44",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-044/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

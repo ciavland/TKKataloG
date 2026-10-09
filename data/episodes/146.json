@@ -1,0 +1,195 @@
+{
+  "number": 146,
+  "title": "Nonstop in die Raketenfalle",
+  "description": "Zufällig stoßen TKKG auf das Empfangsgerät eine Abhöranlage. Als sie zuhören, packt sie der Horror. Nicht nur von der russischen Mafia ist die Rede - auch ein Raketenangriff scheint geplant zu sein: auf einen Flieger, der von irgendwoher erwartet wird und auf dem Flughafen der TKKG-Stadt landen soll. Ist das ganze ein übler Scherz oder grausige Wirklichkeit? Bald schon überschlagen sich die Ereignisse.",
+  "release_year": 2005,
+  "release_date": null,
+  "duration_seconds": 2934,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Emma Traubisch",
+      "person": "Regine Lamster"
+    },
+    {
+      "role": "Paolo Petriccio",
+      "person": "Michael Lott"
+    },
+    {
+      "role": "Emilio Cortone",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Indira Varanasi",
+      "person": "Katrin Wasow"
+    },
+    {
+      "role": "Wladimir Masonow",
+      "person": "Arndt Schmöle"
+    },
+    {
+      "role": "Dimitrij Dowaschin",
+      "person": "Erik Schäffler"
+    },
+    {
+      "role": "Olaf Pitröder",
+      "person": "Peter Lontzek"
+    },
+    {
+      "role": "Hajo Kunnrich",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Sonja Lembke",
+      "person": "Samira Chanfir"
+    },
+    {
+      "role": "Leon Traubisch",
+      "person": "Tim Knauer"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch und Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der BMG Records GmbH"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2005 BMG Records GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Indische Dolche"
+    },
+    {
+      "position": 2,
+      "title": "Schleimig wie eine Auster"
+    },
+    {
+      "position": 3,
+      "title": "Plumpe Erpressung"
+    },
+    {
+      "position": 4,
+      "title": "Schätze aus dem Märchenland"
+    },
+    {
+      "position": 5,
+      "title": "Grottenhässliche Schrift"
+    },
+    {
+      "position": 6,
+      "title": "Die Krakenarme der Mafia"
+    },
+    {
+      "position": 7,
+      "title": "Der größte Coup aller Zeiten"
+    },
+    {
+      "position": 8,
+      "title": "Weltmeister im Schwänzen"
+    },
+    {
+      "position": 9,
+      "title": "Mordanschlag und Kunstraub"
+    },
+    {
+      "position": 10,
+      "title": "Auf frischer Tat ertappt"
+    },
+    {
+      "position": 11,
+      "title": "Großes Indianerehrenwort"
+    },
+    {
+      "position": 12,
+      "title": "Abschussbereiter Flugkörper"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "4. April 2005",
+      "EAN": "828766735642 (MC) / 828766735628 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f146",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-146/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "number": 178,
+  "title": "Hai-Alarm im Aquapark",
+  "description": "Vergnügen pur! Der neu eröffnete Aquapark in der Millionenstadt ziehen nicht nur TKKG in seinen Bann! Als skrupellose Verbrecher ihn als Versteck nutzen, beginnt ein wahres Katz- und Mausspiel. Eine geheimnisvolle Schatzkarte taucht auf. Führt sie zum Versteck der Diebesbeute? Alles wird zur Nebensache, als im Unterwassertunnel das Panzerglas zerbricht, hinter dem ein weißer Hai angriffslustig seine Zähne fletscht!",
+  "release_year": 2012,
+  "release_date": null,
+  "duration_seconds": 2990,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Julia Gühl",
+      "person": "Céline Fontanges"
+    },
+    {
+      "role": "Doan",
+      "person": "Eberhard Haar"
+    },
+    {
+      "role": "Claudia Heise",
+      "person": "Nova Meierhenrich"
+    },
+    {
+      "role": "André",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Kind",
+      "person": "Katharina von Keller"
+    },
+    {
+      "role": "Frau",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Tourist",
+      "person": "Bertram Hiese"
+    },
+    {
+      "role": "Papagei",
+      "person": "Achim Schülke"
+    },
+    {
+      "role": "Polizist Maier",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Feuerwehrmann",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Ettel",
+      "person": "André Minninger"
+    },
+    {
+      "role": "Marcel Pascal",
+      "person": "Mike Olsowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "André Minninger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Redaktion und"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Aktion „Klunker“"
+    },
+    {
+      "position": 2,
+      "title": "James Bond kann warten"
+    },
+    {
+      "position": 3,
+      "title": "Kein Grund zur Panik"
+    },
+    {
+      "position": 4,
+      "title": "Der Ernst des Lebens"
+    },
+    {
+      "position": 5,
+      "title": "Cheese!"
+    },
+    {
+      "position": 6,
+      "title": "Fehlende Beute"
+    },
+    {
+      "position": 7,
+      "title": "Gefälschte Papiere"
+    },
+    {
+      "position": 8,
+      "title": "Schatzkarte"
+    },
+    {
+      "position": 9,
+      "title": "Hai-Alarm!"
+    },
+    {
+      "position": 10,
+      "title": "In der Schatzhöhle"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "08. Juni 2012",
+      "EAN": "886919983128"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f178",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-178/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "number": 159,
+  "title": "Böses Spiel im Sommercamp",
+  "description": "Tolle Action für Tim, Karl, Klößchen und Gaby: Im Ferien-Abenteuer-Camp warten Free-Climbing, Nachtwanderungen und rasante Kanufahrten auf TKKG. Doch die anfängliche Begeisterung schlägt in puren Horror um, als ein nächtlicher Brandstifter für Panik sorgt! Nachdem ein Giftanschlag auch noch ein unschuldiges Opfer gefordert hat, platzt TKKG endgültig der Kragen. Die Vier beschließen, dem Täter eine Falle zu stellen. Doch wird er auch hineintappen...?",
+  "release_year": 2008,
+  "release_date": null,
+  "duration_seconds": 2908,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Robert Westphal",
+      "person": "Aaron Lee Ullmer"
+    },
+    {
+      "role": "Julia Westphal",
+      "person": "Christine Pappert"
+    },
+    {
+      "role": "Eva Harder",
+      "person": "Jennifer Böttcher"
+    },
+    {
+      "role": "Carola Trüffel",
+      "person": "Annabelle Krieg"
+    },
+    {
+      "role": "Stefanie",
+      "person": "Kristina von Weltzien"
+    },
+    {
+      "role": "Axel",
+      "person": "Nicolas König"
+    },
+    {
+      "role": "Doris",
+      "person": "Henrike Fehrs"
+    },
+    {
+      "role": "Rolf",
+      "person": "Robert Missler"
+    },
+    {
+      "role": "Mehmet",
+      "person": "Jesse Grimm"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "André Minninger - nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2008 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Sommer, Sonne, Spaß und gute Laune!"
+    },
+    {
+      "position": 2,
+      "title": "Ein mieses Gefühl"
+    },
+    {
+      "position": 3,
+      "title": "Drei Jungs im Schlepptau"
+    },
+    {
+      "position": 4,
+      "title": "Freizeitprogramm"
+    },
+    {
+      "position": 5,
+      "title": "Stromschnellen"
+    },
+    {
+      "position": 6,
+      "title": "Immer locker bleiben!"
+    },
+    {
+      "position": 7,
+      "title": "Sinnlose Wette"
+    },
+    {
+      "position": 8,
+      "title": "Gefeierter Held"
+    },
+    {
+      "position": 9,
+      "title": "Sorgen"
+    },
+    {
+      "position": 10,
+      "title": "Miese Erpressung"
+    },
+    {
+      "position": 11,
+      "title": "Diebstahl"
+    },
+    {
+      "position": 12,
+      "title": "Feuer!"
+    },
+    {
+      "position": 13,
+      "title": "Gift"
+    },
+    {
+      "position": 14,
+      "title": "Reingelegt"
+    },
+    {
+      "position": 15,
+      "title": "Heimweh"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "13. Juni 2008",
+      "EAN": "886972682747 (MC) / 886972682723 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f159",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-159/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "number": 112,
+  "title": "Bombenspaß bei Kies & Knete",
+  "description": "Das Bankhaus Kies & Knete hat seine liebsten Kunden zur Faschings-Party eingeladen, auch TKKG. Eingelassen wird nur, wer die schriftliche Einladung am Eingang vorweisen kann, denn bei einem Geldinstitut wird Sicherheit groß geschrieben. Das wissen auch die Bankräuber Drunske, Rettl und Lampe.Um in die Bank zu gelangen, überfallen sie Karin und Laura, die mit TKKG verabredet sind, betäuben die Mädchen und rauben ihnen die Eintrittskarten. Ein klarer Fall für TKKG. oder: TKKG warten vergeblich auf die Freundinnen...",
+  "release_year": 1999,
+  "release_date": null,
+  "duration_seconds": 2645,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Otto Drunske",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Hartmutt Rettl",
+      "person": "Gernot Endemann"
+    },
+    {
+      "role": "Ferdinand Lampe",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Laura Treufuß",
+      "person": "Hanna Reisch"
+    },
+    {
+      "role": "Karin Scholle",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Valencia Sarafino",
+      "person": "Alexandra Doerk"
+    },
+    {
+      "role": "Alexander Kies jr.",
+      "person": "Emil Krings"
+    },
+    {
+      "role": "Kundin",
+      "person": "Claudia Schermutzki"
+    },
+    {
+      "role": "Bestatter",
+      "person": "Klaus Dittmann"
+    },
+    {
+      "role": "Clown",
+      "person": "Peter Groß"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Peter & die TKKG-Bande",
+      "value": "„Ein Fall für TKKG“ 0:16"
+    },
+    {
+      "credit": "Komposition",
+      "value": "Bonda/Bohn/lmhof/Jannik/Menck"
+    },
+    {
+      "credit": "Text",
+      "value": "Büscher/lmhof/Kalmuczak"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller GmbH"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1999 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Klößchens Urknall-Bombe"
+    },
+    {
+      "position": 2,
+      "title": "Überfall auf Prinzessin und Hexe"
+    },
+    {
+      "position": 3,
+      "title": "Heiße Ohren für die Cowboys"
+    },
+    {
+      "position": 4,
+      "title": "Handy unterm Hexenrock"
+    },
+    {
+      "position": 5,
+      "title": "Papageien wie ein ganzer Urwald"
+    },
+    {
+      "position": 6,
+      "title": "Schnellpaket für Korolowski"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "8. Februar 1999",
+      "EAN": "743215974246 (MC) / 743215974222 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f112",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-112/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

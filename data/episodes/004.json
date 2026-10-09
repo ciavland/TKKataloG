@@ -1,0 +1,167 @@
+{
+  "number": 4,
+  "title": "Das Paket mit dem Totenkopf",
+  "description": "Als Tarzan an einem bitterkalten Winternachmittag im Stadtpark dem alten Oberst Grewe zu Hilfe kommt, der von zwei gemeinen Räubern überfallen wird, ahnt er nicht, dass dies der Anfang eines gefährlichen Abenteuers werden sollte. Tarzan findet einen Lederbeutel mit einem Fixer-Besteck, wie Rauschgiftsüchtige es verwenden. Langsam beginnt das Rätsel sich zu lösen, als die vier Freunde vom TKKG am Hauptbahnhof ihren Schulfreund Detlef Egge mit Boxernase beobachten, einem richtigen Gangster, der ein geheimnisvolles Paket mit einem Totenkopf im Schließfach versteckt. Das wird ein echter Fall für TKKG, denn sie sind einer skrupellosen Bande von Rauschgifthändlern und Erpressern auf der Spur, die vor keinem Verbrechen zurückschreckt und Jugendliche ins Elend stößt. Ein Abenteuer jagt das andere, bis Tarzan und seine Freunde in einer unheimlichen Nacht auf dem Westfriedhof dem Geheimnis näher kommen. Ein Fall für TKKG.",
+  "release_year": 1981,
+  "release_date": null,
+  "duration_seconds": 2285,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Susanne Carsten",
+      "person": "Ursula Sieg"
+    },
+    {
+      "role": "Oberst Grewe",
+      "person": "Joachim Wolff"
+    },
+    {
+      "role": "Detlef Egge",
+      "person": "Stephan Chrzescinski"
+    },
+    {
+      "role": "Toni Wiedemann",
+      "person": "Nicolas Körting"
+    },
+    {
+      "role": "Dieter Lembke",
+      "person": "Jan Krause"
+    },
+    {
+      "role": "Evi Pertigol",
+      "person": "Marlen Krause"
+    },
+    {
+      "role": "Herr Zaudig",
+      "person": "Andreas von der Meden"
+    },
+    {
+      "role": "Türsteher",
+      "person": "Prof. Dr. Andreas Beurmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1979 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Der Überfall"
+    },
+    {
+      "position": 2,
+      "title": "Dunkle Geschäfte am Bahnhof"
+    },
+    {
+      "position": 3,
+      "title": "Tarzans Mutter kommt"
+    },
+    {
+      "position": 4,
+      "title": "Ein gemeiner Diebstahl"
+    },
+    {
+      "position": 5,
+      "title": "Tarzan belauscht die Dealer"
+    },
+    {
+      "position": 6,
+      "title": "Evi ist in Egge verknallt"
+    },
+    {
+      "position": 7,
+      "title": "Die Dealer schlagen zu"
+    },
+    {
+      "position": 8,
+      "title": "Tarzans letzte Chanche"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1981 (LP / MC) / 10. Juni 2003 (CD)",
+      "EAN": "743219896247 (MC) / 743219896223 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f4",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-004/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

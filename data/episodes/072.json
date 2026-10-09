@@ -1,0 +1,163 @@
+{
+  "number": 72,
+  "title": "Taschengeld für ein Gespenst",
+  "description": "Ein Toter ist der Erpresser! Seine üblen Machenschaften wirken über das Grab hinaus. Als er dadurch seine Enkelin Petra in höchste Gefahr bringt, kann nur noch die TKKG-Bande helfen...",
+  "release_year": 1990,
+  "release_date": null,
+  "duration_seconds": 2685,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Olga Petersen",
+      "person": "Ursula Gompf"
+    },
+    {
+      "role": "Klaus Kühnschmidt",
+      "person": "Matthias Bullach"
+    },
+    {
+      "role": "Hugo Dittler",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Edgar Feske",
+      "person": "Peter H. Brigg"
+    },
+    {
+      "role": "Petra Kurzameter",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Sabine Weber",
+      "person": "Claudia Kleiber"
+    },
+    {
+      "role": "Denise Schrunz",
+      "person": "Traudel Sperber"
+    },
+    {
+      "role": "Nachbarin",
+      "person": "Hansi Jochmann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Botschaft im Lederherz"
+    },
+    {
+      "position": 2,
+      "title": "Ein gefährlicher Spinner"
+    },
+    {
+      "position": 3,
+      "title": "Es riecht nach Erpressung"
+    },
+    {
+      "position": 4,
+      "title": "Spesen gehen extra"
+    },
+    {
+      "position": 5,
+      "title": "Taschengeld für ein Gespenst"
+    },
+    {
+      "position": 6,
+      "title": "Was für ein Tohuwabohu"
+    },
+    {
+      "position": 7,
+      "title": "Polizeischutz"
+    },
+    {
+      "position": 8,
+      "title": "Widerwärtiger Tiermörder"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1990 (MC) / 22. September 2006 (CD)",
+      "EAN": "828768551349 (MC) / 828768551325 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f72",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-072/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "number": 11,
+  "title": "Die Falschmünzer vom Mäuseweg",
+  "description": "Wie man ohne Arbeit zu Geld kommt - das ist der Traum einer Bande jugendlicher Handtaschenräuber. Um diesen Traum zu verwirklichen, scheut die Bande vor keiner Straftat zurück. Aber erst als sie sich mit den Falschmünzern vom Mäuseweg zusammentut, scheinen goldene Zeiten anzubrechen. Gemeinsam wird ein krummes Ding geplant. Doch die Verbrecher haben einen Gegner: Die TKKG-Freunde. Können diese das \"große Ding\" verhindern?",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2415,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Gernot Plasch",
+      "person": "Gernot Endemann"
+    },
+    {
+      "role": "Fritz Zoppig",
+      "person": "Lutz Mackensy"
+    },
+    {
+      "role": "Otto Bruchdrexl",
+      "person": "Lutz Schnell"
+    },
+    {
+      "role": "Edwin Kowalske",
+      "person": "Peter Buchholz"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Andreas Wolters"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Elke Reissert"
+    },
+    {
+      "role": "Jürgen Andresen",
+      "person": "Frederik Houben"
+    },
+    {
+      "role": "Ferdinand Marker",
+      "person": "Volker Bogdan"
+    },
+    {
+      "role": "Robert Hehne",
+      "person": "Matthias Grimm"
+    },
+    {
+      "role": "Paul Rickemann",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Kioskverkäuferin",
+      "person": "Aranka Jaenke-Mamero"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1980 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Randale im Zugabteil"
+    },
+    {
+      "position": 2,
+      "title": "Ohne Wasserzeichen"
+    },
+    {
+      "position": 3,
+      "title": "Brutaler Überfall"
+    },
+    {
+      "position": 4,
+      "title": "Ausgezeichnete Hunderter Lappen"
+    },
+    {
+      "position": 5,
+      "title": "Fünf-Prozent Finderlohn"
+    },
+    {
+      "position": 6,
+      "title": "Getürmte Handtaschenräuber"
+    },
+    {
+      "position": 7,
+      "title": "Warnung an eine Nachteule"
+    },
+    {
+      "position": 8,
+      "title": "Hinter Schloss und Riegel"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (LP / MC) / 1. September 2003 (CD)",
+      "EAN": "743219896940 (MC) / 743219896926 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f11",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-011/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

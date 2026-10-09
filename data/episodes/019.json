@@ -1,0 +1,175 @@
+{
+  "number": 19,
+  "title": "Der Schatz in der Drachenhöhle",
+  "description": "Der Zufall spielt Tarzan eine geheimnisvolle Karte in die Hand. Was hat diese Karte zu bedeuten? Ist sie der Grund dafür, dass eine Bande rücksichtsloser Rocker Jagd auf Tarzan, Karl, Klößchen und Gaby macht? Die TKKG-Bande will nur eine vergnügliche Flußfahrt unternehmen, doch es wird eine Reise in tödliche Gefahren...",
+  "release_year": 1983,
+  "release_date": null,
+  "duration_seconds": 2482,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Rainer Plotzka",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Rosa Wagner",
+      "person": "Marita Fliege"
+    },
+    {
+      "role": "Sandor Zegeli",
+      "person": "Volker Brandt"
+    },
+    {
+      "role": "Ursula Sirtl",
+      "person": "Ruth Niehaus"
+    },
+    {
+      "role": "Dieter Gierke",
+      "person": "Helmut Zierl"
+    },
+    {
+      "role": "Kioskbesitzerin",
+      "person": "Brigitte Kollecker"
+    },
+    {
+      "role": "Camper",
+      "person": "Joachim Richert"
+    },
+    {
+      "role": "Camper",
+      "person": "Alexander Körting"
+    },
+    {
+      "role": "Theo",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Berti",
+      "person": "Jens Wawrczeck"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1982 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Mi-Am-Ga-Ni"
+    },
+    {
+      "position": 2,
+      "title": "Verpatzt!"
+    },
+    {
+      "position": 3,
+      "title": "Keine Panik"
+    },
+    {
+      "position": 4,
+      "title": "Slankys Bilderrätsel"
+    },
+    {
+      "position": 5,
+      "title": "Millionenbeute"
+    },
+    {
+      "position": 6,
+      "title": "Schwerstarbeit"
+    },
+    {
+      "position": 7,
+      "title": "Höhlenforscherlatein"
+    },
+    {
+      "position": 8,
+      "title": "Japanische Kampftechnik"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (MC) / 5. April 2004 (CD)",
+      "EAN": "743219897749 (MC) / 743219897725 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f19",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-019/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "number": 236,
+  "title": "Schatten aus der Unterwelt",
+  "description": "Die Stimmung bei der ersten Fahrt der neuen U-Bahnlinie tief unter der Millionenstadt ist fröhlich ... bis einen dumpfen Knall durch den Tunnel hallt. Ein Stromausfall bringt die U-Bahn zum Stehen, Stille. Tim, Karl, Gaby und Klößchen verlassen den Wagen über den Notausstieg und laufen mit Taschenlampen zum gespenstisch dunklen Geisterbahnhof. Dort trauen sie ihren Augen nicht: Auf dem Bahnsteig klafft ein riesiges Loch, das direkt in den Keller des Stadtarchivs führt – und ein wertvolles Gemälde wurde gestohlen. TKKG nehmen die Spur auf und sind bald einem geheimnisvollen Bewohner der Unterwelt auf den Fersen. Aber niemand kennt die Schächte und Stollen, die die Erde unter der Stadt durchlöchern, besser als er und was nach oben ans Tageslicht dringt, ist immer nur sein Schatten …",
+  "release_year": 2025,
+  "release_date": "2025-04-11",
+  "duration_seconds": 5430,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Nic Romm"
+    },
+    {
+      "role": "Bürgermeister",
+      "person": "Carlo Beddies"
+    },
+    {
+      "role": "Bruno Ranze",
+      "person": "Patrick Bach"
+    },
+    {
+      "role": "Chauffeur Johann",
+      "person": "Frank Meyer-Brockmann"
+    },
+    {
+      "role": "Elvira Peschl",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Eva Columbina"
+    },
+    {
+      "role": "Frank Boschetti",
+      "person": "Sebastian König"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Gräfin von der Lietzenburg",
+      "person": "Regina Lemnitz"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Achim Buch"
+    },
+    {
+      "role": "Lukas Halm",
+      "person": "Patrick L. Schmitz"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Radiosprecher",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Rebekka Bellmann",
+      "person": "Anika Baumann"
+    },
+    {
+      "role": "Tamina Salah",
+      "person": "Henrike Fehrs"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Petra Delmar"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "André Minninger, Helge Halvé"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. nach Artworkvorlagen von R. Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "Convoy Interactive GmbH"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG – Die Profis in spe“",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2025 - Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/schatten-aus-der-unterwelt",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "production",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f236",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

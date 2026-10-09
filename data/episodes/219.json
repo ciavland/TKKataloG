@@ -1,0 +1,108 @@
+{
+  "number": 219,
+  "title": "Terror frei Haus",
+  "description": "Tim, Karl, Klößchen und Gaby werden Zeugen, wie Klößchens Nachbarin an der Tür von zwei als Paketboten verkleideten Gaunern überrumpelt wird. TKKG eilen Frau Monique van Dorten zu Hilfe. Mit ihrem plötzlichen Auftauchen schlagen sie die Verbrecher in die Flucht. Jetzt müssen die Bewohner der Millionenstadt gewarnt werden - mit diesem fiesen Paketbotentrick dürfen die Gauner keine Chance mehr haben! Aber die findigen Verbrecher haben längst einen neuen Plan geschmiedet und diesmal sollte es ausgerechnet Klößchen treffen! Tim, Karl und Gaby ahnen nicht, dass ihr Freund in großer Gefahr ist ...",
+  "release_year": 2021,
+  "release_date": "2021-06-18",
+  "duration_seconds": 3608,
+  "cast": [
+    {
+      "role": "-Erzähler/in-",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Elke Biberheim",
+      "person": "Maud Ackermann"
+    },
+    {
+      "role": "Frau Sauerlich",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Gabriele \"Pfote\" Glockner",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Hans Sohnemann",
+      "person": "André Busche"
+    },
+    {
+      "role": "Herr Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Josefine",
+      "person": "Eva Weißmann"
+    },
+    {
+      "role": "Karl \"Computer\" Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Wolfang Draeger"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Kommissarin Hübner",
+      "person": "Nova Meierhenrich"
+    },
+    {
+      "role": "Lotte Jung",
+      "person": "Nora Tschirner"
+    },
+    {
+      "role": "Mann",
+      "person": "Ivo Möller"
+    },
+    {
+      "role": "Margot Glockner",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Markus Scholler",
+      "person": "Olli Schulz"
+    },
+    {
+      "role": "Monique van Dorten",
+      "person": "Monika Werner"
+    },
+    {
+      "role": "Peter \"Tarzan / Tim\" Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Willi \"Klößchen\" Sauerlich",
+      "person": "Manou Lubowski"
+    }
+  ],
+  "production": [],
+  "tracks": [],
+  "editions": [],
+  "sources": [
+    {
+      "url": "https://www.tkkg.de/produkte/details/terror-frei-haus-1",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "description",
+        "release_date",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f219",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    }
+  ]
+}

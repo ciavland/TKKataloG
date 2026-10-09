@@ -1,0 +1,191 @@
+{
+  "number": 80,
+  "title": "Weißes Gift im Nachtexpress",
+  "description": "Onkel und Tante Streiwitz mit Sohn Dieter aus Dresden sind zu Besuch bei Klößchens Eltern. Sie entdecken, dass Sauerlichs protziger Villennachbar Helmut Landers in Wirklichkeit Malchow heißt und beim früheren Staatssicherheitsdienst ein gefürchteter Typ war. Er hatte Onkel Streiwitz für drei Jahre unschuldig ins Gefängnis gebracht. Bevor Malchow-Landers entlarvt werden kann, geschieht ein Verbrechen. Es geht um Rauschgift im Nachtexpress...",
+  "release_year": 1992,
+  "release_date": null,
+  "duration_seconds": 2956,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Otto Pawelke",
+      "person": "Harald Eggers"
+    },
+    {
+      "role": "Herbert Schrottalski",
+      "person": "Werner Cartano"
+    },
+    {
+      "role": "Dr. Helmut Landers",
+      "person": "Holger Mahlich"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    },
+    {
+      "role": "Manfred Steiwitz",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Elke Streiwitz",
+      "person": "Micaela Kreißler"
+    },
+    {
+      "role": "Dieter Streiwitz",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Jörg Schreyle",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Mehmet Kozluk",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Irene Hansen",
+      "person": "Karin Eckhold"
+    },
+    {
+      "role": "Bert Hansen",
+      "person": "Marc Seidenberg"
+    },
+    {
+      "role": "Inspektor Glaubniks",
+      "person": "Wolfgang Schimmelpfennig"
+    },
+    {
+      "role": "Malwine Schwarzhaupt",
+      "person": "Anne Marks-Rocke"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1992 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Spiegelglatt"
+    },
+    {
+      "position": 2,
+      "title": "Kurier aus Istanbul"
+    },
+    {
+      "position": 3,
+      "title": "Perfekte Tarnung"
+    },
+    {
+      "position": 4,
+      "title": "Fünf Kilo Heroin"
+    },
+    {
+      "position": 5,
+      "title": "Raus mit der Maus!"
+    },
+    {
+      "position": 6,
+      "title": "Auf der Flucht"
+    },
+    {
+      "position": 7,
+      "title": "Kampfbettler"
+    },
+    {
+      "position": 8,
+      "title": "Alles gelaufen!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1992 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219903747 (MC) / 743219903723 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f80",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-080/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

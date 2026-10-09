@@ -1,0 +1,163 @@
+{
+  "number": 152,
+  "title": "Max und Anna, ein diebisches Paar",
+  "description": "Durch einen Autounfall ihrer Mitschülerin Sofia aus der Abiturklasse, kommen TKKG einem Haschisch-Kurier auf die Spur, der für seinen Boss anscheinend auch als Kassierer von Drogengeld jobbt. Tim, Karl, Klößchen und Gaby ermitteln und geraten in einen heißen Fall. Es geht um viel Geld, um eine letzte Frist, um Betrug und einen Taschendieb als Sündenbock.",
+  "release_year": 2006,
+  "release_date": null,
+  "duration_seconds": 3492,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Sofie Mannobis",
+      "person": "Kaya Möller"
+    },
+    {
+      "role": "Max Ingo Käsch",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Anna",
+      "person": "Céline Fontanges"
+    },
+    {
+      "role": "Benedikt Plötze",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Paul Malik",
+      "person": "Eberhard Haar"
+    },
+    {
+      "role": "Kurti",
+      "person": "Holger Potzern"
+    },
+    {
+      "role": "Dragon Luskiuso",
+      "person": "Carlos Biedermann"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2006 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Bekifft am Lenkrad"
+    },
+    {
+      "position": 2,
+      "title": "Schulden beim Geldhai"
+    },
+    {
+      "position": 3,
+      "title": "Schweinepest und Hühnergrippe"
+    },
+    {
+      "position": 4,
+      "title": "Getrennt marschieren"
+    },
+    {
+      "position": 5,
+      "title": "Klößchen wird beklaut"
+    },
+    {
+      "position": 6,
+      "title": "Infos von Wespe"
+    },
+    {
+      "position": 7,
+      "title": "Dragon, der Pickpocket-Klemmer"
+    },
+    {
+      "position": 8,
+      "title": "Fuchsschlau kombiniert"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "21. Juli 2006",
+      "EAN": "828768497746 (MC) / 828768497722 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f152",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-152/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

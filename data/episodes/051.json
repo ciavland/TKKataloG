@@ -1,0 +1,155 @@
+{
+  "number": 51,
+  "title": "Gangster auf der Gartenparty",
+  "description": "Sauerlichs feiern eine Garten-Party und als die Stimmung auf dem Höhepunkt ist, gibt es eine böse Überraschung: Herr Sauerlich und Tim sind verschwunden - eine atemberaubende Jagd beginnt! Und vielleicht hätte alles ein böses Ende genommen, wäre nicht einer der Gangster Klavierspieler gewesen!",
+  "release_year": 1987,
+  "release_date": null,
+  "duration_seconds": 2454,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Scarlet Lubowski"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Ursula von Bose"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Ritchie Kessling",
+      "person": "Frank-Dieter Tausch"
+    },
+    {
+      "role": "Paul Obrecht",
+      "person": "Horst Michael Neutze"
+    },
+    {
+      "role": "Pauline Obrecht",
+      "person": "Heta Mantsheff"
+    },
+    {
+      "role": "Gast",
+      "person": "Bernd Schmidt"
+    },
+    {
+      "role": "Hermann Sauerlich",
+      "person": "Henry König"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Gummistiefel zum Abendkleid"
+    },
+    {
+      "position": 2,
+      "title": "Verwahrlostes Haus"
+    },
+    {
+      "position": 3,
+      "title": "Gangster mit Pistole"
+    },
+    {
+      "position": 4,
+      "title": "Verstimmtes Klavier"
+    },
+    {
+      "position": 5,
+      "title": "Bitte keine Tränen"
+    },
+    {
+      "position": 6,
+      "title": "Schreckliche Angst"
+    },
+    {
+      "position": 7,
+      "title": "Kontrollpunkt B"
+    },
+    {
+      "position": 8,
+      "title": "Nix Piano!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1987 (MC) / 25. November 2005 (CD)",
+      "EAN": "743219900944 (MC) / 743219900920 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f51",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-051/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

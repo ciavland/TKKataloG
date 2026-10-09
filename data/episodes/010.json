@@ -1,0 +1,187 @@
+{
+  "number": 10,
+  "title": "Alarm im Zirkus Sarani",
+  "description": "Doppelte Gefahr droht von unbekannten Erpressern. 100.000 Mark soll ein Supermarkt bezahlen und eine Millionen die Stadt! \"Wir verseuchen das gesamte Grundwasser!\" drohen die Erpresser. Die Freunde von der TKKG helfen der Polizei und stoßen auf eine heiße Fährte...",
+  "release_year": 1982,
+  "release_date": null,
+  "duration_seconds": 2366,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Erwin Hibler",
+      "person": "Lothar Grützner"
+    },
+    {
+      "role": "Wolfram Watzl",
+      "person": "Gottfried Kramer"
+    },
+    {
+      "role": "Richard Klemm",
+      "person": "Rüdiger Schulzki"
+    },
+    {
+      "role": "Leibrecht",
+      "person": "Karl-Heinz Gerdesmann"
+    },
+    {
+      "role": "Silberschatz",
+      "person": "Andreas Wolters"
+    },
+    {
+      "role": "Dirk Rettberg",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Blitti Polakow",
+      "person": "Marek Harloff"
+    },
+    {
+      "role": "Kassiererin",
+      "person": "Ingeburg Kanstein"
+    },
+    {
+      "role": "Dr. Kausch",
+      "person": "Günther Flesch"
+    },
+    {
+      "role": "Rausschmeißer 1",
+      "person": "Joachim Baumert"
+    },
+    {
+      "role": "Rausschmeißer 2",
+      "person": "Willem Fricke"
+    },
+    {
+      "role": "Polizeiobermeister Mayr",
+      "person": "Rüdiger Schulzki"
+    },
+    {
+      "role": "Zirkusdirektor Rettberg",
+      "person": "Volker Bogdan"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1980 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Einladung zur Zirkusschule"
+    },
+    {
+      "position": 2,
+      "title": "Schiefnase taucht auf"
+    },
+    {
+      "position": 3,
+      "title": "Blitti und Dirk, die neuen Freunde"
+    },
+    {
+      "position": 4,
+      "title": "Ein Erpresser bedroht die Stadt"
+    },
+    {
+      "position": 5,
+      "title": "Das X bei den \"steinernen Riesen\""
+    },
+    {
+      "position": 6,
+      "title": "Der Trick mit der gelben Tasche"
+    },
+    {
+      "position": 7,
+      "title": "Eine heiße Spur"
+    },
+    {
+      "position": 8,
+      "title": "Letzter Akt in der Waldschänke"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "LP / MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1982 (LP / MC) / 1. September 2003 (CD)",
+      "EAN": "743219896841 (MC) / 743219896827 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f10",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-010/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

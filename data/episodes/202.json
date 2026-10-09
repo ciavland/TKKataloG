@@ -1,0 +1,191 @@
+{
+  "number": 202,
+  "title": "Ein Paradies für Diebe",
+  "description": "Gaby und Tim beobachten auf einem Marktplatz mitten in der Millionenstadt eine junge Diebin, die mit einem schnellen Griff einen Ring in ihrer Hosentasche verschwinden lässt. Als die beiden dem Mädchen folgen, wird Tim von einem Mann gestoppt, festgehalten und dann sogar selbst des Diebstahls bezichtigt! TKKG machen sich sofort an die Detektivarbeit und sind schon bald einem Gaunerduo auf den Fersen. Die Spur führt in die Internatsschule und ins Kaufhaus Paradies...",
+  "release_year": 2017,
+  "release_date": null,
+  "duration_seconds": 4005,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Mattes Langer",
+      "person": "Jannik Schümann"
+    },
+    {
+      "role": "Jörg Lammert",
+      "person": "Harald Weiler"
+    },
+    {
+      "role": "Luisa Burg",
+      "person": "Lucia Dahlem"
+    },
+    {
+      "role": "Melanie Müßig",
+      "person": "Clarissa Börner"
+    },
+    {
+      "role": "Bruno Jakobs",
+      "person": "Sven Dahlem"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Heidi Krumm",
+      "person": "Rosemarie Wohlbauer"
+    },
+    {
+      "role": "Beck",
+      "person": "Christopher Hoseit"
+    },
+    {
+      "role": "Thorsten Wieland",
+      "person": "Stefanie Kirchberger"
+    },
+    {
+      "role": "Henna Stier",
+      "person": "Marion Gretchen Schmitz"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Geräusche und Effekte",
+      "value": "Wanda Osten, André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten, Maike Müller"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH."
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Haltet den Dieb!"
+    },
+    {
+      "position": 2,
+      "title": "Falsches Spiel"
+    },
+    {
+      "position": 3,
+      "title": "Im Einkaufsparadies"
+    },
+    {
+      "position": 4,
+      "title": "Wer hat wen am Haken?"
+    },
+    {
+      "position": 5,
+      "title": "Erste Geständnisse"
+    },
+    {
+      "position": 6,
+      "title": "Die Spur der cobaltgrünen Kette"
+    },
+    {
+      "position": 7,
+      "title": "Spießrutenlauf auf dem Polizeiposten"
+    },
+    {
+      "position": 8,
+      "title": "Im Pumakäfig"
+    },
+    {
+      "position": 9,
+      "title": "Der Staatsanwalt gibt grünes Licht"
+    },
+    {
+      "position": 10,
+      "title": "Flucht nach Belgrad?"
+    },
+    {
+      "position": 11,
+      "title": "Paris, Paris!"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "22. September 2017",
+      "EAN": "889853901920"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f202",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-202/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

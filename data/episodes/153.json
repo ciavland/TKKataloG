@@ -1,0 +1,167 @@
+{
+  "number": 153,
+  "title": "Es geschah in einer Regennacht",
+  "description": "Computer-Karl macht eine unglaubliche Entdeckung: Auf dem Gemälde eines weltberühmten Künstlers ist eine erst vor kurzem eröffnete Veroneser Boutique dargestellt. Doch der Künstler ist Monate zuvor verschollen. Von einer Wanderung im Südtiroler Hochgebirge kehrte er nie zurück. Und niemand glaubt, dass er noch lebt. Doch das Gemälde ist zweifellos echt. Bei ihren Ermittlungen decken TKKG ein Verbrechen auf, das es so noch nie gab - und geraten dabei selbst in allergrößte Gefahr!",
+  "release_year": 2007,
+  "release_date": null,
+  "duration_seconds": 3410,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Markus Dilch",
+      "person": "Rainer Schmitt"
+    },
+    {
+      "role": "Olaf Zackler",
+      "person": "Michael Bideller"
+    },
+    {
+      "role": "Leonardo Gehrmann",
+      "person": "Helgo Liebig"
+    },
+    {
+      "role": "Dr. Andreas Lohm",
+      "person": "Herbert Tenningkeit"
+    },
+    {
+      "role": "Kassiererin",
+      "person": "Wanda Osten"
+    },
+    {
+      "role": "Fleurie Schuck",
+      "person": "Kerstin Draeger"
+    },
+    {
+      "role": "Bruno Martens",
+      "person": "Eric Schaeffler"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger ·"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack ·"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2007 Eine Produktion der SONY BMG MUSIC ENTERTAINMENT (GERMANY) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Tims k.o. unterm Baumgerüst"
+    },
+    {
+      "position": 2,
+      "title": "Wo ist der tanzende Tiger?"
+    },
+    {
+      "position": 3,
+      "title": "Name im Seidenfutter"
+    },
+    {
+      "position": 4,
+      "title": "In Dilchs Appartment"
+    },
+    {
+      "position": 5,
+      "title": "Fleurie von gegenüber"
+    },
+    {
+      "position": 6,
+      "title": "Zwei Millionen Lösegeld"
+    },
+    {
+      "position": 7,
+      "title": "Ein echter Simonka"
+    },
+    {
+      "position": 8,
+      "title": "Karls unglaubliche Erkenntnis"
+    },
+    {
+      "position": 9,
+      "title": "Angriff auf TKKG"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "12. Januar 2007",
+      "EAN": "828768635841 (MC) / 828768635827 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f153",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-153/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

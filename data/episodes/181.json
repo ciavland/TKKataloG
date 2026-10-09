@@ -1,0 +1,187 @@
+{
+  "number": 181,
+  "title": "Der vertauschte Koffer",
+  "description": "Wenn jemand freiwillig auf eine Viertelmillion Euro verzichtet - dann muss er entweder verrückt sein, oder er hat etwas zu verbergen. Welche der beiden Möglichkeiten trifft auf die reizende, ältere Dame zu, die Klößchen im Zug kennengelernt hat? Warum will sie nicht zugeben, dass der Koffer mit dem Riesenbatzen Geld ihr gehört? Und was hat ihr Sohn mit der Sache zu tun? Tim, Karl, Klößchen und Gaby forschen nach - und begeben sich dabei in große Gefahr...",
+  "release_year": 2013,
+  "release_date": null,
+  "duration_seconds": 3915,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Erna Sauerlich",
+      "person": "Marianne Bernhardt"
+    },
+    {
+      "role": "Elfriede Düsberg",
+      "person": "Heidi Berndt"
+    },
+    {
+      "role": "Bruno Düsberg",
+      "person": "Leonhard Mahlich"
+    },
+    {
+      "role": "Kommissar Hassel",
+      "person": "Guido A. Schick"
+    },
+    {
+      "role": "Enno",
+      "person": "Fabian Harloff"
+    },
+    {
+      "role": "Piet",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Zugansage",
+      "person": "Eberhard Haar"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Katja Brügger nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten und Maike Nagel"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Cover Illustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der SONY MUSIC ENTERTAINMENT (Germany) GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Eine Zugfahrt mit Beule"
+    },
+    {
+      "position": 2,
+      "title": "Schweizer Käsefondue"
+    },
+    {
+      "position": 3,
+      "title": "Damenunterwäsche"
+    },
+    {
+      "position": 4,
+      "title": "Missglückter Koffertausch"
+    },
+    {
+      "position": 5,
+      "title": "Einbruch ohne Diebstahl"
+    },
+    {
+      "position": 6,
+      "title": "Fiese Verdächtigungen"
+    },
+    {
+      "position": 7,
+      "title": "Elfriede packt aus"
+    },
+    {
+      "position": 8,
+      "title": "Ein Sohn auf Abwegen"
+    },
+    {
+      "position": 9,
+      "title": "Kampf um den Koffer"
+    },
+    {
+      "position": 10,
+      "title": "Gaby in Gefahr"
+    },
+    {
+      "position": 11,
+      "title": "Ehrlich währt am längsten"
+    },
+    {
+      "position": 12,
+      "title": "Uhrenvergleich"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "15. Februar 2013",
+      "EAN": "887654283320"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f181",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-181/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

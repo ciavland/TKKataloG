@@ -1,0 +1,187 @@
+{
+  "number": 137,
+  "title": "Verschleppt ins Tal Diabolo",
+  "description": "Die beiden Schwerverbrecher Riedmeyer und Stritzihoff fliehen aus dem Hochsicherheitstrakt der Strafanstalt, rüsten sich aus mit schweren Waffen aus ihren Versteck und überfallen einen Geldtransporter. Beute: 10 Millionen Euro. Ein Riesenpech für Tim und Gabi, dass sie gerade in dieser Minute an dem einsam gelegenen Tatort vorbeikommen. Unter Waffengewalt werden sie als Geiseln genommen. Die Verbrecher wissen, dass ihre Flucht in den Süden nicht einfach wird, da ist die Tochter des bekanntesten Kriminalkommissars als Geisel gerade recht. Und Tim sowieso. Denn die Gangster verwechseln ihn mit dem Sohn des Oberbürgermeisters. Für Tim und Gaby, mit Handschellen aneinander gefesselt, beginnt ein Höllentrip.",
+  "release_year": 2003,
+  "release_date": null,
+  "duration_seconds": 3208,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Karl Stritzihoff („Stritzi“)",
+      "person": "Christian Rudolf"
+    },
+    {
+      "role": "Inspektor Bienert („Wespe“)",
+      "person": "Cäsar"
+    },
+    {
+      "role": "Erich Schulten",
+      "person": "Gustay-Adolph Artz"
+    },
+    {
+      "role": "Marion Schulten",
+      "person": "Linde Fulda"
+    },
+    {
+      "role": "Bernd Riedmeyer",
+      "person": "Wolf Frass"
+    },
+    {
+      "role": "Olaf Riedmeyer",
+      "person": "Tammo Kaulbarsch"
+    },
+    {
+      "role": "Sofia Ulango",
+      "person": "Michaela Boland"
+    },
+    {
+      "role": "Charlotte Lampe",
+      "person": "Anja Topf"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "TKKG-Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Verlag",
+      "value": "BMG Ariola Miller"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 2003 BMG Ariola Miller"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Die rechte Hand des Satans"
+    },
+    {
+      "position": 2,
+      "title": "Roberto sagt aus"
+    },
+    {
+      "position": 3,
+      "title": "Das Märchen vom Überfall"
+    },
+    {
+      "position": 4,
+      "title": "Roberto legt nach"
+    },
+    {
+      "position": 5,
+      "title": "Schauspielerisches Talent"
+    },
+    {
+      "position": 6,
+      "title": "Unaufgeklärte Verbrechen"
+    },
+    {
+      "position": 7,
+      "title": "Klartext"
+    },
+    {
+      "position": 8,
+      "title": "Zur falschen Zeit am falschen Ort"
+    },
+    {
+      "position": 9,
+      "title": "Verschleppt"
+    },
+    {
+      "position": 10,
+      "title": "Rachegelüste"
+    },
+    {
+      "position": 11,
+      "title": "Im Laderaum"
+    },
+    {
+      "position": 12,
+      "title": "Genua kannst du vergessen"
+    },
+    {
+      "position": 13,
+      "title": "Überraschung im Bungalow"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1. September 2003",
+      "EAN": "743219886040 (MC) / 743219886026 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f137",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-137/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

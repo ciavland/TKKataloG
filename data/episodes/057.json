@@ -1,0 +1,167 @@
+{
+  "number": 57,
+  "title": "Jagt das rote Geisterauto!",
+  "description": "Ein offenbar wahnsinniger Autofahrer verbreitet mit seinem roten Sportwagen Angst und Schrecken. Absichtlich überfährt er Fußgänger und Radfahrer. Als auch Computer-Karl ein Opfer des Irren wird, nehmen die TKKG-Freunde die Jagd auf - und jetzt wird es richtig gefährlich, denn sie stoßen in ein Wespennest des Verbrechens...",
+  "release_year": 1988,
+  "release_date": null,
+  "duration_seconds": 2774,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Eric Vaessen"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Marga Heinze",
+      "person": "Astrid Kollex"
+    },
+    {
+      "role": "Jan Zeckel",
+      "person": "Marco Kröger"
+    },
+    {
+      "role": "Leo Zeckel",
+      "person": "Richard Delanoff"
+    },
+    {
+      "role": "Paul Rode",
+      "person": "Manfred Liptow"
+    },
+    {
+      "role": "Seibold",
+      "person": "Douglas Welbat"
+    },
+    {
+      "role": "Adolf Hussler",
+      "person": "Wolf Rathjen"
+    },
+    {
+      "role": "Polizeifunkzentrale",
+      "person": "Beate Hasenau"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1988 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Unfall auf Unfall"
+    },
+    {
+      "position": 2,
+      "title": "Schokologischer Verstand"
+    },
+    {
+      "position": 3,
+      "title": "Bombendrohung"
+    },
+    {
+      "position": 4,
+      "title": "Kopfverletzung"
+    },
+    {
+      "position": 5,
+      "title": "Firmengeheimnisse"
+    },
+    {
+      "position": 6,
+      "title": "Kein Alibi"
+    },
+    {
+      "position": 7,
+      "title": "Offener Geldschrank"
+    },
+    {
+      "position": 8,
+      "title": "Fahrerflucht"
+    },
+    {
+      "position": 9,
+      "title": "Rasendes Verkehrsmonster"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1988 (MC) / 21. April 2006 (CD)",
+      "EAN": "743219901545 (MC) / 743219901521 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f57",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-057/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

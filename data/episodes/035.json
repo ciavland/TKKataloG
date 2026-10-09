@@ -1,0 +1,175 @@
+{
+  "number": 35,
+  "title": "Die Nacht des Überfalls",
+  "description": "Nur ein paar Minuten läßt Frau Vorbeck ihr Baby im Kinderwagen allein - zu lange! Die kleine Nicole wird entführt. Aber die Kidnapper wollen kein Geld. Was aber wollen sie dann? Die TKKG-Bande nimmt die Ermittlungen auf, aber sie kommt nicht recht voran - bis Klößchen einen Geistesblitz hat...",
+  "release_year": 1985,
+  "release_date": null,
+  "duration_seconds": 2300,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günther Dockerill"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Emil Glockner",
+      "person": "Wolfgang Draeger"
+    },
+    {
+      "role": "Barbara Vorbeck",
+      "person": "Lotti Krekel"
+    },
+    {
+      "role": "Margot Lipscher",
+      "person": "Judy Winter"
+    },
+    {
+      "role": "Bettler",
+      "person": "Ernst H. Hilbich"
+    },
+    {
+      "role": "Lammel",
+      "person": "Peter Lakenmacher"
+    },
+    {
+      "role": "Herr Schmuckstein",
+      "person": "Hans Paetsch"
+    },
+    {
+      "role": "Knut Nabold",
+      "person": "Oliver Rohrbeck"
+    },
+    {
+      "role": "Volker Fatz",
+      "person": "Andreas Fröhlich"
+    },
+    {
+      "role": "Albert Pitowsky",
+      "person": "Jens Wawrczeck"
+    },
+    {
+      "role": "Verkäuferin beim Juwelier",
+      "person": "Heidi Schaffrath"
+    },
+    {
+      "role": "Doris „Claudia“ Lipscher",
+      "person": "Marita Fliege"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbearbeitung",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1985 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "\"Die rasende Hängematte\""
+    },
+    {
+      "position": 2,
+      "title": "Ein Blinder mit Durchblick"
+    },
+    {
+      "position": 3,
+      "title": "An der falschen Adresse"
+    },
+    {
+      "position": 4,
+      "title": "Im Winter auf Mallorca"
+    },
+    {
+      "position": 5,
+      "title": "Verschleppt!"
+    },
+    {
+      "position": 6,
+      "title": "Gestohlener Schnaps"
+    },
+    {
+      "position": 7,
+      "title": "Eine bodenlose Dummheit"
+    },
+    {
+      "position": 8,
+      "title": "Umfassendes Geständnis"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1984 (MC) / 14. Februar 2005 (CD)",
+      "EAN": "743219899347 (MC) / 743219899323 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f35",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-035/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

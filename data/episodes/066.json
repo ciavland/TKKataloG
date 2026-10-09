@@ -1,0 +1,171 @@
+{
+  "number": 66,
+  "title": "Gauner mit der \"Goldenen Hand\"",
+  "description": "Ein genialer Bilderfälscher und ein Meisterdieb planen den Coup des Jahrhunderts. Die Gauner mit der \"Goldenen Hand\" fälschen wertvolle Gemälde, um dann die echten Bilder zu stehlen. Aber die Ganoven machen ihren Plan ohne die TKKG-Freunde, die mal wieder Lunte gerochen haben, jedoch nicht ahnen, auf was für ein gefährliches Spiel sie sich einlassen.",
+  "release_year": 1989,
+  "release_date": null,
+  "duration_seconds": 2297,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kuno Leckler",
+      "person": "Gerolf Benton"
+    },
+    {
+      "role": "Stefanie Claasen",
+      "person": "Cordula Habel"
+    },
+    {
+      "role": "Otto Plegel",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Caroline von Färber",
+      "person": "Katrin Jaekel"
+    },
+    {
+      "role": "Theodor Mälzig",
+      "person": "Michael Quiatkowsky"
+    },
+    {
+      "role": "Guiseppe Ariano",
+      "person": "Lutz Harder"
+    },
+    {
+      "role": "Hans-Rüdiger Krachwang",
+      "person": "Ernst A. Frantz"
+    },
+    {
+      "role": "Katharina von Hippe",
+      "person": "Gabriele Libbach"
+    },
+    {
+      "role": "Garderobenbedienung",
+      "person": "Anne Schermutzki"
+    },
+    {
+      "role": "Olaf Präht",
+      "person": "Michael Harck"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Hörspielbuch",
+      "value": "H.G. Francis"
+    },
+    {
+      "credit": "TKKG - Die Profis in spe",
+      "value": "Bonda/Büscher"
+    },
+    {
+      "credit": "Künstlerische Gesamtleitung",
+      "value": "Prof. Dr. Beurmann"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "1989 by Pelikan AG-Hannover / Tonstudio Europa"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Tonstudio-Europa-Produktion"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Besuch im Euro-Museum"
+    },
+    {
+      "position": 2,
+      "title": "Säure-Anschlag"
+    },
+    {
+      "position": 3,
+      "title": "Unversichertes Gemäle"
+    },
+    {
+      "position": 4,
+      "title": "Fehlendes Kunstverständnis"
+    },
+    {
+      "position": 5,
+      "title": "Original und Fälschung"
+    },
+    {
+      "position": 6,
+      "title": "Maskiert"
+    },
+    {
+      "position": 7,
+      "title": "Diebstahl auf Bestellung"
+    },
+    {
+      "position": 8,
+      "title": "Genialer Trick"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "1989 (MC) / 22. September 2006 (CD)",
+      "EAN": "743219902443 (MC) / 743219902429 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f66",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-066/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

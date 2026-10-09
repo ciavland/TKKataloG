@@ -1,0 +1,151 @@
+{
+  "number": 100,
+  "title": "Fieser Trick mit Nr. 100",
+  "description": "Hofgartenallee Nr. 100 war früher eine gute Adresse. Doch seit die Allee zur Stadtautobahn verkommen ist - mit Lärm und Abgasen - will hier niemand mehr wohnen. Max und Fred Lauerbier, die Eigentümer des Grundstücks, finden keinen Käufer für ihre Immobilie. Aber sie lassen sich einen Trick einfallen, der Nr. 100 scheinbar unermeßlich wertvoll macht - und zu einer Horrornacht führt: mit Schatzsuchern, drei betäubten Wachhunden und einem Knasti und TKKG als Bodyguard für eine bedrohte Frau und deren Tochter.",
+  "release_year": 1996,
+  "release_date": null,
+  "duration_seconds": 2718,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Günter König"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Veronika Neugebauer"
+    },
+    {
+      "role": "Kommissar Glockner",
+      "person": "Edgar Bessen"
+    },
+    {
+      "role": "Max Lauerbier",
+      "person": "Frank Felicetti"
+    },
+    {
+      "role": "Lena Kosemund",
+      "person": "Victoria von Trautmannsdorff"
+    },
+    {
+      "role": "Sarah Kosemund",
+      "person": "Sarah Scholz"
+    },
+    {
+      "role": "Dieter Ochsjau",
+      "person": "Wolf Rathjen"
+    },
+    {
+      "role": "Wilhelm Reibach",
+      "person": "Thomas Schüler"
+    },
+    {
+      "role": "Kaufinteressent",
+      "person": "Michael von Rospatt"
+    },
+    {
+      "role": "Fred Lauerbier",
+      "person": "Holger Mahlich"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Redaktion und Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "TKKG-Titelmusik",
+      "value": "GEMA Ralph Bonda"
+    },
+    {
+      "credit": "Design",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "Illustration",
+      "value": "Reiner Stolte"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine BMG Ariola Miller Produktion"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "© 1996 BMG Ariola Miller GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Acht Jahre hinter Gitter"
+    },
+    {
+      "position": 2,
+      "title": "50.000,- bar auf die Kralle"
+    },
+    {
+      "position": 3,
+      "title": "Bestohlene Diebe"
+    },
+    {
+      "position": 4,
+      "title": "Lauscher an der Wohnungstür"
+    },
+    {
+      "position": 5,
+      "title": "Schlaftabletten für Hunde"
+    },
+    {
+      "position": 6,
+      "title": "Fieser Trick mit Nr. 100"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "MC / CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "7. Oktober 1996",
+      "EAN": "743213956848 (MC) / 743213956824 (CD)"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f100",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-100/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "number": 196,
+  "title": "Tatort Wagenburg",
+  "description": "Tim beobachtet einen Polizeieinsatz am \"Bunten Hund\" - einem Platz, auf dem ein Dutzend Menschen in ihren umgebauten Bauwagen leben. Unter dem alten Eisenbahnwaggon von Gottfried Lackner wird Diebesgut sichergestellt. Das Motiv des Täters liegt auf der Hand und die Beweislage scheint eindeutig. Aber dann stecken TKKG ihre Nasen in den Fall und finden zwei Personen, die gute Gründe hätten, Gottfried Lackner den Diebstahl anzuhängen. Wer ist also der wirkliche Übeltäter? Gibt es einen Auftraggeber? Und was hat der ominöse rothaarige Krauskopf mit den Ereignissen zu tun?",
+  "release_year": 2016,
+  "release_date": null,
+  "duration_seconds": 3823,
+  "cast": [
+    {
+      "role": "Erzähler",
+      "person": "Wolfgang Kaven"
+    },
+    {
+      "role": "Tim / Tarzan / Peter Carsten",
+      "person": "Sascha Draeger"
+    },
+    {
+      "role": "Karl Vierstein / Computer",
+      "person": "Niki Nowotny"
+    },
+    {
+      "role": "Klößchen / Willi Sauerlich",
+      "person": "Manou Lubowski"
+    },
+    {
+      "role": "Gaby Glockner / Pfote",
+      "person": "Rhea Harder"
+    },
+    {
+      "role": "Kommissar Schalavsky",
+      "person": "Stephan Schad"
+    },
+    {
+      "role": "Gottfried Lackner",
+      "person": "Till Huster"
+    },
+    {
+      "role": "Pia Vogt",
+      "person": "Pia Werfel"
+    },
+    {
+      "role": "Angela Tiemann (Anti)",
+      "person": "Birte Kretschmer"
+    },
+    {
+      "role": "Julien",
+      "person": "Tim Kreuer"
+    },
+    {
+      "role": "Ewa Mandel",
+      "person": "Angela Roy"
+    },
+    {
+      "role": "Eddi Jäger",
+      "person": "Jörg Pleva"
+    },
+    {
+      "role": "Philipp Futterknecht",
+      "person": "Michael Harck"
+    },
+    {
+      "role": "Viva",
+      "person": "Norma Draeger"
+    },
+    {
+      "role": "Karl Vierstein",
+      "person": "Tobias Diakow"
+    }
+  ],
+  "production": [
+    {
+      "credit": "Produktion und Regie",
+      "value": "Heikedine Körting"
+    },
+    {
+      "credit": "Buch",
+      "value": "Martin Hofstetter nach Motiven von Stefan Wolf"
+    },
+    {
+      "credit": "Effekte",
+      "value": "André Minninger"
+    },
+    {
+      "credit": "Redaktion",
+      "value": "Maike Müller, Wanda Osten"
+    },
+    {
+      "credit": "Geräusche",
+      "value": "Wanda Osten"
+    },
+    {
+      "credit": "Coverillustration",
+      "value": "Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte"
+    },
+    {
+      "credit": "Rahmendesign",
+      "value": "KB&B"
+    },
+    {
+      "credit": "Gestaltung",
+      "value": "Atelier Schoedsack"
+    },
+    {
+      "credit": "„TKKG - Die Profis in spe“",
+      "value": "Bonda / Büscher"
+    },
+    {
+      "credit": "Musik",
+      "value": "Tonstudio EUROPA"
+    },
+    {
+      "credit": "Weitere Angabe",
+      "value": "Eine Produktion der Sony Music Entertainment Germany GmbH"
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "title": "Polizeieinsatz am Hundssteig"
+    },
+    {
+      "position": 2,
+      "title": "Wie Einbrecher"
+    },
+    {
+      "position": 3,
+      "title": "Flüsterbesuch"
+    },
+    {
+      "position": 4,
+      "title": "Alles läuft aus dem Ruder"
+    },
+    {
+      "position": 5,
+      "title": "Das Kriminologische im Blut"
+    },
+    {
+      "position": 6,
+      "title": "Kommissar „Glocke“"
+    },
+    {
+      "position": 7,
+      "title": "Gelegenheit im Werfelpark"
+    },
+    {
+      "position": 8,
+      "title": "Zweimal hinterher"
+    },
+    {
+      "position": 9,
+      "title": "Der Trick mit dem Brief"
+    },
+    {
+      "position": 10,
+      "title": "Auf der Lauer"
+    }
+  ],
+  "editions": [
+    {
+      "Medium": "CD",
+      "Label": "EUROPA",
+      "Erscheinungstermin": "15. April 2016 (1. Auflage) / 30. September 2016",
+      "EAN": "888751804326 (1. Auflage) / 889853719921"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.hoerspiel-request.de/tkkg.shtml#f196",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "duration_seconds",
+        "release_year",
+        "title"
+      ]
+    },
+    {
+      "url": "https://www.tkkg-site.de/de/hoeren/hoerspiele/serie/folge-196/inhalt.html",
+      "retrieved_at": "2026-10-09",
+      "fields": [
+        "cast",
+        "description",
+        "editions",
+        "production",
+        "title",
+        "tracks"
+      ]
+    }
+  ]
+}
